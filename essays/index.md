@@ -10,7 +10,14 @@ This template includes three sample essays on Southwest food history — nachos,
 
 Browse them to get a feel for the format. When you're ready to build your own project, you'll replace these with your students' essays — same structure, your topic.
 
-{% assign all_pages = site.pages %}
-{% assign cards = all_pages | where_exp: "p", "p.path contains 'essays/'" | where_exp: "p", "p.path != 'essays/index.md'" %}
+{% assign cards = "" | split: "" %}
+{% for p in site.pages %}
+  {% if p.path contains 'essays/' and p.path != 'essays/index.md' and p.name == 'index.md' %}
+    {% assign segments = p.path | split: '/' %}
+    {% if segments.size == 3 %}
+      {% assign cards = cards | push: p %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
 {% include nav/card-grid.html cards=cards %}
