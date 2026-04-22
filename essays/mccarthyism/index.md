@@ -28,7 +28,7 @@ tabs:
 
 McCarthyism refers to the political strategy employed by Senator Joseph R. McCarthy (R-Wisconsin)to publicly question the loyalty of government employees. Even though he often lacked concrete proof of subversive acts, McCarthy's accusations that indivdiuals were Communist sympathizers fed into the American fears and resulted in persecution of the accused who often lost their jobs and were blacklisted from employment. McCarthy rose to public prominence and political power based on his ability to order investigations and silence his detractors.   
 
-The story about how a relatively unknown junior senator from Wisconsin came to wield such power over the American public and the U.S. political system reflects the culture of fear and suspicion based in public paranoia fed by the Second Red Scare and the political spectacle of the McCarthy Hearings. While McCarthy's political downfall would result from the televised Army-McCarthy hearings, the Supreme Court under Chief Justice Earl Warren acted to strengthen the civil liberties of indivividuals against political attacks. 
+The story about how a relatively unknown junior senator from Wisconsin came to wield such power over the American public and the U.S. political system reflects the culture of fear and suspicion based in public paranoia fed by the Second Red Scare and the political spectacle of the McCarthy Hearings. While McCarthy's political downfall would result from the televised Army-McCarthy hearings, the Supreme Court under Chief Justice Earl Warren acted to strengthen the civil liberties of individuals against political attacks. 
 
 ## Joseph McCarthy's Rise to Power 
 
