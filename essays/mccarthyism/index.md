@@ -56,6 +56,10 @@ As noted in the video clip, the American public and press did not ask for eviden
 
 ## The Global Circulation
 
+What follows is another attempt to insert a video, this time by pasting the embed code in an iframe.
+
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/50JLbD0b7Tg" title="McCarthy at Wheeling | McCarthy | American Experience | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
 
 This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
