@@ -48,7 +48,8 @@ Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first 
 youtube video LINK inserted directly into markdown: The impact of this speech was immediate, as described in this clip from PBS' *The American Experience*. [![Watch the video](https://img.youtube.com/vi/VfPG6zbh8REn8SjJ/0.jpg)](https://youtu.be/50JLbD0b7Tg?si=VfPG6zbh8REn8SjJ)
 
 youtube video inserted using embed code using html: The impact of this speech was immediate, as described in this clip from PBS' *The American Experience*. 
-{% include youtube.html id="VfPG6zbh8REn8SjJ" %}
+{% include youtube.html id="VfPG6zbh8REn8SjJ" 
+%}
 As noted in the video clip, the American public and press did not ask for evidence supporting these allegations, but reacted with demands that the State Department purge those employees from government service.   
 
 [^source1]:McCarthy, J. "Address to the League of Women's Voters." Wheeling, West Virgina. February 9, 1950. Accessed at https://teachamericanhistory.wordpress.com/wp-content/uploads/2009/06/mccarthy_wheeling_speech.pdf 
