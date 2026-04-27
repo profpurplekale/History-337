@@ -1,31 +1,30 @@
 ---
-title: "Hippies"
+title: "The Middle East in American Media"
 layout: scrollstory-tabs
-header-image: images/hippies.jpg
-header-title: "The Hippie Movement"
-thumbnail: images/hippies.jpg
-summary: A history of the Hippie Movement.
+header-image: images/personal-computer.jpg
+header-title: "The Middle East in American Media: How Western Portrayal Created a Cultural Enemy"
+thumbnail: images/personal-computer.jpg
+summary: An analysis of Western depictions of Middle Eastern nations
 tabs:
   - id: overview
-    label: Overview of Hippies
+    label: Overview of Middle Eastern Depictions
     url: ./
     active: true
 
   - id: event-1
-    label: The Merry Pranksters
+    label: Islamophobia in the 21st Century
     url: event-1/
 
   - id: event-2
-    label: The Summer of Love
+    label: Cultural Shifts in Film
     url: event-2/
 
   - id: event-3
-    label: Absorption into New Age
+    label: Western Intervention and the Creation of Israel
     url: event-3/
 ---
 
-# Overview of the Hippie Movement
-
+# Overview of Middle Eastern Depictions
 Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
 
 The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.

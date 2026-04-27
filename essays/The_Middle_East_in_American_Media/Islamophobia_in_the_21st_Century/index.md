@@ -7,7 +7,7 @@ thumbnail: ../images/personal-computer.jpg
 summary: A social and cultural history of the personal computer.
 tabs:
   - id: overview
-    label: Overview of the PC
+    label: Overview of Middle Eastern Depictions
     url: ../
 
 
@@ -21,11 +21,11 @@ tabs:
     url: ../event-2/
 
   - id: event-3
-    label: The Early Internet
+    label: Western Intervention and the Creation of Israel
     url: ../event-3/
 ---
 
-# Early Users of Microcomputers
+# Overview of Middle Eastern Depictions
 
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
