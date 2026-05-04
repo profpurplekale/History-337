@@ -2,7 +2,7 @@
 title: "Dear Mr. President"
 layout: scrollstory-tabs
 header-image: ../images/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2xyL3NtaXRoc25ucGducGcyMDExMjVzY290dHNib3JvYm95czAwMDAwMi1pbWFnZS5qcGc.jpg
-header-title: "Dear Mr. President"
+header-title: "WWII and Civil Rights"
 thumbnail: images/Dear_mr_prez.jpg
 summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:
@@ -27,7 +27,8 @@ tabs:
 
 # WWII and Civil Rights
 
-The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
+The 1940s to the 1970s was a stretch of time that harbored conflict and ADD TEXT
+One of the key issues of this broad stretch of time was segregation, and ADD TEXT
 
 ## The Almanac Singers (1942)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRKoIJXGLg" title="Dear Mr. President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.

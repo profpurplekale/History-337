@@ -2,7 +2,7 @@
 title: "Dear Mr. President"
 layout: scrollstory-tabs
 header-image: ../images/capitol-building-washington-dc-usa-congress-thumb-1459632093.jpg
-header-title: "Dear Mr. President"
+header-title: "Poverty and Government"
 thumbnail: ../images/personal-computer.jpg
 summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:

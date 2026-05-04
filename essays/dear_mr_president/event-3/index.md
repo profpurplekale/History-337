@@ -2,7 +2,7 @@
 title: "Dear Mr. President"
 layout: scrollstory-tabs
 header-image: ../images/us-president-george-w-bush-center-waves-to-the-crowd-from-midfield-escorted-d1fc52-640.jpg
-header-title: "Dear Mr. President"
+header-title: "The Bush Administration"
 thumbnail: ../images/personal-computer.jpg
 summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:
