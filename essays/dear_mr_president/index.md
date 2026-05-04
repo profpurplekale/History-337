@@ -35,7 +35,7 @@ importance onto, and how acceptable these ideas were to the general public.
 
 ## Writing to the President
 
-Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling[^2]. This tradition began primarily as a result of "an awareness of the need to understand trends in public opinion and the concurrent rise of internal analysis of public opinion polling".[^3]
+Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling.[^2] This tradition began primarily as a result of "an awareness of the need to understand trends in public opinion and the concurrent rise of internal analysis of public opinion polling".[^3]
 
 {% include typography/pullquote.html text="\"First, opinion registered in the mail is more likely to tell a politician something about the intensity with which the public believes an issue is important. Unlike other forms of collective public opinion, those writing letters to politicians is a more natural expression of opinion referencing an issue that is important to the letter writer.\"" %}[^4]
 
