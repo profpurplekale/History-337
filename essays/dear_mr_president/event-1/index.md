@@ -60,7 +60,7 @@ Seidman, Joel. “Labor Policy of the Communist Party during World War II.” IL
 
 ### About the Artist
 
-ADD TEXT HERE
+Happy Fats, or Leroy Leblac was a ADD TEXT HERE.
 
 ### About the Song
 
