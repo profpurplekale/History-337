@@ -34,7 +34,8 @@ Not all of these songs focused on narrow, specific subject matter. Some of them 
 
 ### About the Artist
 
-ADD TEXT HERE
+4 Non Blondes was formed in YEAR, by NAMES. The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles.(CITATION) Dear Mr. President was released as a single and also included in their album.(CITATION)
+The band DISBANDED? but as of YEAR have resumed ???
 
 ### About the Song
 
