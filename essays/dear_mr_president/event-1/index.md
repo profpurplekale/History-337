@@ -34,12 +34,12 @@ The story of chiles is fundamentally a story of people—farmers, traders, cooks
 
 ### About the Artist
 
-ADD TEXT HERE
+The Almanac Singers were founded in YEAR, after EVENT.(CITATION) Many of the members, including NAME, were involved in political ADD TEXT HERE. For example, Pete Seeger, the ADD TEXT HERE.(CITATION)
 
 ### About the Song
 
-This song was written in YEAR, and release in _____ as a part of an album by the same name.
-The song supports US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive. 
+This song was written in YEAR, and released in _____ as a part of an album by the same name.
+Overall, the song argues in support of US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive. This aligns with SOURCE ABOUT POSITIVE LETTER WRITING. Interestingly, the stances taken here mirror those of the ADD TEXT HERE, which may be related to INVOLVEMENT.(CITATION)
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_mr_prez.jpeg"
