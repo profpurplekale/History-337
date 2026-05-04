@@ -43,7 +43,9 @@ It's no wonder then why so many musicians were influenced by this tradition in t
 
 ## Political Music
 
-Just as voicing one's opinion directly to the president has been an important aspect of politics in America, music has also been as well. Political music has 
+Just as voicing one's opinion directly to the president has been an important aspect of politics in America, music has also been as well. Political music has a long history in the United States, from a multitude of politial perspectives, and have been used to TEXT HERE.[^5]
+
+{% include typography/pullquote.html text="\"Music can enhance historical study by re-creating social and cultural mood and by illustrating an era's common ideas and attitudes.\"" %} [6^]
 
 ---
 
@@ -51,3 +53,5 @@ Just as voicing one's opinion directly to the president has been an important as
 [^2]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451
 [^3]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 453
 [^4]: Rottinghaus, B. (2012). What Predicts Trends in the White House Mail?: The Macro Causes of Mass Political Letter Writing to the Chief Executive: The Macro Causes of Mass Political Letter Writing to the Chief Executive. American Politics Research, 40(2), 205-231.
+[^5]: ???
+[^6]: Rodnitzky, Jerome L. , "The Sixties between the Microgrooves: Using Folk and Protest Music to Understand American History, 1963-1973," Popular Music and Society 23, no. 4 (1999): 105-122.
