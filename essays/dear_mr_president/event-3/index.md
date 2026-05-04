@@ -70,6 +70,8 @@ This source is a song. It is an anti-war song that opposes the Iraq War, and cri
 
 ## Comparison
 
+Both songs critique the Bush administration, but go about it in different ways, with Pink being more ADD TEXT HERE, and Fredwreck being much more ADD TEXT HERE
+
 Gershkoff, Amy, and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 525–37.
 
 Kellner, Douglas. “Bushspeak and the Politics of Lying: Presidential Rhetoric in the ‘War on Terror.’” Presidential Studies Quarterly 37, no. 4 (2007): 622–45.

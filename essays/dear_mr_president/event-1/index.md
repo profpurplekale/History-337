@@ -88,9 +88,9 @@ Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Ha
 
 ## Comparison
 
-Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
+These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being ADD TEXT HERE.(CITATION) Happy Fats, however, takes a staunchly segregationist position, 
 
-The people of the chile continue to shape its story.
+
 
 [^1]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69. https://doi.org/10.2307/2519321. 
 [^2]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 

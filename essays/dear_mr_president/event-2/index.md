@@ -78,11 +78,7 @@ This source is a song. It focuses on the struggles of people in poverty, and how
 
 ## Comparison
 
-Within two centuries of Columbus, chiles had spread to nearly every continent. They found new homes in:
-- **India and Thailand**, where they transformed regional cuisines
-- **Hungary**, where they became paprika
-- **Korea**, where they became essential to kimchi
-- **Africa**, where they integrated with local cooking traditions
+Despite the gap in time between these two songs, they are fairly similar in the broad critiques, as they note issues of poverty and governance that are not tied to any particular event or administration. 
 
 Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
 
