@@ -39,6 +39,8 @@ Political letter writing has long been a tradition in America, and has been an i
 
 {% include typography/pullquote.html text="\"First, opinion registered in the mail is more likely to tell a politician something about the intensity with which the public believes an issue is important. Unlike other forms of collective public opinion, those writing letters to politicians is a more natural expression of opinion referencing an issue that is important to the letter writer.\"" %}[^4]
 
+PUBLIC LETTER WRITING
+
 It's no wonder then why so many musicians were influenced by this tradition in the structure of their songs.
 
 ## Political Music
