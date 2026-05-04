@@ -37,7 +37,7 @@ importance onto, and how acceptable these ideas were to the general public.
 
 Political letter writing has long been a tradition in America, and has been an important way for citizens to make their voice heard. However, it is to a degree, underutilized[^1]. Nonethelesss, such letters allow the president to gauge public opinion and, this can influence desiscions as a result, similar to opinion polling[^2]. This tradition began primarily as a result of "an awareness of the need to understand trends in public opinion and the concurrent rise of internal analysis of public opinion polling".[^3]
 
-ADD TEXT
+{% include typography/pullquote.html text="\"First, opinion registered in the mail is more likely to tell a politician something about the intensity with which the public believes an issue is important. Unlike other forms of collective public opinion, those writing letters to politicians is a more natural expression of opinion referencing an issue that is important to the letter writer.\"" %}[^4]
 
 It's no wonder then why so many musicians were influenced by this tradition in the structure of their songs.
 
@@ -50,3 +50,4 @@ Just as voicing one's opinion directly to the president has been an important as
 [^1]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451
 [^2]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451
 [^3]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 453
+[^4]: Rottinghaus, B. (2012). What Predicts Trends in the White House Mail?: The Macro Causes of Mass Political Letter Writing to the Chief Executive: The Macro Causes of Mass Political Letter Writing to the Chief Executive. American Politics Research, 40(2), 205-231.
