@@ -32,8 +32,10 @@ The story of chiles is fundamentally a story of people—farmers, traders, cooks
 ## The Almanac Singers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRKoIJXGLg" title="Dear Mr. President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
+### Test Header
 
-The song supports US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive.
+This song was written in YEAR, and release in _____ as a part of an album by the same name.
+The song supports US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive. 
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_mr_prez.jpeg"
