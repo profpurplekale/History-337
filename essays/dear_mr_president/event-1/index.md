@@ -47,6 +47,8 @@ The song supports US involvement in World War II, while still leveling some crit
 
 This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.[^1]
 
+Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69.
+
 ## Happy Fats
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLkX2q-phXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
@@ -68,6 +70,10 @@ resisting change rather than calling for it.
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
 This source is a scholarly journal article about anti-black country music in the 1960s. It discusses elements used in this music, and how these served to dehumanize African-Americans and justify segregation. Among the songs looked at, the text includes the Happy Fats song as well.[^2]
+
+Wade, Michael. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
+
+Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531.
 
 ## Comparison
 
