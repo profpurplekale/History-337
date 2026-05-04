@@ -39,7 +39,7 @@ The Almanac Singers were founded in YEAR, after EVENT.(CITATION) Many of the mem
 
 ### About the Song
 
-This song was written in YEAR, and released in _____ as a part of an album by the same name.
+This song was written in YEAR, and released in 1942 as a part of an album by the same name.
 Overall, the song argues in support of US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive. This aligns with SOURCE ABOUT POSITIVE LETTER WRITING. Interestingly, the stances taken here mirror those of the ADD TEXT HERE, which may be related to INVOLVEMENT.(CITATION)
 
 {% include images/figure-wrap.html

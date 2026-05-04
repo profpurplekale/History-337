@@ -52,6 +52,8 @@ This source is a song. It discusses the problems of government very generally, w
 
 Wiser, Carl. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025
 
+This source is a non-academic blog, in which Christa Hillhouse, a member of 4 Non Blondes, discusses the band and their music, including Dear Mr. President. This source shows how some places responded to the song as an attack on the Bush administration, while she states that it was not actually about him specifically. This source is useful for understanding the intended message behind the song, as well as some history of the band from the perspective of one of its members.
+
 
 
 
