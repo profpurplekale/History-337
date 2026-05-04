@@ -7,7 +7,7 @@ thumbnail: images/Dear_mr_prez.jpg
 summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:
   - id: overview
-    label: Overview and Context
+    label: Overview
     url: ../
 
 

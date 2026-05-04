@@ -7,7 +7,7 @@ thumbnail: images/Dear_mr_prez.jpeg
 summary: Songs called "Dear Mr. President" and their place in politics and music over time.
 tabs:
   - id: overview
-    label: Overview and Context
+    label: Overview
     url: ./
     active: true
 
@@ -39,13 +39,15 @@ Political letter writing has long been a tradition in America, and has been an i
 
 {% include typography/pullquote.html text="\"First, opinion registered in the mail is more likely to tell a politician something about the intensity with which the public believes an issue is important. Unlike other forms of collective public opinion, those writing letters to politicians is a more natural expression of opinion referencing an issue that is important to the letter writer.\"" %}[^4]
 
-PUBLIC LETTER WRITING
-
 It's no wonder then why so many musicians were influenced by this tradition in the structure of their songs.
+
+Writing directly to the president, however, is not as good of a way to reach the general public. Public letter writing is also a way that people have made their voices heard, and ADD TEXT HERE
+
+
 
 ## Political Music
 
-Just as voicing one's opinion directly to the president has been an important aspect of politics in America, music has also been as well. Political music has a long history in the United States, from a multitude of politial perspectives, and have been used to TEXT HERE.[^5]
+Another way to reach a broad audience like this is through music. Political music has a long history in the United States, with it being written from a multitude of political perspectives, and have been used to TEXT HERE.[^5]
 
 {% include typography/pullquote.html text="\"Music can enhance historical study by re-creating social and cultural mood and by illustrating an era's common ideas and attitudes.\"" %} [^6]
 
