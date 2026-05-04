@@ -40,6 +40,9 @@ ADD TEXT HERE
 
 This source is a song. It discusses the problems of government very generally, without specifically casting blame on any one figure, or making any specific demands. It does reference issues of the time, such as poverty and drug use.
 
+Some ADD TEXT thought that the song was about GEORGE BUSH? and was banned? CONTEXT as a result, though NAME clarifies in an interview that 
+{% include typography/pullquote.html text="\"TEXT HERE.\"" %}(CITATION)
+
 {% include images/figure-wrap.html
   image-path="../images/4_Non_Blondes_-_Bigger,_Better,_Faster,_More!.jpeg"
   image-position="left"
@@ -48,7 +51,7 @@ This source is a song. It discusses the problems of government very generally, w
   text=chile_origins_text
 %} 
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+
 
 Wiser, Carl. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025
 
