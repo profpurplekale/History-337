@@ -27,9 +27,9 @@ tabs:
 
 # Poverty and Government
 
-From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
+Not all of these songs focused on narrow, specific subject matter. Some of them took a wider scope of issues in society, that transcend specific administrations or policies.
 
-## 4 Non Blondes
+## 4 Non Blondes (1992)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/87HjsK10_74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
@@ -55,7 +55,7 @@ Wiser, Carl. “What’s Going on? The 4 Non Blondes Story : Song Writing.” 
 
 
 
-## Fitz and the Tantrums
+## Fitz and the Tantrums (2010)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HrGq1Zmfnvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist

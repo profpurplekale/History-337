@@ -29,7 +29,7 @@ tabs:
 
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
-## The Almanac Singers
+## The Almanac Singers (1942)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRKoIJXGLg" title="Dear Mr. President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
@@ -55,12 +55,12 @@ This source is an article that discusses the stance of the Communist Party durin
 
 Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69.
 
-## Happy Fats
+## Happy Fats (1971)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sLkX2q-phXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
 
-Happy Fats, or Leroy Leblac was a ADD TEXT HERE.
+Happy Fats, or Leroy Leblanc, was a musician from Louisiana who often performed ADD TEXT HERE.(CITATION) He often recorded songs that advocated segregation, such as Dear Mr. President.(CITATION) (CAJUN MUSIC CITATION).
 
 ### About the Song
 

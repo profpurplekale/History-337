@@ -28,7 +28,7 @@ tabs:
 
 From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
 
-## Pink
+## Pink (2006)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
@@ -54,7 +54,7 @@ Conniff, Tamara. , "Think PINK," Billboard 118, no. 10 (2006): 22
 
 
 
-## Fredwreck
+## Fredwreck (2004)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TZAMeC9znw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
