@@ -45,8 +45,11 @@ It's no wonder then why so many musicians were influenced by this tradition in t
 
 Just as voicing one's opinion directly to the president has been an important aspect of politics in America, music has also been as well. Political music has a long history in the United States, from a multitude of politial perspectives, and have been used to TEXT HERE.[^5]
 
-{% include typography/pullquote.html text="\"Music can enhance historical study by re-creating social and cultural mood and by illustrating an era's common ideas and attitudes.\"" %} [6^]
+{% include typography/pullquote.html text="\"Music can enhance historical study by re-creating social and cultural mood and by illustrating an era's common ideas and attitudes.\"" %} [^6]
 
+Although on its own music cannot create a perfect picture of the past, it can still be a useful tool in looking at the issues that people thought were important, and how they presented them in art.
+
+The Dear Mr. President songs exist as a form of this music influeced by the tradition of political letter writing, and can be used to see what changes different people wanted to see, and what problems needed to be addressed.
 ---
 
 [^1]: Rottinghaus, Brandon. “‘Dear Mr. President’: The Institutionalization and Politicization of Public Opinion Mail in the White House.” Political Science Quarterly 121, no. 3 (2006): 451
