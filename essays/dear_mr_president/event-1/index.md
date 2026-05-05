@@ -74,6 +74,9 @@ primary argument, presenting the idea of integration as an absurd overreach by t
 It also reveals that some of the political music written in this form can be for the purpose of
 resisting change rather than calling for it.
 
+"In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics " [^next]
+
+
 {% include images/figure-wrap.html
   image-path="../images/R-2872612-1542068362-8686.jpg"
   image-position="left"
@@ -102,4 +105,6 @@ These two songs take on very different perspectives when it comes to racial issu
 [^cite]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 25.
 [^ch]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 59.
 [^pe]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 27
+[^next]: Wade, Michael. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
+
 [^4]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 
