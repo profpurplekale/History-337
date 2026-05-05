@@ -72,10 +72,10 @@ This source is a song by Leroy Leblanc, which is intended to be an argument agai
 It assumes its audience is white and anti-integration, as it appeals to such sensibilities as a
 primary argument, presenting the idea of integration as an absurd overreach by the government.
 
-Government overreach is a common theme in music of this type, as an extention of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4]
+Government overreach is a common theme in music of this type, as an extention of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not "stay in their place"[^4]
 
 
-"In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics " [^next]
+"In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics" [^next]
 
 
 {% include images/figure-wrap.html
