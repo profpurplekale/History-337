@@ -54,7 +54,7 @@ Overall, the song argues in support of US involvement in World War II, while sti
 
 {% include typography/pullquote.html text="\"TEXT HERE.\"" %}
 
-This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.[^1]
+This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.[^3]
 
 Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69.
 
