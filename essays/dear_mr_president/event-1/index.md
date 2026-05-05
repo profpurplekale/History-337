@@ -35,7 +35,9 @@ One of the key issues of this broad stretch of time was segregation, and ADD TEX
 
 ### About the Artist
 
-The Almanac Singers were founded in YEAR, after EVENT.(CITATION) Many of the members, including NAME, were involved in political ADD TEXT HERE. For example, Pete Seeger, the ADD TEXT HERE.(CITATION)
+The Almanac Singers were founded in YEAR, after EVENT.(CITATION) The name of the group came from a letter written to Pete Seeger. (23 Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 21–32. https://doi.org/10.2307/538779.)
+
+Many of the members, including NAME, were involved in political ADD TEXT HERE. For example, Pete Seeger, the ADD TEXT HERE.(CITATION)
 
 ### About the Song
 
