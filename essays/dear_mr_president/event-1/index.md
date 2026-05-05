@@ -64,7 +64,7 @@ After Germany invaded Russia, the CPUSA's position flipped towards advocacy for 
 
 ### About the Artist
 
-Happy Fats, or Leroy Leblanc, was a musician from Louisiana who often performed ADD TEXT HERE.(CITATION) He often recorded songs that advocated segregation, such as Dear Mr. President.(CITATION) (CAJUN MUSIC CITATION).
+Happy Fats, or Leroy Leblanc, was a Cajun musician from Louisiana. He was a member of the popular Rayne-Bo Ramblers, and would often broadcast on KVOL, a radio station in Louisiana.[^5] He often recorded songs that advocated segregation, such as Dear Mr. President.
 
 ### About the Song
 
@@ -72,7 +72,7 @@ This source is a song by Leroy Leblanc, which is intended to be an argument agai
 It assumes its audience is white and anti-integration, as it appeals to such sensibilities as a
 primary argument, presenting the idea of integration as an absurd overreach by the government.
 
-Government overreach is a common theme in music of this type, as an extention of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not "stay in their place"[^4]
+Government overreach is a common theme in music of this type, as an extention of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not 'stay in their place'"[^4]
 
 
 "In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics" [^next]
@@ -86,7 +86,7 @@ Government overreach is a common theme in music of this type, as an extention of
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"TEXT HERE.\"" %}
+{% include typography/pullquote.html text="\"LeBlanc continued to be active in later years, gaining some unfortunate notoriety for his segregationist recordings on Miller's Rebel Records in the 1960s .\"" %}[^5]
 
 
 
@@ -105,3 +105,4 @@ These two songs take on very different perspectives when it comes to racial issu
 [^pe]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 27
 [^next]: Wade, Michael. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
 [^4]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531.
+[^5]: The Country Music Hall of Fame and Museum. The Encyclopedia of Country Music. Oxford University Press, 1998. EBSCOhost: 227.
