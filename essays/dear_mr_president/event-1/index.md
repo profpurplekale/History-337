@@ -45,10 +45,8 @@ Overall, the song argues in support of US involvement in World War II, while sti
 
 Initally, the CPUSA advocated nonintervention, as did the Almanac Singers. Earl Browder, leader of CPUSA at the time, said "The fight for a peace policy in the United States today is ... to keep the United States from any involvement not only in a military way but from any involvement in economic and political support and sympathy" [^3] The Almanac Singers agreed with this stance on nonintervention, even releasing an album titled "Songs for John Doe", which argued that "the United States government had set upon a program of sacrificng a large number of American lives." [^cite]
 
-After the invasion of ADD TEXT
+After Germany invaded Russia, the CPUSA's position flipped towards advocacy for war.[^ch] When this policy shifted, so did the attitudes of the musicans, resulting in the release of the album "Dear Mr. President, and the song in question.[^pe]
 
-When this policy shifted, so did the attitudes of the musicans, resulting in songs like this one or others, such as LIST THEM.
-USE LABOR POLICY SOURCE
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_mr_prez.jpeg"
@@ -60,7 +58,6 @@ USE LABOR POLICY SOURCE
 
 {% include typography/pullquote.html text="\"We made up songs against Hitlerism and Fascism, homemade and imported. We sang songs about our Allies and made up songs to pay honor and tribute to the story of the trade union workers around the world.\"" %}[^um]
 
-This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.
 
 
 ## Happy Fats (1971)
@@ -104,4 +101,6 @@ These two songs take on very different perspectives when it comes to racial issu
 [^um]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 26-27.
 [^3]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 56-57.
 [^cite]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 25.
+[^ch]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 59.
+[^pe]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 27
 [^4]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 
