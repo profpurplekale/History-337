@@ -12,15 +12,15 @@ tabs:
     active: true
 
   - id: event-1
-    label: Islamophobia in the 21st Century
+    label: Cultural Shifts in Film
     url: event-1/
 
   - id: event-2
-    label: Cultural Shifts in Film
+    label: Western Intervention and the Creation of Israel
     url: event-2/
 
   - id: event-3
-    label: Western Intervention and the Creation of Israel
+    label: Islamophobia in the 21st Century
     url: event-3/
 ---
 
@@ -29,12 +29,16 @@ Before the Spanish arrived, before the United States existed, before the concept
 
 The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
 
-## Wild Origins and Sacred Uses
+## Cultural Shifts in Film
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+	The Thief of Bagdad1 was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. This film also depicts Eastern governments, which have become the subject of heavy criticism in the modern day, but the film continues to make no broad statements about them, with characters coming from royalty being portrayed in multiple differing lights. 
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+	Over time, this ability to represent a setting without a strong political condemnation or glorification has become less prominent, especially in regard to the Middle East. 
+The defining lens that Americans used to view the region prior to the 1950s was ignorance. Following the two world wars in the early 20th century, Americans were pressed a greater awareness of international affairs, and citizens of the U.S. began to reach consensus on how to judge these now-apparent nations. Japan and Germany, for example, were the subject of most American ire, due to their roles in the previous conflicts, but the Middle East has proven to be significantly more complicated.
+
+	In the years leading up to war (and those running through them) nations in the East were often portrayed with some amount of political neutrality2. While there were, of course, cultural and religious traditions that created a distinct separation from the U.S. perspective, the representations of individuals practicing the Islamic faith (who were the primary makeup of the region) were based significantly less in hatred than one would see in the modern day. One can, in fact, notice American inspiration drawn from Eastern cultures3. For a time, ideals of hard work, moral strength, and performance shaped the U.S., painting a much more interconnected picture than modern discourse would suggest.
+
 {% endcapture %}
 
 {% include images/figure-wrap.html
