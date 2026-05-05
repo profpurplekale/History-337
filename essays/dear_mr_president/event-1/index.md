@@ -40,7 +40,11 @@ The Almanac Singers were formed around 1940. The name of the group came from a l
 ### About the Song
 
 This song was written in YEAR, and released in 1942 as a part of an album by the same name.
-Overall, the song argues in support of US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive. This aligns with SOURCE ABOUT POSITIVE LETTER WRITING. Interestingly, the stances taken here mirror those of the ADD TEXT HERE, which may be related to INVOLVEMENT.(CITATION)
+Overall, the song argues in support of US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive. This aligns with SOURCE ABOUT POSITIVE LETTER WRITING. The stances taken here mirror those of the ADD TEXT HERE, which may be related to INVOLVEMENT.(CITATION)
+
+Initally, the CPUSA advocated nonintervention, as did the Almanac Singers.(CITATION) "Quote"
+When this policy shifted, so did the attitudes of the musicans, resulting in songs like this one or others, such as LIST THEM.
+USE LABOR POLICY SOURCE
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_mr_prez.jpeg"
