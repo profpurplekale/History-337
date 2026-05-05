@@ -35,7 +35,7 @@ One of the key issues of this broad stretch of time was segregation, and ADD TEX
 
 ### About the Artist
 
-The Almanac Singers were formed around 1940. The name of the group came from a letter written to Pete Seeger.[^1] Many of the members were active in the labor movement, and some were communists, though not all of them, but the positions taken in their music was often aligned with those of the CPUSA.[^2] Given this, they often sang political music that supported labor unions, civil rights, and would 
+The Almanac Singers were formed around 1940. The name of the group came from a letter written to Pete Seeger.[^1] Many of the members were active in the labor movement, and some were communists, though not all of them, but the positions taken in their music was often aligned with those of the CPUSA.[^2] Given this, they often performed political music that supported labor unions, civil rights, and would 
 LABOR SONGS, CIO ETC
 
 ### About the Song
@@ -55,7 +55,7 @@ USE LABOR POLICY SOURCE
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"TEXT HERE.\"" %}
+{% include typography/pullquote.html text="\"We made up songs against Hitlerism and Fascism, homemade and imported. We sang songs about our Allies and made up songs to pay honor and tribute to the story of the trade union workers around the world.\"" %}[^um]
 
 This source is an article that discusses the stance of the Communist Party during World War II. It notes that after the Nazi-Soviet pact, and the attack on Pearl Harbor, the party discouraged strikes, and instead supported US involvement in the war. This source can provide some context for the song by the Almanac Singers, who were supporters of the labor movement, and whose song echoes these sentiments expressed by the party.[^3]
 
@@ -84,7 +84,7 @@ resisting change rather than calling for it.
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"TEXT HERE.\"" %}
 
 This source is a scholarly journal article about anti-black country music in the 1960s. It discusses elements used in this music, and how these served to dehumanize African-Americans and justify segregation. Among the songs looked at, the text includes the Happy Fats song as well.[^2]
 
@@ -100,6 +100,7 @@ These two songs take on very different perspectives when it comes to racial issu
 [^1]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
 [^2]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31.
 
+[^um]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 26-27.
 
 [^3]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69. https://doi.org/10.2307/2519321. 
 [^4]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 
