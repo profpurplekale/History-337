@@ -37,7 +37,7 @@ One of the key issues of this broad stretch of time was segregation, and ADD TEX
 
 The Almanac Singers were formed around 1940. The name of the group came from a letter written to Pete Seeger.[^1] 
 
-Many of the members, including NAME, were involved in political ADD TEXT HERE. For example, Pete Seeger, the ADD TEXT HERE.(CITATION)
+Many of the members were active in the labor movement, and some were communists, though not all of them, but the positions taken in their music was often aligned with those of the CPUSA.[^2]
 
 ### About the Song
 
@@ -95,5 +95,8 @@ These two songs take on very different perspectives when it comes to racial issu
 
 
 [^1]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
+[^2]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31
+
+
 [^3]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69. https://doi.org/10.2307/2519321. 
-[^2]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 
+[^4]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531. https://libproxy.unm.edu/login?url=https://www.proquest.com/scholarly-journals/hardest-hate-sociological-analysis-country-music/docview/1339125/se-2. 
