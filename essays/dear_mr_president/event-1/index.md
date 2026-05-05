@@ -95,7 +95,7 @@ These two songs take on very different perspectives when it comes to racial issu
 
 
 [^1]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
-[^2]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31
+[^2]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31.
 
 
 [^3]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 55–69. https://doi.org/10.2307/2519321. 
