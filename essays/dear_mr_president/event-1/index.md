@@ -35,7 +35,8 @@ One of the key issues of this broad stretch of time was segregation, and ADD TEX
 
 ### About the Artist
 
-The Almanac Singers were formed around 1940. The name of the group came from a letter written to Pete Seeger.[^1] Many of the members were active in the labor movement, and some were communists, though not all of them, but the positions taken in their music was often aligned with those of the CPUSA.[^2] LABOR SONGS, CIO ETC
+The Almanac Singers were formed around 1940. The name of the group came from a letter written to Pete Seeger.[^1] Many of the members were active in the labor movement, and some were communists, though not all of them, but the positions taken in their music was often aligned with those of the CPUSA.[^2] Given this, they often sang political music that supported labor unions, civil rights, and would 
+LABOR SONGS, CIO ETC
 
 ### About the Song
 
