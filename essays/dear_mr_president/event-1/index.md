@@ -51,7 +51,7 @@ After Germany invaded Russia, the CPUSA's position flipped towards advocacy for 
   image-path="../images/Dear_mr_prez.jpeg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Derived from a digital capture (photo/scan) of the album cover (creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the same party). Copyright held by the record label or the artist. Claimed as fair use regardless. Fair use, https://en.wikipedia.org/w/index.php?curid=19977816."
   text=chile_origins_text
 %}
 
