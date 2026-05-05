@@ -87,11 +87,8 @@ resisting change rather than calling for it.
 
 {% include typography/pullquote.html text="\"TEXT HERE.\"" %}
 
-This source is a scholarly journal article about anti-black country music in the 1960s. It discusses elements used in this music, and how these served to dehumanize African-Americans and justify segregation. Among the songs looked at, the text includes the Happy Fats song as well.[^2]
 
-Wade, Michael. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
 
-Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531.
 
 ## Comparison
 
