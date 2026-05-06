@@ -1,14 +1,14 @@
 ---
-title: "HIS 337 US since 1945"
+title: "Transformation of Children's Television"
 layout: base
 date: 2025-10-21
-header-image: "/assets/images/twentieth-century-mural-1.jpg"
-header-title: US Culture & Society
-header-subtitle: Since 1945
+header-image: "/assets/images/oldtv.jpg"
+header-title: Transformation of Children's Television in the US
+header-subtitle: 1970's to Present
 header-position: 35% center
 ---
 
-# US Culture & Society since 1945 
+# Transformation of Children's Television
 
 This is the HIS 337 class website for the student final projects using [Xanthan framework](https://xanthan-web.github.io/xanthan/). Everything you see here is a placeholder — the title above, the essay topics, the images. 
 

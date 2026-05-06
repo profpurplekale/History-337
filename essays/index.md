@@ -1,10 +1,10 @@
 ---
-title: Essays
+title: "Transformation of Children's Television" 
 layout: base
-header-title: Essays
+header-title: Transformation of Children's Television
 ---
 
-# Essays
+# Transformation of Children's Television
 
 This template includes three sample essays with header information and information about Southwest food history written with AI assistance as placeholder content. They're here to demonstrate what student essays can look like: how to use images, pull quotes, scrolling backgrounds, and other Xanthan components in a longer piece of writing.
 
