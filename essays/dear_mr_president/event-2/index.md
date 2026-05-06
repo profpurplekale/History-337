@@ -60,7 +60,9 @@ Some thought that the song was a critique of the Bush Administration, and in Tex
 
 ### About the Artist
 
-Fitz and the Tantrums formed in 2008, and often perform indie pop and neo soul music. Michael Fitzpatrick says of his lyrics, that "I wanted to create a juxtaposition between these songs that sound happy, that make you want to dance, that have a feel good energy coming from them but when you listen to the actual lyrical content it’s pretty angry, acerbic—it’s got attitude."[^3]
+Fitz and the Tantrums formed in 2008, and often perform indie pop and neo soul music. They place a lot of emphasis on DIY as well, as Michael Fitzpatrick says "We did our whole record in my living room to see how great of a sound could we come up with, doing it with a do-it-yourself approach."[^3]
+
+
 
 ### About the Song
 
@@ -75,7 +77,7 @@ It focuses on the struggles of people in poverty, and how people are often unabl
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"TEXT HERE.\"" %}
+{% include typography/pullquote.html text="\"I wanted to create a juxtaposition between these songs that sound happy, that make you want to dance, that have a feel good energy coming from them but when you listen to the actual lyrical content it’s pretty angry, acerbic—it’s got attitude.\"" %}[^3]
 
 ## Comparison
 
