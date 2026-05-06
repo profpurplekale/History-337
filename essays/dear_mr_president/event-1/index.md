@@ -82,7 +82,7 @@ Government overreach is a common theme in music of this type, as an extention of
   image-path="../images/R-2872612-1542068362-8686.jpg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Happy Fats. “Dear Mr. President.” Reb Rebel, 1971."
   text=chile_origins_text
 %}
 
