@@ -1,26 +1,26 @@
 ---
-title: "Y2K and Beyond"
+title: "The 80s and 90s"
 layout: scrollstory-tabs
 header-image: images/beauty-is-pain.jpg
-header-title: "Y2K and Beyond"
+header-title: "The 80s and 90s"
 thumbnail: images/beauty-is-pain.jpg
-summary: Beauty Standards in Y2K to Now
+summary: Beauty Standards in the 80s to 90s
 tabs:
   - id: overview
-    label: Overview of the makeup industry
+    label: Beauty in the 80s and 90s
     url: ./
-    active: true
 
   - id: event-1
     label: The Most Acceptable Standard
     url: event-1/
+    active: true
 
   - id: event-2
     label: Evolving Standards
     url: event-2/
 
   - id: event-3
-    label: What Makeup Means for Beauty
+    label: Expanding Makeup Consumers
     url: event-3/
 ---
 

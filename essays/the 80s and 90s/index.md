@@ -7,7 +7,7 @@ thumbnail: images/beauty-is-pain.jpg
 summary: Beauty Standards in the 80s to 90s
 tabs:
   - id: overview
-    label: Overview of the makeup industry
+    label: Beauty in the 80s and 90s
     url: ./
     active: true
 
@@ -20,7 +20,7 @@ tabs:
     url: event-2/
 
   - id: event-3
-    label: What Makeup Means for Beauty
+    label: Expanding Makeup Consumers
     url: event-3/
 ---
 

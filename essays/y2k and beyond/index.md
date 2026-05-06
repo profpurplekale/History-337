@@ -7,7 +7,7 @@ thumbnail: images/beauty-is-pain.jpg
 summary: Beauty Standards in Y2K to Now
 tabs:
   - id: overview
-    label: Overview of the makeup industry
+    label: How has Beauty Changed?
     url: ./
     active: true
 
@@ -20,7 +20,7 @@ tabs:
     url: event-2/
 
   - id: event-3
-    label: What Makeup Means for Beauty
+    label: All-Inclusive Beauty
     url: event-3/
 ---
 
