@@ -53,8 +53,7 @@ Next is the bright red lips, full and in a small, barely there smile. This adds 
 
 The final piece of the vogue cover that tells us more about the beauty standards is the stark white background. This is the most on the nose part of the whole cover, but is also easy to dismiss. However, Pale white skin has long since been something women have strived for across the world, and magazines like this attribute to that. White skin is seen as "Insert Quote," according to Insert Second Magazine Here [^source2]. In some countries, such as Korea, Japan, India and more, bleaching agents are used to lighten skin. The stark white background is not a coincidence. It is a concious effort to associate pale skin with the Femme Fatale, with beauty.
 
-[^source1]:
-[^source2]:
+
 
 ## But Why is this Important?
 
@@ -65,7 +64,7 @@ This magazine strictly focuses on beauty tips and fashion. It is highly geared t
 ## Does the Beauty Standard only Affect Women?
 
 {% capture onya_nurve %}
-Women are the main targets for most magazines, this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergece of the Club Kids led to almost a revolution of beauty and fashion. One of the Club Kids who emerged ontop and brought queer culture to the main stream is Rupaul Charles. Charles is best known for his reality compitiion show, RuPaul's Drag Race. This show brought Drag into the mainstream and drag itself began to influence the beauty standard. While the show does have it's issues, especially a bias against Drag Queens of color in previous seasons and those who are more alternative, the fact is it did influence much of our modern culture and what is considered beautiful. The winner of the 17th season, however, was Onya Nurve, a Black Drag Queen who used her time to redefine beauty in drag as well.
+Women are the main targets for most magazines, this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergece of the Club Kids led to almost a revolution of beauty and fashion. One of the Club Kids who emerged ontop and brought queer culture to the main stream is Rupaul Charles. Charles is best known for his reality compitiion show, RuPaul's Drag Race. This show brought Drag into the mainstream and drag itself began to influence the beauty standard. Drag queens becoming more influential in beauty spaces has also influenced the average American's own beauty routine. According to Insert Source Here, "blah blah blah" [^source3]. This is also significant because beauty changes and is far more inclusive than it used to be. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -79,6 +78,11 @@ Women are the main targets for most magazines, this is true. However, the beauty
 ## Conclusion
 
 Beauty is something subjective, but something that has been given immense importance in the cultural zietgeist of the United States. 
+
 ---
 
 **Further exploration:** Magazines can influence you more than you think. 
+
+[^source1]:
+[^source2]:
+[^source3]:
