@@ -30,9 +30,9 @@ In the midst of the Civil Rights Movement, another counter-cultural protest bega
 
 {% include images/figure-wrap.html
   image-path="images/black-is-beautiful.jpg"
-  image-position="left"
+  image-position="right"
   image-width="48%"
-  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles."
+  caption="Untitled (Pat on Car), 1968. Credit: Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles."
   text=[^source2]
 %}
 
