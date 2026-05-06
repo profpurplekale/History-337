@@ -60,11 +60,11 @@ Some thought that the song was a critique of the Bush Administration, and in Tex
 
 ### About the Artist
 
-ADD TEXT HERE
+Fitz and the Tantrums formed in 2008, and often perform indie pop and neo soul music. Michael Fitzpatrick says of his lyrics, that "I wanted to create a juxtaposition between these songs that sound happy, that make you want to dance, that have a feel good energy coming from them but when you listen to the actual lyrical content it’s pretty angry, acerbic—it’s got attitude."[^3]
 
 ### About the Song
 
-This source is a song. It focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. This reveals the variety of focuses that many political songs have in terms of scope, even in similar time periods, as Fredwreck’s song was released only 6 years prior to this one, and features much more specific, targeted critique.
+This song focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. This reveals the variety of focuses that many political songs have in terms of scope, even in similar time periods, as Fredwreck’s song was released only 6 years prior to this one, and features much more specific, targeted critique.
 
 {% include images/figure-wrap.html
   image-path="../images/Pickin'_up_the_pieces.jpeg"
@@ -82,4 +82,5 @@ Despite the gap in time between these two songs, they are fairly similar in the 
 
 
 [^1]: Carl Wiser. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
-[^2]: George Varga, “Linda Perry Revs up with 4 Non Blondes Reunion, New Film and Solo Album,” Tribune, May 14, 2025.
+[^2]: George Varga. “Linda Perry Revs up with 4 Non Blondes Reunion, New Film and Solo Album,” Tribune, May 14, 2025.
+[^3]: Jane Jansen Seymour. "Fitz & the Tantrums Keep Busy Over the Holiday Weekend". PopMatters, June 1, 2010.
