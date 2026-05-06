@@ -10,7 +10,6 @@ tabs:
     label: Overview of Beauty Standards
     url: ../
 
-
   - id: event-1
     label: Black Is Beautiful; the 60s to 70s
     url: ../event-1/
