@@ -1,7 +1,7 @@
 ---
 title: "Black Is Beautiful; the 60s to 70s"
 layout: scrollstory-tabs
-header-image: ../images/place-holder-image.jpg
+header-image: ../images/black-is-beautiful.jpg
 header-title: "Black Is Beautiful; The 60s to 70s"
 thumbnail: ../images/place-holder-image.jpg
 summary: 60s and 70s beauty
