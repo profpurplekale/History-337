@@ -34,8 +34,8 @@ Not all of these songs focused on narrow, specific subject matter. Some of them 
 
 ### About the Artist
 
-4 Non Blondes was formed in YEAR, by NAMES. The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles.(CITATION) Dear Mr. President was released as a single and also included in their album.(CITATION)
-The band DISBANDED? but as of YEAR have resumed ???
+4 Non Blondes was formed in 1989, by NAMES.(CITATION) The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles.(CITATION) Dear Mr. President was released as a single and also included in their album.(CITATION)
+The band disbanded two years after releasing their first and only album, but as of YEAR have resumed?????.[^1]
 
 ### About the Song
 
@@ -88,3 +88,4 @@ Despite the gap in time between these two songs, they are fairly similar in the 
 
 Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
 
+[^1]: Wiser, Carl. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
