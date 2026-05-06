@@ -34,7 +34,7 @@ In the midst of the Civil Rights Movement, another counter-cultural protest bega
   image-path="images/black-is-beautiful.jpg"
   image-position="right"
   image-width="48%"
-  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles [^source2]"
+  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles [^source2] "
   text=black_is_beautiful
 %}
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image-path="images/twiggy-1960.jpg"
   image-position="left"
   image-width="48%"
-  caption="Twiggy, 1966 [^source3]"
+  caption="Twiggy, 1966 [^source3] "
   text=twiggy
 %}
 
