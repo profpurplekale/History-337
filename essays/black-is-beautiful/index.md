@@ -24,12 +24,11 @@ tabs:
     url: event-3/
 ---
 
-# Overview of the Social History of the Personal Computer
+# Black is Beautiful
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+In the midst of the Civil Rights Movement, another counter-cultural protest began. This one was closely related, though it was in a completely different setting than the poltical Civil Rights movement. This was the Black is Beautiful movement. This movement was exactly what it sounds like. Black women are beautiful, and they should be highlighted as well. Natural Black hair is beautiful, from kinky curls to thick coils. According to the Black beauty magazine in 1970, Ebony, "____________" [^source1]. The point of the movement was to empower Black women in embracing their natural beauty, the same way white women have been encouraged since youth to feel beautiful.
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
-
+[^source1]:
 ## Wild Origins and Sacred Uses
 
 {% capture chile_origins_text %}
