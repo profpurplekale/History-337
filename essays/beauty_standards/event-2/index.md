@@ -7,22 +7,21 @@ thumbnail: ../images/place-holder-image.jpg
 summary: Why does the concept of beauty change so much?
 tabs:
   - id: overview
-    label: Overview of the makeup industry
-    url: ../
+    label: Overview of Beauty Standards
+    url: ./
 
   - id: event-1
-    label: The Most Acceptable Standard
-    url: ../event-1/
-
+    label: Black Is Beautiful and the 60s to 70s
+    url: event-1/
 
   - id: event-2
-    label: Evolving Standards
-    url: ../event-2/
+    label: Evolving Standards in the 80s and 90s
+    url: event-2/
     active: true
-    
+
   - id: event-3
-    label: What Makeup Means for Beauty
-    url: ../event-3/
+    label: Y2K and Beyond
+    url: event-3/
 ---
 
 # Why is beauty so differnt everywhere?

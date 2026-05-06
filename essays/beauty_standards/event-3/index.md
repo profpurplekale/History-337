@@ -1,42 +1,44 @@
 ---
-title: "What Makeup Means for Beauty"
+title: "Y2K And Beyond"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
-header-title: "What Makeup Means for Beauty"
+header-title: "Y2K and Beyond"
 thumbnail: ../images/place-holder-image.jpg
-summary: Makeup and Beauty are almost synonomus in today's society. Was this always the case?
+summary: Beauty changed again in 2000, and continues to change today. It's far more inclusive than ever.
 tabs:
   - id: overview
-    label: Overview of the makeup industry
-    url: ../
+    label: Overview of Beauty Standards
+    url: ./
 
   - id: event-1
-    label: The Most Acceptable Standard
-    url: ../event-1/
+    label: Black Is Beautiful and the 60s to 70s
+    url: event-1/
 
   - id: event-2
-    label: Evolving Standards
-    url: ../event-2/
+    label: Evolving Standards in the 80s and 90s
+    url: event-2/
 
   - id: event-3
-    label: What Makeup Means for Beauty
-    url: ../event-3/
+    label: Y2K and Beyond
+    url: event-3/
     active: true
 ---
 
-## Where was makeup first created?
+## Y2K and Beyond
 
-**uh... greece?
+**The Early 2000s**
+
+In the early 2000s, low rise skinny jeans were all the rage. Makeup was simple, swipe some glitter on your eyes, don't wprry if your concealer is on your lips, and you're good to go party.
 
 {% include images/figure-wrap.html
   image-path="../images/place-holder-image.jpg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="This Goes on The Left of the Page, replace it with an early 2000s model."
   text=chile_origins_text
 %}
 
-## How has Makeup itself changed over the years?
+## 2010 Changed Beauty
 
 **1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
 
@@ -46,7 +48,7 @@ tabs:
 
 **1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
 
-## Why is it important to talk about makeup?
+## 2020 Changes Beauty Again
 
 **1912** — Wilbur Scoville develops the Scoville Scale to measure chile heat.
 
@@ -60,4 +62,4 @@ tabs:
 
 ---
 
-The story of the chile is still being written.
+Beauty is cyclical and forever changing.

@@ -7,20 +7,20 @@ thumbnail: images/beauty-is-pain.jpg
 summary: A cultural study of the Beauty Standard
 tabs:
   - id: overview
-    label: Overview of the makeup industry
+    label: Overview of Beauty Standards
     url: ./
     active: true
 
   - id: event-1
-    label: The Most Acceptable Standard
+    label: Black Is Beautiful and the 60s to 70s
     url: event-1/
 
   - id: event-2
-    label: Evolving Standards
+    label: Evolving Standards in the 80s and 90s
     url: event-2/
 
   - id: event-3
-    label: What Makeup Means for Beauty
+    label: Y2K and Beyond
     url: event-3/
 ---
 

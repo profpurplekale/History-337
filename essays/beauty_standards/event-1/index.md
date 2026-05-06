@@ -7,37 +7,28 @@ thumbnail: ../images/place-holder-image.jpg
 summary: The Most Widely Acceptable Standard of Beauty
 tabs:
   - id: overview
-    label: Overview of the makeup industry
-    url: ../
-
+    label: Overview of Beauty Standards
+    url: ./
 
   - id: event-1
-    label: The Most Acceptable Standard
-    url: ../event-1/
+    label: Black Is Beautiful and the 60s to 70s
+    url: event-1/
     active: true
 
   - id: event-2
-    label: Evolving Standards
-    url: ../event-2/
+    label: Evolving Standards in the 80s and 90s
+    url: event-2/
 
   - id: event-3
-    label: What Makeup Means for Beauty
-    url: ../event-3/
+    label: Y2K and Beyond
+    url: event-3/
 ---
 
-## Who is seen as the must beautiful?
+## Black is Beautiful
 
-Long before European contact, Mesoamerican peoples had developed sophisticated agricultural techniques for growing chiles. The Aztecs, Maya, and other civilizations didn't just consume chiles—they bred them, selecting for specific flavor profiles, heat levels, and growing characteristics.
+In the midst of the Civil Rights Movement, another counter-cultural protest began. This one was closely related, though it was in a completely different setting than the poltical Civil Rights movement. This was the Black is Beautiful movement. This movement was exactly what it sounds like. Black women are beautiful, and they should be highlighted as well. Natural Black hair is beautiful, from kinky curls to thick coils. According to the Black beauty magazine in 1970, Ebony, "____________" [^source1]. The point of the movement was to empower Black women in embracing their natural beauty, the same way white women have been encouraged since youth to feel beautiful.
 
-{% include images/figure-wrap.html
-  image-path="../images/place-holder-image.jpg"
-  image-position="left"
-  image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
-  text=chile_origins_text
-%}
-
-These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
+[^source1]:
 
 ## Who decides what the beauty standard is?
 
