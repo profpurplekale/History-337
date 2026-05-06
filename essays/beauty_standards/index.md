@@ -73,6 +73,10 @@ Women are the main targets for most magazines, this is true. However, the beauty
   caption="The Winner of Rupaul's Drag Race Season 17, Onya Nurve"
   text=onya_nurve
 %}
+
+## Conclusion
+
+Beauty is something subjective, but something that has been given immense importance in the cultural zietgeist of the United States. 
 ---
 
 **Further exploration:** Magazines can influence you more than you think. 
