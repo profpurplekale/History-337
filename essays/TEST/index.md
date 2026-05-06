@@ -1,8 +1,8 @@
 ---
-title: "The Middle East in American Media"
+title: "TEST"
 layout: scrollstory-tabs
 header-image: images/personal-computer.jpg
-header-title: "The Middle East in American Media: How Western Portrayal Created a Cultural Enemy"
+header-title: "TEST"
 thumbnail: images/personal-computer.jpg
 summary: An analysis of Western depictions of Middle Eastern nations
 tabs:
