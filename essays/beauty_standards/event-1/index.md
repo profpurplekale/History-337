@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image-path="images/twiggy-1960.jpg"
   image-position="left"
   image-width="48%"
-  caption="Twiggy, 1966"
+  caption="Twiggy, 1966 [^source3]"
   text=twiggy
 %}
 
