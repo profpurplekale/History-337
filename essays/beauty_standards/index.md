@@ -61,7 +61,8 @@ Magazines seem frivolous on the surface, yet they shaped beauty long before TV b
 
 This magazine strictly focuses on beauty tips and fashion. It is highly geared towards women, and does not tend to waver in that. It also features Insert Type models more often than not.
 
-## Does the Beauty Standard only Affect Women?
+
+## Does the Beauty Standard Only Affect Women?
 
 {% capture onya_nurve %}
 Women are the main targets for most magazines, this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergece of the Club Kids led to almost a revolution of beauty and fashion. One of the Club Kids who emerged ontop and brought queer culture to the main stream is Rupaul Charles. Charles is best known for his reality compitiion show, RuPaul's Drag Race. This show brought Drag into the mainstream and drag itself began to influence the beauty standard. Drag queens becoming more influential in beauty spaces has also influenced the average American's own beauty routine. According to Insert Source Here, "blah blah blah." [^source3] This is also significant because beauty changes and is far more inclusive than it used to be. 
