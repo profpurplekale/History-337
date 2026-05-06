@@ -34,15 +34,16 @@ Not all of these songs focused on narrow, specific subject matter. Some of them 
 
 ### About the Artist
 
-4 Non Blondes was formed in 1989, and was comprised of Linda Perry, Christa Hillhouse, Dawn Richardson, and Roger Rocha. The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles.(CITATION) Dear Mr. President was released as a single and also included in their album.[^1]
+4 Non Blondes was formed in 1989, and was comprised of Linda Perry, Christa Hillhouse, Dawn Richardson, and Roger Rocha. The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles. Dear Mr. President was released as a single and also included in their album.[^1]
 The band disbanded two years after releasing their first and only album, but as of 2025 have planned a reunion.[^1][^2]
 
 ### About the Song
 
-This source is a song. It discusses the problems of government very generally, without specifically casting blame on any one figure, or making any specific demands. It does reference issues of the time, such as poverty and drug use.
+This song is generally about the problems of government and wealth inequality. It lays the blame on leadership, stating "it's such a wonderful country, but the man, he's burning it down" though it does not specifically name any presidents directly. The song makes mention of several contemporary issues, such as poverty, crime, and the crack epidemic. 
 
-Some ADD TEXT thought that the song was about GEORGE BUSH? and was banned? CONTEXT as a result, though NAME clarifies in an interview that 
-{% include typography/pullquote.html text="\"TEXT HERE.\"" %}(CITATION)
+Some thought that the song was a critique of the Bush Administration, and in Texas, they had trouble getting the song to be aired as a result.[^1] According to Christa Hillhouse, however, the song was not aimed at any specific leader, but rather a song about "the hierarchy of power and government".[^1]
+
+{% include typography/pullquote.html text="\"It's kind of funny because at the time, it wasn't about the president in office, it was about the hierarchy of power and government. It wasn't specifically pointed at him. I remember being really surprised when it happened. It's a song about looking around and seeing problems and feeling like there's someone in charge who is responsible.\"" %} [^1]
 
 {% include images/figure-wrap.html
   image-path="../images/4_Non_Blondes_-_Bigger,_Better,_Faster,_More!.jpeg"
@@ -51,14 +52,6 @@ Some ADD TEXT thought that the song was about GEORGE BUSH? and was banned? CONTE
   caption="Album cover by Mark Ryden."
   text=chile_origins_text
 %} 
-
-
-
-Wiser, Carl. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025
-
-This source is a non-academic blog, in which Christa Hillhouse, a member of 4 Non Blondes, discusses the band and their music, including Dear Mr. President. This source shows how some places responded to the song as an attack on the Bush administration, while she states that it was not actually about him specifically. This source is useful for understanding the intended message behind the song, as well as some history of the band from the perspective of one of its members.
-
-
 
 
 ## Fitz and the Tantrums (2010)
@@ -86,7 +79,6 @@ This source is a song. It focuses on the struggles of people in poverty, and how
 
 Despite the gap in time between these two songs, they are fairly similar in the broad critiques, as they note issues of poverty and governance that are not tied to any particular event or administration. 
 
-Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
 
 [^1]: Carl Wiser. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
 [^2]: George Varga, “Linda Perry Revs up with 4 Non Blondes Reunion, New Film and Solo Album,” Tribune, May 14, 2025.
