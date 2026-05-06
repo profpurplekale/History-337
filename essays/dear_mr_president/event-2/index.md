@@ -70,7 +70,7 @@ This source is a song. It focuses on the struggles of people in poverty, and how
   image-path="../images/Pickin'_up_the_pieces.jpeg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="By Dangerbird. May be found at the following website: https://www.amazon.com/Pickin-Up-The-Pieces/dp/B004GB4EZQ/ref=sr_1_2?ie=UTF8&qid=1303005868&sr=8-2."
   text=chile_origins_text
 %}
 
