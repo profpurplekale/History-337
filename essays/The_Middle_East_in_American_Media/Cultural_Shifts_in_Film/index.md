@@ -1,8 +1,8 @@
 ---
-title: "The McCarthy Hearings"
+title: "Cultural Shifts in Film"
 layout: scrollstory-tabs
 header-image: ../images/welch-mccarthy.jpg
-header-title: "McCarthyism"
+header-title: "Cultural Shifts in Film"
 thumbnail: ../images/welch-mccarthy.jpg
 summary: The landscapes and regions that shaped chile cultivation and culture.
 tabs:
