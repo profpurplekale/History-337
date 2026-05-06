@@ -7,17 +7,17 @@ thumbnail: essays/childrens_televison/images/images/70'sSS.jpeg
 summary: History of Children's Televison.
 tabs:
   - id: overview
-    label: Overview of Children's Television in the 70's
+    label: Overview of Children's Television
     url: ../
 
 
   - id: event-1
-    label: 1970's: Public Good
+    label: 1970's:Public Good
     url: ../event-1/
     active: true
 
   - id: event-2
-    label: 1980's: Marketplace
+    label:  1980's:Marketplace
     url: ../event-2/
 
   - id: event-3
@@ -41,5 +41,5 @@ Programs such as Schoolhouse Rock!, and Free to Be . . . You and Me emphasized s
 %}
 
 Government Policy reinforced this approach. Federal Communication Commission - FCC -required broadcasters to operate in the public interest. FCC Commissioner Hooks in 1974, emphasized television had a responsiblity to support children's learning and development. ADD IMAGE
-### Impact 
+## Impact 
 Televison as educational tool . . .EXPAND LATER

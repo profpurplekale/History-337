@@ -11,11 +11,11 @@ tabs:
     url: ../
 
   - id: event-1
-    label: 1970's: Public Good
+    label: 1970's:Public Good
     url: ../event-1/
 
   - id: event-2
-    label: 1980's: Marketplace
+    label:  1980's:Marketplace
     url: ../event-2/
 
   - id: event-3
