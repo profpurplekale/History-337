@@ -1,9 +1,9 @@
 ---
 title: "Children's Television"
 layout: scrollstory-tabs
-header-image: images/70'sSS.jpg
+header-image: essays/childrens_televison/images/images/70'sSS.jpeg
 header-title: "Children's Televison"
-thumbnail: images/70'sSS.jpg
+thumbnail: essays/childrens_televison/images/images/70'sSS.jpeg
 summary: History of Children's Televison.
 tabs:
   - id: overview
