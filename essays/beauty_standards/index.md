@@ -2,9 +2,9 @@
 title: "Beauty Standards"
 layout: scrollstory-tabs
 header-image: images/beauty-is-pain.jpg
-header-title: "What is the Beauty Standard?"
+header-title: "Beauty Standards"
 thumbnail: images/beauty-is-pain.jpg
-summary: A cultural study of the Beauty Standard
+summary: A cultural study of beauty standards in the USA.
 tabs:
   - id: overview
     label: Overview of Beauty Standards
@@ -12,16 +12,16 @@ tabs:
     active: true
 
   - id: event-1
-    label: Black Is Beautiful and the 60s to 70s
-    url: ./event-1/
+    label: Black Is Beautiful; the 60s to 70s
+    url: event-1/
 
   - id: event-2
-    label: Evolving Standards in the 80s and 90sThe Summer of Love
-    url: ./event-2/
+    label: Evolving Standards in the 80s and 90s
+    url: event-2/
 
   - id: event-3
     label: Y2K and Beyond
-    url: ./event-3/
+    url: event-3/
 ---
 
 # Definining the Beauty Standard of the U.S.A.

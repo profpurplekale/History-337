@@ -1,27 +1,28 @@
 ---
-title: "The Most Accepted Standards"
+title: "Black Is Beautiful; the 60s to 70s"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
-header-title: "Black is Beautiful and the 60s to 70s"
+header-title: "Black Is Beautiful; The 60s to 70s"
 thumbnail: ../images/place-holder-image.jpg
-summary: The Most Widely Acceptable Standard of Beauty
+summary: 60s and 70s beauty
 tabs:
   - id: overview
     label: Overview of Beauty Standards
-    url: ./
+    url: ../
+
 
   - id: event-1
-    label: Black Is Beautiful and the 60s to 70s
-    url: event-1/
+    label: Black Is Beautiful; the 60s to 70s
+    url: ../event-1/
     active: true
 
   - id: event-2
     label: Evolving Standards in the 80s and 90s
-    url: event-2/
+    url: ../event-2/
 
   - id: event-3
     label: Y2K and Beyond
-    url: event-3/
+    url: ../event-3/
 ---
 
 ## Black is Beautiful

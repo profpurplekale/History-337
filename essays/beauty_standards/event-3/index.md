@@ -1,26 +1,26 @@
 ---
-title: "Y2K And Beyond"
+title: "Y2K and Beyond"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
 header-title: "Y2K and Beyond"
 thumbnail: ../images/place-holder-image.jpg
-summary: Beauty changed again in 2000, and continues to change today. It's far more inclusive than ever.
+summary: Y2K beauty and how the industry has changed
 tabs:
   - id: overview
     label: Overview of Beauty Standards
-    url: ./
+    url: ../
 
   - id: event-1
-    label: Black Is Beautiful and the 60s to 70s
-    url: event-1/
+    label: Black Is Beautiful; the 60s to 70s
+    url: ../event-1/
 
   - id: event-2
     label: Evolving Standards in the 80s and 90s
-    url: event-2/
+    url: ../event-2/
 
   - id: event-3
     label: Y2K and Beyond
-    url: event-3/
+    url: ../event-3/
     active: true
 ---
 

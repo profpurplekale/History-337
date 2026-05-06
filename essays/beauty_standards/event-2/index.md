@@ -2,26 +2,27 @@
 title: "Evolving Standards in the 80s and 90s"
 layout: scrollstory-tabs
 header-image: ../images/place-holder-image.jpg
-header-title: "Evolving Standards"
+header-title: "Evolving Standards in the 80s and 90s"
 thumbnail: ../images/place-holder-image.jpg
-summary: Why does the concept of beauty change so much?
+summary: Beauty in the 80s and 90s.
 tabs:
   - id: overview
     label: Overview of Beauty Standards
-    url: ./
+    url: ../
 
   - id: event-1
-    label: Black Is Beautiful and the 60s to 70s
-    url: event-1/
+    label: Black Is Beautiful; the 60s to 70s
+    url: ../event-1/
+
 
   - id: event-2
     label: Evolving Standards in the 80s and 90s
-    url: event-2/
+    url: ../event-2/
     active: true
-
+    
   - id: event-3
     label: Y2K and Beyond
-    url: event-3/
+    url: ../event-3/
 ---
 
 # Beauty in the 80s
