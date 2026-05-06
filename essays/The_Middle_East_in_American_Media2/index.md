@@ -1,10 +1,10 @@
 ---
-title: "The Personal Computer"
+title: "The Middle East in American Media"
 layout: scrollstory-tabs
 header-image: images/personal-computer.jpg
-header-title: "The Personal Computer"
+header-title: "The Middle East in American Media"
 thumbnail: images/personal-computer.jpg
-summary: A social and cultural history of the personal computer.
+summary: A social and cultural history of The Middle East in American Media.
 tabs:
   - id: overview
     label: Overview of the PC
