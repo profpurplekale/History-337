@@ -48,7 +48,7 @@ Some ADD TEXT thought that the song was about GEORGE BUSH? and was banned? CONTE
   image-path="../images/4_Non_Blondes_-_Bigger,_Better,_Faster,_More!.jpeg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Album cover by Mark Ryden."
   text=chile_origins_text
 %} 
 
