@@ -7,7 +7,7 @@ thumbnail: images/1986_Toyota.jpg
 summary: A history of the US Japan Trade War and its aftermath.
 tabs:
   - id: overview
-    label: Overview of the US and Japan during the 1980s
+    label: Overview of the US Japan Tradewar
     url: ./
     active: true
 
