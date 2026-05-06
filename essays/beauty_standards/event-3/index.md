@@ -28,38 +28,23 @@ tabs:
 
 **The Early 2000s**
 
-In the early 2000s, low rise skinny jeans were all the rage. Makeup was simple, swipe some glitter on your eyes, don't wprry if your concealer is on your lips, and you're good to go party.
-
-{% include images/figure-wrap.html
-  image-path="../images/place-holder-image.jpg"
-  image-position="left"
-  image-width="50%"
-  caption="This Goes on The Left of the Page, replace it with an early 2000s model."
-  text=chile_origins_text
-%}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## 2010 Changed Beauty
 
-**1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
-
-**1493** — Chiles arrive in Spain, beginning their global spread.
-
-**1598** — Spanish colonists bring cultivated chile varieties to New Mexico along the Camino Real.
-
-**1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## 2020 Changes Beauty Again
 
-**1912** — Wilbur Scoville develops the Scoville Scale to measure chile heat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**1912** — New Mexico becomes a state; chile culture becomes a marker of regional identity.
+## Today
 
-**1970s–1980s** — The Hatch Chile Festival begins, cementing New Mexico's reputation as the chile capital of America.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**2000s** — Heirloom chile preservation movements gain momentum as industrial agriculture threatens genetic diversity.
+## Conclusion
 
-**Present** — Climate change challenges traditional growing regions while new varieties and cultivation techniques continue to evolve.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ---
 
-Beauty is cyclical and forever changing.
+Beauty is cyclical and forever changing. Beauty is forever fleeting, yet humans strive for it eternally.

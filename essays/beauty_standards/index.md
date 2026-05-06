@@ -48,10 +48,10 @@ Magazines are very influential, even subtly, on how one percieves the world, esp
   text=vogue_magazine
 %}
 
-Even abstract magazine covers such as the iconic Vogue, January 1950 cover offer an insight into what was percieved as beautiful. On this cover, there is a striking white background, eyes with blue eyeshadow that hold a mysterious look, bright red, full lips, and a beauty mark by the corner of the lips. It may not be obvious at first what this magazine cover is pushing as beautiful due to its abstract nature, but with a little analysis it becomes clear. First is the smokey eyes, the half lid. This is remenicent of the Femme Fatale troupe in movies, espeically spy movies. These women are mysterious, tough and their femininity is essential to their abilities. This suggests that to be mysterious and feminien is considered attractive.
+Even abstract magazine covers such as the iconic Vogue, January 1950 cover offer an insight into what was percieved as beautiful. On this cover, there is a striking white background, eyes with blue eyeshadow that hold a mysterious look, bright red, full lips, and a beauty mark by the corner of the lips. It may not be obvious at first what this magazine cover is pushing as beautiful due to its abstract nature, but with a little analysis it becomes clear. First is the smokey eyes, the half lid. This is remenicent of the Femme Fatale troupe in movies, espeically spy movies. These women are mysterious, tough and their femininity is essential to their abilities. This suggests that to be mysterious and feminine is considered attractive.
 Next is the bright red lips, full and in a small, barely there smile. This adds to the level of mystery associated with the Femme Fatale, but also suggests that fuller lips are more attractive. The color is also striking, bright red against the white background. Red lipstick was very popular in the 1950s. According to Insert Magazine Here, this is because "Insert Quote" [^source1] As we can see, the association with red lips and beauty was very prominent.
 
-The final piece of the vogue cover that tells us more about the beauty standards is the stark white face. This is the most on the nose part of the whole cover, but is also very significant. Pale white skin has long since been something women have strived for across the world, and magazines like this attribute to that. White skin is seen as "Insert Quote," according to Insert Second Magazine Here [^source2].
+The final piece of the vogue cover that tells us more about the beauty standards is the stark white background. This is the most on the nose part of the whole cover, but is also easy to dismiss. However, Pale white skin has long since been something women have strived for across the world, and magazines like this attribute to that. White skin is seen as "Insert Quote," according to Insert Second Magazine Here [^source2]. In some countries, such as Korea, Japan, India and more, bleaching agents are used to lighten skin. The stark white background is not a coincidence. It is a concious effort to associate pale skin with the Femme Fatale, with beauty.
 
 [^source1]:
 [^source2]:
@@ -62,10 +62,10 @@ Magazines seem frivolous on the surface, yet they shaped beauty long before TV b
 
 This magazine strictly focuses on beauty tips and fashion. It is highly geared towards women, and does not tend to waver in that. It also features Insert Type models more often than not.
 
-## Global Impact of the Beauty Standard?
+## Does the Beauty Standard only Affect Women?
 
-Paler Shade of White book, reference
+Women are the main targets for most magazines, this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergece of the Club Kids led to almost a revolution of beauty and fashion. One of the Club Kids who emerged ontop and brought queer culture to the main stream is Rupaul Charles. Charles is best known for his reality compitiion show, RuPaul's Drag Race. On this show, there is a clear preference towards skinny and white drag queens. In the shows history, Insert Number Here white queens were crowned. Even in the queer community, the beauty standard effects everyone. Drag is meant to push limits, just like the Club Kids did, but it still also follows the trends of the day and age.
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Further exploration:** Magazines can influence you more than you think. 
