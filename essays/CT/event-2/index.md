@@ -27,11 +27,11 @@ tabs:
 
 # 1980's: During Deregulation - Television as a Marketplace.
 
-In the 1970's, children's television was built around the idea that media should serve the public especially with younger audiences. Broadcasters such as PBS - Public Broadcasting Service - were expected to meet educational needs. INSERT IMAGE OF SESEAME STREET
+In the 1980's, there was a dramatic shift in children's television that was driven by deregulation policies under reagan.FUTHER EXPANSION INSERT IMAGE OF FCC & FUTHER DETAIL OF 1984 POLICY CHANGES
 
 ## Programs in the 80's
 
-Programs such as Schoolhouse Rock!, and Free to Be . . . You and Me emphasized skills such as literacy and social values like equality. These shows reflected a broader shift towards inclusivity after the Civil Rights Movement in the 50's & 60's. FIX IMAGE
+Programs such as He-Man and My Little Pony emphasized were closely tied to toy lines that turned tv to extended advertisements --- brother what? 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
   image-position="left"
@@ -40,6 +40,6 @@ Programs such as Schoolhouse Rock!, and Free to Be . . . You and Me emphasized s
   text=chile_origins_text
 %}
 
-Government Policy reinforced this approach. Federal Communication Commission - FCC -required broadcasters to operate in the public interest. FCC Commissioner Hooks in 1974, emphasized television had a responsiblity to support children's learning and development. ADD IMAGE
+Government Policy something ADD IMAGE
 ### Impact 
-Televison as educational tool . . .EXPAND LATER
+Toy advertisements reinforced gender sterotypes & children viewed as market demographic.EXPAND LATER

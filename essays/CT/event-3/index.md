@@ -26,11 +26,11 @@ tabs:
 
 #  1990s - Present: Children's Television After Deregulation - Finding Balance
 
-In the 1970's, children's television was built around the idea that media should serve the public especially with younger audiences. Broadcasters such as PBS - Public Broadcasting Service - were expected to meet educational needs. INSERT IMAGE OF SESEAME STREET
+Concerns on effects of deregulation lead to the passage of Children's television act of 1990 -- expand . INSERT IMAGE somehwere TT
 
 ## Programs in the 70's
 
-Programs such as Schoolhouse Rock!, and Free to Be . . . You and Me emphasized skills such as literacy and social values like equality. These shows reflected a broader shift towards inclusivity after the Civil Rights Movement in the 50's & 60's. FIX IMAGE
+Programs ... FIX IMAGE
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
   image-position="left"
@@ -39,6 +39,6 @@ Programs such as Schoolhouse Rock!, and Free to Be . . . You and Me emphasized s
   text=chile_origins_text
 %}
 
-Government Policy reinforced this approach. Federal Communication Commission - FCC -required broadcasters to operate in the public interest. FCC Commissioner Hooks in 1974, emphasized television had a responsiblity to support children's learning and development. ADD IMAGE
+Law attempted to restore balance between commercial and public service interest but media landscape had already changed as commercialization continued to remain deeply embedded in children's television.
 ### Impact 
-Televison as educational tool . . .EXPAND LATER
+Televison still educational & shows impact of government influence today . . .EXPAND LATER
