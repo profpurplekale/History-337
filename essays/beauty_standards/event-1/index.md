@@ -32,12 +32,15 @@ In the midst of the Civil Rights Movement, another counter-cultural protest bega
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/black-is-beautiful.jpg"
+  image-path="beauty_standards/images/black-is-beautiful.jpg"
   image-position="left"
   image-width="48%"
-  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles [^source2] "
+  caption="test"
   text=black_is_beautiful
 %}
+
+[^source1]: I don't freaking know why this webpage is broken!!!
+[^source2]: www.nytimes.com/2018/11/27/lens/kwame-brathwaite-black-is-beautiful.html
 
 ## Mods and Hippies
 
@@ -58,10 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=twiggy
 %}
 
+[^source3]: https://thatsnotmyage.com/beauty-at-any-age/50-years-of-fashion-icon-twiggy/
+
 ## Conclusion
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[^source1]: I don't freaking know why this webpage is broken!!!
-[^source2]: www.nytimes.com/2018/11/27/lens/kwame-brathwaite-black-is-beautiful.html
-[^source3]: https://thatsnotmyage.com/beauty-at-any-age/50-years-of-fashion-icon-twiggy/
