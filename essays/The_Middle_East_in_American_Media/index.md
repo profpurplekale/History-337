@@ -16,7 +16,7 @@ tabs:
     url: event-1/
 
   - id: event-2
-    label: Western Intervention and the Creation of Israel
+    label: Western Intervention
     url: event-2/
 
   - id: event-3
@@ -32,24 +32,16 @@ The story of how this plant became the defining ingredient of Southwestern cuisi
 ## Cultural Shifts in Film
 
 {% capture chile_origins_text %}
-	The Thief of Bagdad1 was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. This film also depicts Eastern governments, which have become the subject of heavy criticism in the modern day, but the film continues to make no broad statements about them, with characters coming from royalty being portrayed in multiple differing lights. 
-
-	Over time, this ability to represent a setting without a strong political condemnation or glorification has become less prominent, especially in regard to the Middle East. 
-The defining lens that Americans used to view the region prior to the 1950s was ignorance. Following the two world wars in the early 20th century, Americans were pressed a greater awareness of international affairs, and citizens of the U.S. began to reach consensus on how to judge these now-apparent nations. Japan and Germany, for example, were the subject of most American ire, due to their roles in the previous conflicts, but the Middle East has proven to be significantly more complicated.
-
-	In the years leading up to war (and those running through them) nations in the East were often portrayed with some amount of political neutrality2. While there were, of course, cultural and religious traditions that created a distinct separation from the U.S. perspective, the representations of individuals practicing the Islamic faith (who were the primary makeup of the region) were based significantly less in hatred than one would see in the modern day. One can, in fact, notice American inspiration drawn from Eastern cultures3. For a time, ideals of hard work, moral strength, and performance shaped the U.S., painting a much more interconnected picture than modern discourse would suggest.
+	
 
 {% endcapture %}
 
-{% * Set a fixed width */
-.container {
-  width: 800px;
-  margin: 0 auto;
-}
-
-/* Set a fixed height */
-.hero {
-  height: 600px;
+{include images/figure-wrap.html
+  image-path="images/McCarthy_Wheeling.jpg"
+  image-position="left"
+  image-width="48%"
+  caption="Senator McCarthy's claim in his February 9, 1950 speech that over 205 government employees were members of Communist Party made newspaper headlines and captured fears of the American public."
+  text=chile_origins_text
 %}
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
