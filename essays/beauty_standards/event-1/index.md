@@ -28,16 +28,36 @@ tabs:
 
 In the midst of the Civil Rights Movement, another counter-cultural protest began. This one was closely related, though it was in a completely different setting than the poltical Civil Rights movement. This was the Black is Beautiful movement. This movement was exactly what it sounds like. Black women are beautiful, and they should be highlighted as well. Natural Black hair is beautiful, from kinky curls to thick coils. According to the Black beauty magazine in 1970, Ebony, "____________" [^source1]. The point of the movement was to empower Black women in embracing their natural beauty, the same way white women have been encouraged since youth to feel beautiful.
 
-[^source1]:
+{% include images/figure-wrap.html
+  image-path="images/black-is-beautiful.jpg"
+  image-position="left"
+  image-width="48%"
+  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles."
+  text=[^source2]
+%}
+
 
 ## Natural Beauty
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## The Flower Child
+## Mods and Hippies
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{% include images/figure-wrap.html
+  image-path="images/twiggy-1960.jpg"
+  image-position="left"
+  image-width="48%"
+  caption="Twiggy, 1966"
+  text=[^source3]
+%}
+
 
 ## Conclusion
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[^source1]:
+[^source2]: www.nytimes.com/2018/11/27/lens/kwame-brathwaite-black-is-beautiful.html
+[^source3]: https://thatsnotmyage.com/beauty-at-any-age/50-years-of-fashion-icon-twiggy/
