@@ -43,7 +43,7 @@ This song is generally about the problems of government and wealth inequality. I
 
 Some thought that the song was a critique of the Bush Administration, and in Texas, they had trouble getting the song to be aired as a result.[^1] According to Christa Hillhouse, however, the song was not aimed at any specific leader, but rather a song about "the hierarchy of power and government".[^1]
 
-{% include typography/pullquote.html text="\"It's kind of funny because at the time, it wasn't about the president in office, it was about the hierarchy of power and government. It wasn't specifically pointed at him. I remember being really surprised when it happened. It's a song about looking around and seeing problems and feeling like there's someone in charge who is responsible.\"" %} [^1]
+
 
 {% include images/figure-wrap.html
   image-path="../images/4_Non_Blondes_-_Bigger,_Better,_Faster,_More!.jpeg"
@@ -53,6 +53,7 @@ Some thought that the song was a critique of the Bush Administration, and in Tex
   text=chile_origins_text
 %} 
 
+{% include typography/pullquote.html text="\"It's kind of funny because at the time, it wasn't about the president in office, it was about the hierarchy of power and government. It wasn't specifically pointed at him. I remember being really surprised when it happened. It's a song about looking around and seeing problems and feeling like there's someone in charge who is responsible.\"" %} [^1]
 
 ## Fitz and the Tantrums (2010)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HrGq1Zmfnvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
@@ -73,7 +74,7 @@ This source is a song. It focuses on the struggles of people in poverty, and how
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"TEXT HERE.\"" %}
 
 ## Comparison
 
