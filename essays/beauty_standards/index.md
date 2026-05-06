@@ -70,7 +70,7 @@ Women are the main targets for most magazines, this is true. However, the beauty
 
 {% include images/figure-wrap.html
   image-path="images/onya-nurve.jpg"
-  image-position="right"
+  image-position="left"
   image-width="48%"
   caption="The Winner of Rupaul's Drag Race Season 17, Onya Nurve"
   text=onya_nurve
