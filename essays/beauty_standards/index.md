@@ -8,7 +8,7 @@ summary: A cultural study of the Beauty Standard
 tabs:
   - id: overview
     label: Overview of Beauty Standards
-    url: ../
+    url: ./
     active: true
 
   - id: event-1
