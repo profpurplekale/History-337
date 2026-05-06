@@ -64,7 +64,7 @@ Fitz and the Tantrums formed in 2008, and often perform indie pop and neo soul m
 
 ### About the Song
 
-This song focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. This reveals the variety of focuses that many political songs have in terms of scope, even in similar time periods, as Fredwreck’s song was released only 6 years prior to this one, and features much more specific, targeted critique.
+This song focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures.
 
 {% include images/figure-wrap.html
   image-path="../images/Pickin'_up_the_pieces.jpeg"
