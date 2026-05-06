@@ -1,13 +1,13 @@
 ---
-title: "70's Children's Television"
+title: "Children's Television"
 layout: scrollstory-tabs
 header-image: images/70'sSS.jpg
-header-title: "70's Children's Televison"
+header-title: "Children's Televison"
 thumbnail: images/70'sSS.jpg
-summary: History of Children's Televison in the 70s before Deregulation.
+summary: History of Children's Televison.
 tabs:
   - id: overview
-    label: Overview of Children's Television in the 70's
+    label: Overview of Children's Television
     url: ../
 
   - id: event-1
