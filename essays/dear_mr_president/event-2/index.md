@@ -34,7 +34,7 @@ Not all of these songs focused on narrow, specific subject matter. Some of them 
 
 ### About the Artist
 
-4 Non Blondes was formed in 1989, and was comprised of Linda Perry, Christa Hillhouse, Dawn Richardson, and Roger Rocha. The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles.(CITATION) Dear Mr. President was released as a single and also included in their album.(CITATION)
+4 Non Blondes was formed in 1989, and was comprised of Linda Perry, Christa Hillhouse, Dawn Richardson, and Roger Rocha. The band only released one album, "Bigger, Better, Faster, More!", though they did release several singles.(CITATION) Dear Mr. President was released as a single and also included in their album.[^1]
 The band disbanded two years after releasing their first and only album, but as of 2025 have planned a reunion.[^1][^2]
 
 ### About the Song
