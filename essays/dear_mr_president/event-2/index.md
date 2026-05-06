@@ -64,7 +64,8 @@ Fitz and the Tantrums formed in 2008, and often perform indie pop and neo soul m
 
 ### About the Song
 
-This song focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures.
+This song was released as a part of the album, "Pickin' Up the Pieces", and was the first full length album by the band.
+It focuses on the struggles of people in poverty, and how people are often unable to access necessities or receive help to improve their situation. Similarly to the song by 4 Non Blondes, it is not very specific in its critique, aiming at the larger problems of society rather than specific policies or figures. It adddresses similar contemporary issues, including poverty and drug use, and calls on the president to help with these problems.
 
 {% include images/figure-wrap.html
   image-path="../images/Pickin'_up_the_pieces.jpeg"
@@ -78,7 +79,7 @@ This song focuses on the struggles of people in poverty, and how people are ofte
 
 ## Comparison
 
-Despite the gap in time between these two songs, they are fairly similar in the broad critiques, as they note issues of poverty and governance that are not tied to any particular event or administration. 
+Despite the gap in time between these two songs, they are fairly similar in the broad critiques, as they note issues of poverty and governance that are not tied to any particular event or administration. There aren't many specific arguments or calls to action in these songs either, primarliy arguing that the current state of affairs is not good. This highlights the way that political messages in popular media are not always very detailed, and may not neccessarily be written with a specific goal in mind.
 
 
 [^1]: Carl Wiser. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
