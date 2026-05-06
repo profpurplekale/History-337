@@ -34,7 +34,7 @@ In the midst of the Civil Rights Movement, another counter-cultural protest bega
   image-path="images/black-is-beautiful.jpg"
   image-position="right"
   image-width="48%"
-  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles [^source2] "
+  caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles [^source2]"
   text=black_is_beautiful
 %}
 
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image-path="images/twiggy-1960.jpg"
   image-position="left"
   image-width="48%"
-  caption="Twiggy, 1966 [^source3] "
+  caption="Twiggy, 1966 [^source3]"
   text=twiggy
 %}
 
@@ -61,6 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[^source1]:
+[^source1]: I don't freaking know why this webpage is broken!!!
 [^source2]: www.nytimes.com/2018/11/27/lens/kwame-brathwaite-black-is-beautiful.html
 [^source3]: https://thatsnotmyage.com/beauty-at-any-age/50-years-of-fashion-icon-twiggy/
