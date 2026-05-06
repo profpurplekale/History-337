@@ -57,7 +57,7 @@ The final piece of the vogue cover that tells us more about the beauty standards
 
 ## But Why is this Important?
 
-Magazines seem frivolous on the surface, yet they shaped beauty long before TV became mainstream, and their effects can still be felt in the digital world today. 
+Magazines seem frivolous on the surface, yet they shaped beauty long before TV became mainstream, and their effects can still be felt in the digital world today. For example, many magazines now have an active social media presence. While some keep up with the political realities of the world, others continue with enforcing a beauty standard. Teen Vogue keeps it's consumer base up to date with politics as well as offering Op-Eds and beauty tips. Overall, it tries to be well-rounded and advocate for many different kinds of people. On the other end of the spectrum, however, is __________. This magazine strictly focuses on beauty tips and fashion. It is highly geared towards women, and does not tend to waver in that. It also features ______ models more often than not.
 
 ## Global Impact of the Beauty Standard?
 
