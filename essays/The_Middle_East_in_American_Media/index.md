@@ -41,12 +41,15 @@ The defining lens that Americans used to view the region prior to the 1950s was 
 
 {% endcapture %}
 
-{% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
-  image-position="left"
-  image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
-  text=chile_origins_text
+{% * Set a fixed width */
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+/* Set a fixed height */
+.hero {
+  height: 600px;
 %}
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
