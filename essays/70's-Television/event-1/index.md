@@ -1,9 +1,9 @@
 ---
 title: "70's Televison: Educational Era"
 layout: scrollstory-tabs
-header-image: ../images/hippies.jpg
+header-image: ../images/70'sSS.jpeg
 header-title: "70's Televions"
-thumbnail: ../images/hippies.jpg
+thumbnail: ../images/70'sSS.jpeg
 summary: A history of children's television in the 70's
 tabs:
   - id: overview
