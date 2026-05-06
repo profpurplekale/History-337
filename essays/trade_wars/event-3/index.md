@@ -24,7 +24,7 @@ tabs:
     active: true
 ---
 [^1]
-# Videogames, Music, and Anime
+# Music, Videogames, and Anime
 
  As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^2]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^3] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^4] 
  
