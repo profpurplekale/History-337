@@ -7,25 +7,25 @@ thumbnail: ../images/welch-mccarthy.jpg
 summary: The landscapes and regions that shaped chile cultivation and culture.
 tabs:
   - id: overview
-    label: Overview of Middle Eastern Depictions
+    label: Cultural Shifts in Film
     url: ../
 
   - id: event-1
-    label: The Second Red Scare
+    label: Film Depictions Before 1945
     url: ../event-1/
 
 
   - id: event-2
-    label: The McCarthy Hearings
+    label: Turmoil Before 9/11
     url: ../event-2/
     active: true
     
   - id: event-3
-    label: Western Intervention and the Creation of Israel
+    label: An American Enemy
     url: ../event-3/
 ---
 
-# Overview of Middle Eastern Depictions
+# Cultural Shifts in Film
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
