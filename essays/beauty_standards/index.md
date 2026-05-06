@@ -64,8 +64,15 @@ This magazine strictly focuses on beauty tips and fashion. It is highly geared t
 
 ## Does the Beauty Standard only Affect Women?
 
-Women are the main targets for most magazines, this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergece of the Club Kids led to almost a revolution of beauty and fashion. One of the Club Kids who emerged ontop and brought queer culture to the main stream is Rupaul Charles. Charles is best known for his reality compitiion show, RuPaul's Drag Race. On this show, there is a clear preference towards skinny and white drag queens. In the shows history, Insert Number Here white queens were crowned. Even in the queer community, the beauty standard effects everyone. Drag is meant to push limits, just like the Club Kids did, but it still also follows the trends of the day and age.
+Women are the main targets for most magazines, this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergece of the Club Kids led to almost a revolution of beauty and fashion. One of the Club Kids who emerged ontop and brought queer culture to the main stream is Rupaul Charles. Charles is best known for his reality compitiion show, RuPaul's Drag Race. This show brought Drag into the mainstream and drag itself began to influence the beauty standard. While the show does have it's issues, especially a bias against Drag Queens of color in previous seasons and those who are more alternative, the fact is it did influence much of our modern culture and what is considered beautiful. The winner of the 17th season, however, was Onya Nurve, a Black Drag Queen who used her time to redefine beauty in drag as well.
 
+{% include images/figure-wrap.html
+  image-path="images/onya-nurve.jpg"
+  image-position="left"
+  image-width="48%"
+  caption="The Winner of Rupaul's Drag Race Season 17, Onya Nurve"
+  text=onya_nurve
+%}
 ---
 
 **Further exploration:** Magazines can influence you more than you think. 
