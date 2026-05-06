@@ -28,13 +28,7 @@ tabs:
 
 In the midst of the Civil Rights Movement, another counter-cultural protest began. This one was closely related, though it was in a completely different setting than the poltical Civil Rights movement. This was the Black is Beautiful movement. This movement was exactly what it sounds like. Black women are beautiful, and they should be highlighted as well. Natural Black hair is beautiful, from kinky curls to thick coils. According to the Black beauty magazine in 1970, Ebony, "____________" [^source1]. The point of the movement was to empower Black women in embracing their natural beauty, the same way white women have been encouraged since youth to feel beautiful.
 
-{% include images/figure-wrap.html
-  image-path="images/black-is-beautiful.jpg"
-  image-position="right"
-  image-width="48%"
-  caption="Untitled (Pat on Car), 1968. Credit: Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles."
-  text=[^source2]
-%}
+
 
 ## Mods and Hippies
 
