@@ -25,11 +25,9 @@ tabs:
     url: ../event-3/
 ---
 
-# The McCarthy Hearings
+# Western Intervention and Growing Tension
 
-From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
-
-## Mesoamerican Origins
+## Fear in the U.S.A
 
 Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
 
