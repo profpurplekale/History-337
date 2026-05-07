@@ -39,7 +39,7 @@ Archaeological evidence points to the highlands of central Mexico as the birthpl
   text=chile_origins_text
 %}
 
-## The Rio Grande Valley
+## Rules of Engagement (2000)
 
 When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
 
