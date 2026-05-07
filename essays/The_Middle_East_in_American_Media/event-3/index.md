@@ -1,25 +1,25 @@
 ---
-title: "The Warren Court"
+title: "Islamophobia in the 21st Century"
 layout: scrollstory-tabs
 header-image: ../images/welch-mccarthy.jpg
-header-title: "McCarthyism"
+header-title: "The Middle East in American Media"
 thumbnail: ../images/welch-mccarthy.jpg
 summary: A chronological journey through the history of chile cultivation and culture.
 tabs:
   - id: overview
-    label: Overview of McCarthyism
+    label: Overview
     url: ../
 
   - id: event-1
-    label: The Second Red Scare
+    label: Middle Eastern Relations Before 1950
     url: ../event-1/
 
   - id: event-2
-    label: The McCarthy Hearings
+    label: Western Intervention and Growing Tension
     url: ../event-2/
 
   - id: event-3
-    label: The Warren Court
+    label: Islamophobia in the 21st Century
     url: ../event-3/
     active: true
 ---

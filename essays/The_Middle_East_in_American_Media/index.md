@@ -1,7 +1,7 @@
 ---
 title: "The Middle East in American Media"
 layout: scrollstory-tabs
-header-image: images/welch-mccarthy.jpg
+header-image: images/Middle_East_Map.jpg
 header-title: "The Middle East in American Media"
 thumbnail: images/welch-mccarthy.jpg
 summary: A history of McCarthyism from the Second Red Scare to the intervention of the Warren Court.
