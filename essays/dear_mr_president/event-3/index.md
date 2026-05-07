@@ -62,7 +62,7 @@ This song makes use of appeals to empathy and compassion as its primary way of m
 
 ### About the Artist
 
-Fredwreck, or Farid Karam Nassar, is 
+Fredwreck, or Farid Karam Nassar, is a Palestinian-American musician from Michigan. He  
 
 ### About the Song
 
