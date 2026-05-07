@@ -37,9 +37,11 @@ Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. H
 
 ### About the Song
 
-Upset by some of Bush's policies, Pink recorded Dear Mr. President, a song which addresses issues such as homelessness, the Iraq War, and gay rights.[^3] This song provided much more direct critique than those of Fitz and the Tantrums or 4 Non Blondes. It is addressed directly to George Bush, asking him "How do you sleep while the rest of us cry? How do you dream when a mother has no chance to say goodbye? How do you walk with your head held high? Can you even look me in the eye?". The song is most likely intended for its audience to hear, and be moved by the unjust imagery that the song generates. This may have been fairly effective, as the song appeared to change the mind of her conservative father after listening to it.[^1]
+Upset by some of Bush's policies, Pink recorded Dear Mr. President, a song which addresses issues such as homelessness, the Iraq War, and gay rights.[^3] The song was released as a part of the album "I'm Not Dead", which is the fourth album she released. This song provided much more direct critique than those of Fitz and the Tantrums or 4 Non Blondes. It is addressed directly to George Bush, asking him "How do you sleep while the rest of us cry? How do you dream when a mother has no chance to say goodbye? How do you walk with your head held high? Can you even look me in the eye?". The song is most likely intended for its audience to hear, and be moved by the unjust imagery that the song generates. This may have been fairly effective, as the song appeared to change the mind of her conservative father after listening to it.[^1]
 
-"For Moore, the most fulfilling part of recording 'I'm Not Dead' was her father's reaction to 'Dear Mr. President.''I saw goose bumps on his arms,' Moore recalls. 'He said, ? feel like I'm back in the '60s. Isn't it great that you live in a country where you can say those things and they can be heard? Good for you for exercising the right that we fought for.' In Moore's view, 'Bush is the worst president the United States has ever had.' After hearing 'Dear Mr. President,' her father told her, 'I think you're right.'"[^1]
+"For Moore, the most fulfilling part of recording 'I'm Not Dead' was her father's reaction to 'Dear Mr. President.''I saw goose bumps on his arms,' Moore recalls. 'He said, I feel like I'm back in the '60s. Isn't it great that you live in a country where you can say those things and they can be heard? Good for you for exercising the right that we fought for.' In Moore's view, 'Bush is the worst president the United States has ever had.' After hearing 'Dear Mr. President,' her father told her, 'I think you're right.'"[^1]
+
+This song makes use of appeals to empathy and compassion as its primary way of making its points, in the hopes of sharing concerns about policy and convincing leaders to change these in order to help the people they are hurting. It focuses on a variety of concerns about the Bush Administration, and is intended to be persuasive and sympathetic.
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_Mr._President_II.jpeg"
@@ -49,7 +51,7 @@ Upset by some of Bush's policies, Pink recorded Dear Mr. President, a song which
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"This is one of the smarter songs I've ever written. My way is usually waving the flag and saying, 'You're wrong, burn in hell.' This is subtle and provocative, and it's very innocent.\"" %}[^1]
 
 
 
