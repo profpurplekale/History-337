@@ -26,14 +26,14 @@ tabs:
 
 # The Bush Administration
 
-From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
+The Bush Administration was a time of ADD TEXT HERE, and many people had 
 
 ## Pink (2006)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
 
-Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. She
+Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had EXPAND [^1] 
 
 ### About the Song
 
@@ -49,8 +49,7 @@ This source is a song. It primarily critiques issues around George. W. Bush and 
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
-"IN THE STUDIO." 2006.Rolling Stone, Feb 09, 26.
-Conniff, Tamara. , "Think PINK," Billboard 118, no. 10 (2006): 22
+
 
 
 
@@ -79,3 +78,5 @@ Kellner, Douglas. “Bushspeak and the Politics of Lying: Presidential Rhetoric 
 ---
 
 The story of the chile is still being written.
+
+[^1]: Tamara Conniff. "Think PINK," Billboard 118, no. 10 (2006): 22.

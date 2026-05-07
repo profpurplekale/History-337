@@ -93,16 +93,16 @@ Government overreach is a common theme in music of this type, as an extention of
 
 ## Comparison
 
-These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being ADD TEXT HERE.(CITATION) Happy Fats, however, takes a staunchly segregationist position, 
+These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being associated with the ADD TEXT HERE, tended towards adovcacy of ADD TEXT HERE, even after they split in.(CITATION) Happy Fats, however, takes a staunchly segregationist position, ADD TEXT HERE. This reflects the ways that divisions about 
 
 
-[^1]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
-[^2]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31.
-[^um]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 26-27.
-[^3]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 56-57.
-[^cite]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 25.
-[^ch]: Seidman, Joel. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 59.
-[^pe]: Denisoff, R. Serge. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 27
-[^next]: Wade, Michael. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
-[^4]: Messner, Beth A., Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531.
+[^1]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
+[^2]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31.
+[^um]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 26-27.
+[^3]: Joel Seidman. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 56-57.
+[^cite]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 25.
+[^ch]: Joel Seidman. “Labor Policy of the Communist Party during World War II.” ILR Review 4, no. 1 (1950): 59.
+[^pe]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 27
+[^next]: Michael Wade. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
+[^4]: Beth A. Messner, Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531.
 [^5]: The Country Music Hall of Fame and Museum. The Encyclopedia of Country Music. Oxford University Press, 1998. EBSCOhost: 227.
