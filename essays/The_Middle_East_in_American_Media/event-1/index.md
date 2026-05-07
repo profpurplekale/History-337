@@ -25,24 +25,25 @@ tabs:
     url: ../event-3/
 ---
 
-# The Second Red Scare
+# A Turning Point in Cultural Relationships
 
-The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
-## Indigenous Cultivators
 
-Long before European contact, Mesoamerican peoples had developed sophisticated agricultural techniques for growing chiles. The Aztecs, Maya, and other civilizations didn't just consume chiles—they bred them, selecting for specific flavor profiles, heat levels, and growing characteristics.
+
+## Early Film Depictions
+
+The Thief of Bagdad FOOTNOTE 1 was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. 
+
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/Thief_Of_Bagdad.jpg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="The Thief of Bagdad provides strong insight into the politically neutral view of Middle Eastern Cultures prior to 1950."
   text=chile_origins_text
 %}
 
-These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
-
+This film also depicts Eastern governments, which have become the subject of heavy criticism in the modern day, but the film continues to make no broad statements about them, with characters coming from royalty being portrayed in multiple differing lights. Over time, this ability to represent a setting without a strong political condemnation or glorification has become less prominent, especially in regard to the Middle East. 
 ## Spanish Missionaries and Settlers
 
 When Spanish colonizers arrived in the Americas, Franciscan missionaries and early settlers recognized the value of chiles almost immediately. They brought cultivated varieties northward along the Camino Real, establishing chile cultivation in what is now New Mexico by the late 1500s.
