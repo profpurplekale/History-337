@@ -1,5 +1,5 @@
 ---
-title: "Hippies"
+title: "The Craft Brewing Movement"
 layout: scrollstory-tabs
 header-image: images/vatt.jpeg
 header-title: "The Hippie Movement"

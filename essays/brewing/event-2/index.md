@@ -1,5 +1,5 @@
 ---
-title: "Hippies"
+title: "HELP"
 layout: scrollstory-tabs
 header-image: ../images/vatt.jpeg
 header-title: "Hippies"
