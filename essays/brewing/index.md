@@ -24,14 +24,14 @@ tabs:
     url: event-3/
 ---
 
-# Overview of the Hippie Movement
+# Overview of the Craft Beer Movement
 
 In the 1970s, a quiet cultural revolution was brewing in America’s garages. This isn’t a study about the Macintosh, but rather the preservative-free food and the jerry-rigged kegerators that held just as much transformative potential for the U.S. economy as the Macintosh.
 
 The Craft Beer Movement of the late 20th century emerged in California from hobbyist, collaborative, informal knowledge networks, and localist critiques of industrial food production. Notions of the heroic entrepreneur and rugged individualist heavily influenced the Craft Brewing Movement and its pioneers. The masculinized and entrepreneurial evolution of the industry largely reflects broader cultural, neoliberal, and economic ideals in American society at the turn of the century. 
 
 
-## Wild Origins and Sacred Uses
+## Oil, Standardization, IDK
 
 {% capture chile_origins_text %}
 After the financial crises of the 20th century, including the welfare crisis of the 1960s and the oil shocks of the 1970s, the American consciousness began to shift further toward notions of economic independence. As the postwar economy began to stagnate, the portion of the upper middle and wealthy class that witnessed wealth concentration began to seek “a more specialized and symbolically complex consumer lifestyle.”   The crisis in welfare capitalism also had the “unusual effect of… the revitalization of ideas about entrepreneurship, creativity and innovation.”   Specialized consumer lifestyles and the perceived need to imagine an economy unreliant on Middle Eastern oil and global economies gave rise to the farm-to-table and localism movements, and, with renewed entrepreneurial imagination, the Craft Brewing Movement emerged.
