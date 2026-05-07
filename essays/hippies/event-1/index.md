@@ -34,10 +34,10 @@ The story of chiles is fundamentally a story of people—farmers, traders, cooks
 Long before European contact, Mesoamerican peoples had developed sophisticated agricultural techniques for growing chiles. The Aztecs, Maya, and other civilizations didn't just consume chiles—they bred them, selecting for specific flavor profiles, heat levels, and growing characteristics.
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/vatt.jpeg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Drubnkadrd evidence"
   text=chile_origins_text
 %}
 
