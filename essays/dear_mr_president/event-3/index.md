@@ -33,7 +33,7 @@ From ancient cultivation to modern cuisine, the chile's journey spans thousands 
 
 ### About the Artist
 
-ADD TEXT HERE
+Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. She
 
 ### About the Song
 
@@ -43,7 +43,7 @@ This source is a song. It primarily critiques issues around George. W. Bush and 
   image-path="../images/Dear_Mr._President_II.jpeg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="By http://www.hitradio-star.de/images/pink.jpgDerived from a digital capture of the single cover (creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the same party). Copyright held by the record label or the artist. Claimed as fair use regardless., Fair use, https://en.wikipedia.org/w/index.php?curid=11084115."
   text=chile_origins_text
 %}
 
