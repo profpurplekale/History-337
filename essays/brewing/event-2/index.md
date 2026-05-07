@@ -2,9 +2,9 @@
 title: "HELP"
 layout: scrollstory-tabs
 header-image: ../images/manvatt.jpeg
-header-title: "Hippies"
+header-title: "The Craft Brewing Movement"
 thumbnail: ../images/manvatt.jpeg
-summary: A history of the Hippie Movement
+summary: A history of the Craft Brewing Movement
 tabs:
   - id: overview
     label: Overview of The Craft Brewing Movement
