@@ -33,13 +33,13 @@ The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEX
 
 ### About the Artist
 
-Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had very different political views to her, with him being much more conservative, and they often avoided discussing politics together.[^1]  
+Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had very different political views to her, with him being much more conservative, and they often avoided discussing politics together.[^1] She 
 
 ### About the Song
 
-Upset by some of Bush's policies, Pink recorded Dear Mr. President, a song which addresses issues such as 
+Upset by some of Bush's policies, Pink recorded Dear Mr. President, a song which addresses issues such as homelessness, the Iraq War, and gay rights.[^3] This song provided much more direct critique than those of Fitz and the Tantrums or 4 Non Blondes. It is addressed directly to George Bush, asking him "How do you sleep while the rest of us cry? How do you dream when a mother has no chance to say goodbye? How do you walk with your head held high? Can you even look me in the eye?". The song is most likely intended for its audience to hear, and be moved by the unjust imagery that the song generates. This may have been fairly effective, as the song appeared to change the mind of her conservative father after listening to it.[^1]
 
-This source is a song. It primarily critiques issues around George. W. Bush and his policies. It reveals the attitudes that some had around these issues, and about music at the time as well. This song addresses the president directly, though is likely also aimed at a general audience in order to garner support for her perspectives on the issues she discusses, such as homelessness, homosexuality and the Iraq War.
+"For Moore, the most fulfilling part of recording 'I'm Not Dead' was her father's reaction to 'Dear Mr. President.''I saw goose bumps on his arms,' Moore recalls. 'He said, ? feel like I'm back in the '60s. Isn't it great that you live in a country where you can say those things and they can be heard? Good for you for exercising the right that we fought for.' In Moore's view, 'Bush is the worst president the United States has ever had.' After hearing 'Dear Mr. President,' her father told her, 'I think you're right.'"[^1]
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_Mr._President_II.jpeg"
@@ -83,3 +83,4 @@ The story of the chile is still being written.
 
 [^1]: Tamara Conniff. "Think PINK," Billboard 118, no. 10 (2006): 22.
 [^2]: Amy Gershkoff and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 526
+[^3]: "IN THE STUDIO." 2006.Rolling Stone, Feb 09, 26.
