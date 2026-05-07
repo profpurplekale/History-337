@@ -17,11 +17,11 @@ tabs:
     active: true
 
   - id: event-2
-    label: The McCarthy Hearings
+    label: Western Intervention and Growing Tension
     url: ../event-2/
 
   - id: event-3
-    label: The Warren Court
+    label: Islamophobia in the 21st Century
     url: ../event-3/
 ---
 
