@@ -1,9 +1,9 @@
 ---
 title: "Islamophobia in the 21st Century"
 layout: scrollstory-tabs
-header-image: ../images/welch-mccarthy.jpg
+header-image: ../images/Middle_East_Map.jpg
 header-title: "The Middle East in American Media"
-thumbnail: ../images/welch-mccarthy.jpg
+thumbnail: ../images/Middle_East_Map.jpg
 summary: A chronological journey through the history of chile cultivation and culture.
 tabs:
   - id: overview

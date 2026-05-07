@@ -1,9 +1,9 @@
 ---
 title: "Western Intervention and Growing Tension"
 layout: scrollstory-tabs
-header-image: ../images/welch-mccarthy.jpg
+header-image: ../images/Middle_East_Map.jpg
 header-title: "The Middle East in American Media"
-thumbnail: ../images/welch-mccarthy.jpg
+thumbnail: ../images/Middle_East_Map.jpg
 summary: The landscapes and regions that shaped chile cultivation and culture.
 tabs:
   - id: overview

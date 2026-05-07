@@ -1,9 +1,9 @@
 ---
 title: "Middle Eastern Relations Before 1950"
 layout: scrollstory-tabs
-header-image: ../images/welch-mccarthy.jpg
+header-image: ../images/Middle_East_Map.jpg
 header-title: "The Middle East in American Media"
-thumbnail: ../images/welch-mccarthy.jpg
+thumbnail: ../images/Middle_East_Map.jpg
 summary: The Second Red Scare.
 tabs:
   - id: overview
