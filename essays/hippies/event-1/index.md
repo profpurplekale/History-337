@@ -27,7 +27,7 @@ tabs:
 
 # The Merry Pranksters
 
-The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
+The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own. This is a new edit.
 
 ## Indigenous Cultivators
 
