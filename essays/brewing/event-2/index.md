@@ -7,21 +7,21 @@ thumbnail: ../images/vatt.jpeg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
-    label: Overview of Hippies
+    label: Overview of The Craft Brewing Movement
     url: ../
 
   - id: event-1
-    label: The Merry Pranksters
+    label: Crisis Brewing
     url: ../event-1/
 
 
   - id: event-2
-    label: The Summer of Love
+    label: Fermentrepreneurialism
     url: ../event-2/
     active: true
     
   - id: event-3
-    label: Absorption into New Age
+    label: Hangover
     url: ../event-3/
 ---
 
