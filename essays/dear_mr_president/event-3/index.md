@@ -87,5 +87,4 @@ The story of the chile is still being written.
 [^1]: Tamara Conniff. "Think PINK," Billboard 118, no. 10 (2006): 22.
 [^2]: Amy Gershkoff and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 526
 [^3]: "IN THE STUDIO." 2006. Rolling Stone, Feb 09, 26.
-
-[^4]: Al Jazeera, “Putting Politics Back into US Hip-Hop,” Al Jazeera, August 17, 2005
+[^4]: Al Jazeera, “Putting Politics Back into US Hip-Hop,” Al Jazeera, August 17, 2005.
