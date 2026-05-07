@@ -62,7 +62,7 @@ This song makes use of appeals to empathy and compassion as its primary way of m
 
 ### About the Artist
 
-ADD TEXT HERE
+Fredwreck is 
 
 ### About the Song
 
