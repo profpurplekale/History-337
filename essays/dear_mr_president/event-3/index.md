@@ -26,16 +26,18 @@ tabs:
 
 # The Bush Administration
 
-The Bush Administration was a time of ADD TEXT HERE, and many people had 
+The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEXT HERE. In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] ADD TEXT HERE. Some were unhappy with this, and
 
 ## Pink (2006)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
 
-Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had EXPAND [^1] 
+Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had very different political views to her, with him being much more conservative, and they often avoided discussing politics together.[^1]  
 
 ### About the Song
+
+Upset by some of Bush's policies, Pink recorded Dear Mr. President, a song which addresses issues such as 
 
 This source is a song. It primarily critiques issues around George. W. Bush and his policies. It reveals the attitudes that some had around these issues, and about music at the time as well. This song addresses the president directly, though is likely also aimed at a general audience in order to garner support for her perspectives on the issues she discusses, such as homelessness, homosexuality and the Iraq War.
 
@@ -80,3 +82,4 @@ Kellner, Douglas. “Bushspeak and the Politics of Lying: Presidential Rhetoric 
 The story of the chile is still being written.
 
 [^1]: Tamara Conniff. "Think PINK," Billboard 118, no. 10 (2006): 22.
+[^2]: Amy Gershkoff and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 526
