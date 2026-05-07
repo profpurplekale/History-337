@@ -66,6 +66,7 @@ Fredwreck is
 
 ### About the Song
 
+Unlike the song by Pink, Fredwreck's Dear Mr. President aims for a tone that is much more 
 This source is a song. It is an anti-war song that opposes the Iraq War, and criticizes George Bush and his involvement, outright comparing him to Saddam Hussein. This source is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
 
 
