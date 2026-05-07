@@ -1,22 +1,22 @@
-
+---
 title: "The Middle East in American Media"
 layout: scrollstory-tabs
-header-image: images/personal-computer.jpg
-header-title: "The Middle East in American Media: How Western Portrayal Created a Cultural Enemy"
-thumbnail: images/personal-computer.jpg
-summary: An analysis of Western depictions of Middle Eastern nations
+header-image: images/welch-mccarthy.jpg
+header-title: "The Middle East in American Media"
+thumbnail: images/welch-mccarthy.jpg
+summary: A history of McCarthyism from the Second Red Scare to the intervention of the Warren Court.
 tabs:
   - id: overview
-    label: Overview of Middle Eastern Depictions
+    label: Overview
     url: ./
     active: true
 
   - id: event-1
-    label: Cultural Shifts in Film
+    label: Middle Eastern Relations Before 1950
     url: event-1/
 
   - id: event-2
-    label: Western Intervention and the Creation of Israel
+    label: Western Intervention and Growing Tension
     url: event-2/
 
   - id: event-3
@@ -24,34 +24,30 @@ tabs:
     url: event-3/
 ---
 
-# Overview of Middle Eastern Depictions
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+# Overview
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+McCarthyism refers to the political strategy employed by Senator Joseph R. McCarthy (R-Wisconsin)to publicly question the loyalty of government employees. Even though he often lacked concrete proof of subversive acts, McCarthy's accusations that indivdiuals were Communist sympathizers fed into the American fears and resulted in persecution of the accused who often lost their jobs and were blacklisted from employment. McCarthy rose to public prominence and political power based on his ability to order investigations and silence his detractors.   
 
-## Cultural Shifts in Film
+The story about how a relatively unknown junior senator from Wisconsin came to wield such power over the American public and the U.S. political system reflects the culture of fear and suspicion based in public paranoia fed by the Second Red Scare and the political spectacle of the McCarthy Hearings. While McCarthy's political downfall would result from the televised Army-McCarthy hearings, the Supreme Court under Chief Justice Earl Warren acted to strengthen the civil liberties of individuals against political attacks. 
 
-{% capture chile_origins_text %}
-The Thief of Bagdad1 was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. This film also depicts Eastern governments, which have become the subject of heavy criticism in the modern day, but the film continues to make no broad statements about them, with characters coming from royalty being portrayed in multiple differing lights. 
+## Joseph McCarthy's Rise to Power 
 
-Over time, this ability to represent a setting without a strong political condemnation or glorification has become less prominent, especially in regard to the Middle East. 
-The defining lens that Americans used to view the region prior to the 1950s was ignorance. Following the two world wars in the early 20th century, Americans were pressed a greater awareness of international affairs, and citizens of the U.S. began to reach consensus on how to judge these now-apparent nations. Japan and Germany, for example, were the subject of most American ire, due to their roles in the previous conflicts, but the Middle East has proven to be significantly more complicated.
+Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first three years of his term until he capitalized on American fears of Communism. On February, 1950, he gave a speech in Wheeling, West Virginia, and warned the American public about "the enemies within."  Enumerating the global expansion of Communism since the end of the Second World War, McCarthy claimed to have a list of US State Department employees who were mmebers of the Communist Party. He warned, "One thing to remember in discussing the communists in our government is that. ...We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy."[^source1]
 
-In the years leading up to war (and those running through them) nations in the East were often portrayed with some amount of political neutrality2. While there were, of course, cultural and religious traditions that created a distinct separation from the U.S. perspective, the representations of individuals practicing the Islamic faith (who were the primary makeup of the region) were based significantly less in hatred than one would see in the modern day. One can, in fact, notice American inspiration drawn from Eastern cultures3. For a time, ideals of hard work, moral strength, and performance shaped the U.S., painting a much more interconnected picture than modern discourse would suggest.
-
-{% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/McCarthy_Wheeling.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Senator McCarthy's claim in his February 9, 1950 speech that over 205 government employees were members of Communist Party made newspaper headlines and captured fears of the American public."
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"One thing to remember in discussing the communists in our government is that....We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy.\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+In response to McCarthy's claims, the American public and press did not ask for evidence supporting these allegations, but reacted with demands that the State Department purge those employees from government service.   
+
+[^source1]:McCarthy, J. "Address to the League of Women's Voters." Wheeling, West Virgina. February 9, 1950. Accessed at https://teachamericanhistory.wordpress.com/wp-content/uploads/2009/06/mccarthy_wheeling_speech.pdf 
 
 
 ## The Global Circulation
@@ -74,10 +70,10 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/Block_McCarthyism.jpg"
   image-position="right"
   image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="Editorial cartoonist Herb Block is credited with coining the term McCarthyism in 1950 with this cartoon for *The Washington Post.*"
   text=chile_nm_text
 %}
 

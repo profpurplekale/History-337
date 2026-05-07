@@ -1,31 +1,31 @@
 ---
-title: "The Personal Computer"
+title: "Middle Eastern Relations Before 1950"
 layout: scrollstory-tabs
-header-image: ../images/personal-computer.jpg
-header-title: "The Personal Computer"
-thumbnail: ../images/personal-computer.jpg
-summary: A social and cultural history of the personal computer.
+header-image: ../images/welch-mccarthy.jpg
+header-title: "The Middle East in American Media"
+thumbnail: ../images/welch-mccarthy.jpg
+summary: The Second Red Scare.
 tabs:
   - id: overview
-    label: Overview of Middle Eastern Depictions
+    label: Overview
     url: ../
 
 
   - id: event-1
-    label: Early Users of Microcomputers
+    label: Middle Eastern Relations Before 1950
     url: ../event-1/
     active: true
 
   - id: event-2
-    label: The Impact of Apple
+    label: The McCarthy Hearings
     url: ../event-2/
 
   - id: event-3
-    label: Western Intervention and the Creation of Israel
+    label: The Warren Court
     url: ../event-3/
 ---
 
-# Overview of Middle Eastern Depictions
+# The Second Red Scare
 
 The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
 
