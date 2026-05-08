@@ -26,14 +26,14 @@ tabs:
 
 # The Bush Administration
 
-The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEXT HERE. In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] ADD TEXT HERE. Some were unhappy with this, and
+The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEXT HERE. In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] ADD TEXT HERE. Some were unhappy with this, and wrote music in protest.
 
 ## Pink (2006)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 ### About the Artist
 
-Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had very different political views to her, with him being much more conservative, and they often avoided discussing politics together.[^1] She 
+Pink, or Alecia Beth Moore-Hart, is a singer and songwriter from Pennsylvania. Her father, a Vietnam veteran, had very different political views to her, with him being much more conservative, and they often avoided discussing politics together.[^1] 
 
 ### About the Song
 
