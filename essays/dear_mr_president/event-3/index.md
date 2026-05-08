@@ -26,7 +26,7 @@ tabs:
 
 # The Bush Administration
 
-The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEXT HERE. In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] ADD TEXT HERE. Some were unhappy with this, and wrote music in protest.
+The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEXT HERE. The 9/11 attack was one of the most present memories in the minds of Americans. "The Al Qaeda strategy was precisely to use terrorist attacks to instill fear and provoke a war with the United States, and they succeeded in their aims by producing perhaps the most dramatic media spectacle in history and provoking the Bush-Cheney administration to declare a 'war on terrorism'."[^6] In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] Some were unhappy with this, and wrote music in protest of this war along with other of the administration's policies.
 
 ## Pink (2006)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
@@ -91,3 +91,4 @@ The story of the chile is still being written.
 [^3]: "IN THE STUDIO." 2006. Rolling Stone, Feb 09, 26.
 [^4]: Al Jazeera, “Putting Politics Back into US Hip-Hop,” Al Jazeera, August 17, 2005.
 [^5]: Nasrine Abushakra, “FredWreck: Stop War One Song at a Time,” Haute Living, March 25, 2015.
+[^6]: Douglas Kellner. “Bushspeak and the Politics of Lying: Presidential Rhetoric in the ‘War on Terror.’” Presidential Studies Quarterly 37, no. 4 (2007): 623.
