@@ -41,13 +41,13 @@ Political letter writing has long been a tradition in America, and has been an i
 
 It's no wonder then why so many musicians were influenced by this tradition in the structure of their songs.
 
-Writing directly to the president, however, is not as good of a way to reach the general public. Public letter writing is also a way that people have made their voices heard, and ADD TEXT HERE
+Writing directly to the president, however, is not as good of a way to reach the general public. Public letter writing is also a way that people have made their voices heard.
 
 
 
 ## Political Music
 
-Another way to reach a broad audience like this is through music. Political music has a long history in the United States, with it being written from a multitude of political perspectives, and have been used to TEXT HERE.[^5]
+Another way to reach a broad audience like this is through music. Political music has a long history in the United States, with it being written from a multitude of political perspectives, and have been used to share these ideas with the public.[^5]
 
 {% include typography/pullquote.html text="\"Music can enhance historical study by re-creating social and cultural mood and by illustrating an era's common ideas and attitudes.\"" %} [^6]
 
