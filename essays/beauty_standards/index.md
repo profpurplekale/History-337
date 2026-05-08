@@ -102,5 +102,5 @@ Beauty is something subjective, but something that has been given immense import
 [^source1]:
 [^source2]:
 [^source3]:
-[^source4]: Baird, M.L. (2021), ‘Making Black More Beautiful’: Black Women and the Cosmetics Industry in the Post-Civil Rights Era. Gender & History, 33: 557-574. https://doi.org/10.1111/1468-0424.12522
+[^source4]:Baird, M.L. (2021), ‘Making Black More Beautiful’: Black Women and the Cosmetics Industry in the Post-Civil Rights Era. Gender & History, 33: 557-574. https://doi.org/10.1111/1468-0424.12522
 [^dictionary2]: https://en.wiktionary.org/wiki/lolcow
