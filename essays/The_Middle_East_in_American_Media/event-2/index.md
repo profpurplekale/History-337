@@ -29,10 +29,13 @@ tabs:
 
 ## Fear in the U.S.A
 
-Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
+As the second World War came and passed, the American perspective on the world became significantly more expansive. For some nations, like the Soviet Union, this increased visibility was broadly negative. The specter of communism became the single greatest fear within the American public, and an association with anything resembling communist ideology was a surefire way to be shunned in both professional and personal relationships alike.
+
+The Cold War spilled into several other nations, including many Middle Eastern and African nations whose conflicts became the battleground for the ideals of the U.S. and U.S.S.R, with the two superpower nations providing money and weapons to the side that most closely aligned with their beliefs. As stated, the association with socialism created a fear of these affected nations. Ultimately, the actual alignment with communism within many Middle Eastern nations was overstated1, but the fear remained. Islamic Socialism became the de-facto assumption for broad Muslim ideologies, even as those practices remained unpopular throughout the religion3.
+
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/Hate_For_West.jpg"
   image-position="left"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
