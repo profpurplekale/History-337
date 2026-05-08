@@ -3,7 +3,7 @@ title: "The China Perspective"
 layout: scrollstory-tabs
 header-image: images/cold-war.webp
 header-title: "The American view of China"
-thumbnail: images/images/flags.jpg
+thumbnail: images/images/thumbnail.jpg
 summary: A dive on the American public's opinions and views on Cold War Communist China from the 50s to the 90s.
 tabs:
   - id: overview
