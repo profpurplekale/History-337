@@ -3,7 +3,7 @@ title: "The China Perspective"
 layout: scrollstory-tabs
 header-image: images/cold-war.webp
 header-title: "The American view of China"
-thumbnail: images/images/thumbnail.jpg
+thumbnail: images/thumbnail.jpg
 summary: A dive on the American public's opinions and views on Cold War Communist China from the 50s to the 90s.
 tabs:
   - id: overview
@@ -36,7 +36,7 @@ However, despite the nationalist forces essentially being forced out of China, t
 
 The United States would instead opt to continue cooperation with the nationalist government in-exile, providing their stronglhold of Taiwan protection by the forces of both the United States Airforce and Navy, primarily to discourage any further invasion attempts by the PRC. And to add further insult to injury, the seat representing China in the United Nations would continue to be occupied by diplomats of the in-exile Republc, remaining as such all the way into 1971 before Communist China was officially recognized as the new leaders. 
 
-[^source1]:Christina Klein, "Cold War Orientalism: Asia in the middlebrow imagination, 1945-1961". Berkely: University of California Press, 2003. 
+[^source1]:Christina Klein, "Cold War Orientalism: Asia in the middlebrow imagination, 1945-1961". Berkely: University of California Press, 2003. Pg. 28-29. 
 
 ## A Golden Opportunity
 
@@ -58,10 +58,10 @@ This would result in multiple different diplomatic efforts, including the aforem
   image-path="images/nixon-mao.avif"
   image-position="left"
   image-width="35%"
-  caption="A political cartoon depicting the Sino-Soviet split, by Dutch artist Fritz Behrendt."
+  caption="A news paper headline reporting on the diplomatic visit made by Richard Nixon to Mao Zedong in 1972."
   text=nixon_visit_text
 %}
 
 ## Initial Perception
 
-With these factors in mind, the early perception of Communist China and the broader "Oriental" sphere as a whole becomes a very fascinating area of the American public's consciousness.
+With these factors in mind, the early perception of Communist China and the broader "Oriental" sphere as a whole becomes a very fascinating area of the American public's consciousness. Firstly and most prominently, there is a massive upswing in the amount of media depictions of South-East Asia within American theater and film. This is largely a consequence of American military presence becoming a much greater force in the region, with the end of World War Two's Pacific theater, the occupation of Japan and its formerly-occupied lands, and the impending conflicts that would begin occurring not too long after the war's end.
