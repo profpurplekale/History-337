@@ -38,12 +38,12 @@ The Almanac Singers were formed around 1940. The name of the group came from a l
 
 ### About the Song
 
-This song was written in YEAR, and released in 1942 as a part of an album by the same name.
+This song was released in 1942 as a part of an album by the same name.
 Overall, the song argues in support of US involvement in World War II, while still leveling some criticism to the US for issues such as Jim Crow. Although it does have some criticism, it is one of few Dear Mr. President songs where this is not the focus of it, with this song instead being supportive.
 
-Initally, the CPUSA advocated nonintervention, as did the Almanac Singers. Earl Browder, leader of CPUSA at the time, said "The fight for a peace policy in the United States today is ... to keep the United States from any involvement not only in a military way but from any involvement in economic and political support and sympathy" [^3] The Almanac Singers agreed with this stance on nonintervention, even releasing an album titled "Songs for John Doe", which argued that "the United States government had set upon a program of sacrificng a large number of American lives." [^cite]
+Initially, the CPUSA advocated nonintervention, as did the Almanac Singers. Earl Browder, leader of CPUSA at the time, said "The fight for a peace policy in the United States today is ... to keep the United States from any involvement not only in a military way but from any involvement in economic and political support and sympathy" [^3] The Almanac Singers agreed with this stance on nonintervention, even releasing an album titled "Songs for John Doe", which argued that "the United States government had set upon a program of sacrificing a large number of American lives." [^cite]
 
-After Germany invaded Russia, the CPUSA's position flipped towards advocacy for war.[^ch] When this policy shifted, so did the attitudes of the musicans, resulting in the release of the album "Dear Mr. President, and the song in question.[^pe]
+After Germany invaded Russia, the CPUSA's position flipped towards advocacy for war.[^ch] When this policy shifted, so did the attitudes of the musicians, resulting in the release of the album "Dear Mr. President, and the song in question.[^pe]
 
 
 {% include images/figure-wrap.html
@@ -71,7 +71,7 @@ This source is a song by Leroy Leblanc, which is intended to be an argument agai
 It assumes its audience is white and anti-integration, as it appeals to such sensibilities as a
 primary argument, presenting the idea of integration as an absurd overreach by the government.
 
-Government overreach is a common theme in music of this type, as an extention of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not 'stay in their place'"[^4]
+Government overreach is a common theme in music of this type, as an extension of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not 'stay in their place'"[^4]
 
 
 "In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics" [^next]
@@ -92,7 +92,7 @@ Government overreach is a common theme in music of this type, as an extention of
 
 ## Comparison
 
-These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being associated with the CPUSA, tended towards adovcacy of civil rights, as this was in alignment with its position.[^6] Happy Fats, however, takes a staunchly segregationist position in much of his music. This reflects the ways that divisions about race in America in this era. 
+These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being associated with the CPUSA, tended towards advocacy of civil rights, as this was in alignment with its position.[^6] Happy Fats, however, takes a staunchly segregationist position in much of his music. This reflects the ways that divisions about race in America in this era. 
 Additionally, the Almanac singers positions on US involvement in World War II reveals the complicated dynamics of the political far left in America and Russia.
 
 
