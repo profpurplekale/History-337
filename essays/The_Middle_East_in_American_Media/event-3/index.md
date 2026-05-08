@@ -45,18 +45,10 @@ Over time, the American conception of the Middle East stopped being defined by c
 
 This belief is not exclusive to practitioners of Islam (in fact, narratives about foreign invaders apply to a wide range of ethnic minorities) but it has a uniquely prominent space in the American ethos, especially after the terrorist attacks of 9/11 seemed to justify the xenophobic beliefs of certain U.S. citizens.
 
-## Modern Era (1800 – Present)
+## A Cultural Enemy in Film and Beyond
 
-**1912** — Wilbur Scoville develops the Scoville Scale to measure chile heat.
+American Sniper is a film depicting the military experience of Chris Kyle, a Navy S.E.A.L sniper during the Iraq war. This film (in contrast with the other three films) demonstrates how strongly the American media believed in their right to occupy the Middle East. While the movie is not exactly pro-war, it focuses so heavily on the plight of one particular soldier and fails to truly address any evils that may have been committed by him or his compatriots. 
 
-**1912** — New Mexico becomes a state; chile culture becomes a marker of regional identity.
+Violence against both Middle Eastern combatants and civilians is such a constant in western media that a film primarily focused on the consequences of war seems to be completely uninterested in addressing the consequences for the other side. To the broad American public, a veteran with PTSD is the deepest tragedy imaginable, and this movie reflects that particular ache. Despite the horrors of war affecting people on both sides (including that veteran), the overweight focus on a singular American soldier's mental struggles seems to be indicative of a culture that has separated Middle Easterners and practicioners of Islam from their humanity.
 
-**1970s–1980s** — The Hatch Chile Festival begins, cementing New Mexico's reputation as the chile capital of America.
-
-**2000s** — Heirloom chile preservation movements gain momentum as industrial agriculture threatens genetic diversity.
-
-**Present** — Climate change challenges traditional growing regions while new varieties and cultivation techniques continue to evolve.
-
----
-
-The story of the chile is still being written.
+To see a portrayal of a man killing hundreds of people (even as the tool of a government that he does not have control over) and have your immediate concern be his sanity is extremely dissonant with claimed American ideals, including the freedom to life and pursuit of happiness. This viewpoint, which has developed for nearly a century, has plagued the general western public, only growing deeper after the events of 9/11. American media at all levels has conditioned the average citizen to approach the Middle East and its people with not only caution, but with active prejudice. 
