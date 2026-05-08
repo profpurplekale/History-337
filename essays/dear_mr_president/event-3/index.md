@@ -62,13 +62,16 @@ This song makes use of appeals to empathy and compassion as its primary way of m
 
 ### About the Artist
 
-Fredwreck, or Farid Karam Nassar, is a Palestinian-American hip-hop artist from Michigan. He had been involved in political activism since he was five years old [^4]
+Fredwreck, or Farid Karam Nassar, is a Palestinian-American hip-hop artist from Flint, Michigan. He had been involved in political activism since he was five years old.[^4] The Iraq War prompted him to start making political music, which he thought was lacking in mainstream hip-hop, as "the industry is so commercially led, artists are scared of taking risks."[^4] He created the STOP movement, to spread his anti-war message. [^5]
 
 ### About the Song
 
-Unlike the song by Pink, Fredwreck's Dear Mr. President aims for a tone that is much more 
-This source is a song. It is an anti-war song that opposes the Iraq War, and criticizes George Bush and his involvement, outright comparing him to Saddam Hussein. This source is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
+As a part of the STOP movemenet, (CITATION)
 
+Unlike the song by Pink, Fredwreck's Dear Mr. President aims for a tone that is much more harshly critical, rather than appealing to the president's sympathy. It is an anti-war song that was inspired by protest music in the 1960s.[^4]
+It opposes the Iraq War, and criticizes George Bush and his involvement, even saying "I can't see no difference from Mr. Hussein to Mr. bush". The song is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
+
+It was very controversial, 
 
 {% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
@@ -88,3 +91,4 @@ The story of the chile is still being written.
 [^2]: Amy Gershkoff and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 526
 [^3]: "IN THE STUDIO." 2006. Rolling Stone, Feb 09, 26.
 [^4]: Al Jazeera, “Putting Politics Back into US Hip-Hop,” Al Jazeera, August 17, 2005.
+[^5]: Paul Russell, “Hip-Hop News: Fredwreck Presents The S.T.O.P. Movement ,” Rap News Network, May 13, 2003.
