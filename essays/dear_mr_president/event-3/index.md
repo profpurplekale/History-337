@@ -66,14 +66,13 @@ Fredwreck, or Farid Karam Nassar, is a Palestinian-American hip-hop artist from 
 
 ### About the Song
 
-As a part of the STOP movemenet, (CITATION)
+The STOP movement released two songs, “Down with Us” and "Dear Mr. President".[^5]
 
 Unlike the song by Pink, Fredwreck's Dear Mr. President aims for a tone that is much more harshly critical, rather than appealing to the president's sympathy. It is an anti-war song that was inspired by protest music in the 1960s.[^4]
 It opposes the Iraq War, and criticizes George Bush and his involvement, even saying "I can't see no difference from Mr. Hussein to Mr. bush". The song is written for an audience that likely includes those in poverty and African Americans, as issues faced by these people are brought up in the song to emphasize the point.
+It features multiple artists, each performing their own section of the song.[^4] “It’s not anti-American. Each person is saying what their thoughts are. Every person got to put their own message across, and all their separate messages was the message I wanted to put out there.”[^4]
 
-It was very controversial, 
-
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"After 9/11 happened and I saw they wanted to go and take out Saddam Hussein [and I thought] ‘You’re turning one thing into something else’.\"" %} [^4]
 
 ## Comparison
 
@@ -91,4 +90,4 @@ The story of the chile is still being written.
 [^2]: Amy Gershkoff and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 526
 [^3]: "IN THE STUDIO." 2006. Rolling Stone, Feb 09, 26.
 [^4]: Al Jazeera, “Putting Politics Back into US Hip-Hop,” Al Jazeera, August 17, 2005.
-[^5]: Paul Russell, “Hip-Hop News: Fredwreck Presents The S.T.O.P. Movement ,” Rap News Network, May 13, 2003.
+[^5]: Nasrine Abushakra, “FredWreck: Stop War One Song at a Time,” Haute Living, March 25, 2015.
