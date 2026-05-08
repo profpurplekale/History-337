@@ -35,7 +35,7 @@ The Cold War spilled into several other nations, including many Middle Eastern a
 
 
 {% include images/figure-wrap.html
-  image-path="../images/Hate_For_West.jpg"
+  image-path="../images/Hate_For_West.png"
   image-position="left"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
