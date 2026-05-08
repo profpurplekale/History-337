@@ -44,9 +44,17 @@ The Cold War spilled into several other nations, including many Middle Eastern a
 
 ## Rules of Engagement (2000)
 
-When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
+September 11th was, in a lot of ways, the most major turning point for U.S. perspectives regarding Islam and the Middle East1. Unfortunately, this prejudice was not nearly as novel as some people may suggest.
 
-Towns like Hatch, Chimayó, and Española became synonymous with chile cultivation. Each developed distinct varieties adapted to local microclimates, creating a patchwork of regional flavors.
+In 2000, William Friedkin directed the movie Rules of Engagement3, which focuses on a court case concerning a large-scale civilian massacre in Yemen.
+
+{% include images/figure-wrap.html
+  image-path="../images/Rules_Engagement.webp"
+  image-position="left"
+  image-width="50%"
+  caption="Needless American violence in the Middle East has been justified for nearly a century."
+  text=chile_origins_text
+%}
 
 ## The Global Journey
 
@@ -57,7 +65,3 @@ Within two centuries of Columbus, chiles had spread to nearly every continent. T
 - **Africa**, where they integrated with local cooking traditions
 
 Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
-
-## Modern Growing Regions
-
-Today, commercial chile production spans from New Mexico to California, from China to India. Climate change is shifting growing regions, pushing cultivation to new altitudes and latitudes as traditional areas become too hot or dry.

@@ -24,35 +24,26 @@ tabs:
     active: true
 ---
 
-# The Warren Court
+# Islamophobia in the 21st Century
 
-From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
+## Cultural Division after September 11th
+Over time, the American conception of the Middle East stopped being defined by clear regional borders, with many beginning to understand the region as being comprised of miscellaneous Islamic nations. Because of this, the practice of Islam was treated like an ethnic trait, allowing many prejudiced individuals in the west to disavow members of the entire region. If Islam is simply a religion, then it is unamerican to squash their pursuit of free religion under the constitution. If Islam is a nationality, you can write off every Muslim as a foreign national intent on destroying the nation.
 
-## Ancient History (7500 BCE – 1400 CE)
-
-**~7500 BCE** — Archaeological evidence suggests domestication of chiles begins in Mexico, making them one of the oldest cultivated crops in the Americas.
-
-**~3000 BCE** — Chiles become integrated into Mesoamerican agriculture alongside maize, beans, and squash.
-
-**~1400 CE** — By the height of the Aztec Empire, chiles are essential to cuisine, medicine, and trade. Multiple varieties are cultivated for different purposes.
+This belief is not exclusive to practitioners of Islam (in fact, narratives about foreign invaders apply to a wide range of ethnic minorities) but it has a uniquely prominent space in the American ethos, especially after the terrorist attacks of 9/11 seemed to justify the xenophobic beliefs of certain U.S. citizens.
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../Hate_Crimes.svg"
   image-position="left"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
 %}
 
-## Colonial Era (1492 – 1800)
+## Islam as a Nationality
 
-**1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
+Over time, the American conception of the Middle East stopped being defined by clear regional borders, with many beginning to understand the region as being comprised of miscellaneous Islamic nations. Because of this, the practice of Islam was treated like an ethnic trait, allowing many prejudiced individuals in the west to disavow members of the entire region. If Islam is simply a religion, then it is unamerican to squash their pursuit of free religion under the constitution. If Islam is a nationality, you can write off every Muslim as a foreign national intent on destroying the nation.
 
-**1493** — Chiles arrive in Spain, beginning their global spread.
-
-**1598** — Spanish colonists bring cultivated chile varieties to New Mexico along the Camino Real.
-
-**1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
+This belief is not exclusive to practitioners of Islam (in fact, narratives about foreign invaders apply to a wide range of ethnic minorities) but it has a uniquely prominent space in the American ethos, especially after the terrorist attacks of 9/11 seemed to justify the xenophobic beliefs of certain U.S. citizens.
 
 ## Modern Era (1800 – Present)
 
