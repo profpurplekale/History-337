@@ -44,14 +44,12 @@ The Thief of Bagdad FOOTNOTE ONE was a film released by the United Artists studi
 %}
 
 This film also depicts Eastern governments, which have become the subject of heavy criticism in the modern day, but the film continues to make no broad statements about them, with characters coming from royalty being portrayed in multiple differing lights. Over time, this ability to represent a setting without a strong political condemnation or glorification has become less prominent, especially in regard to the Middle East. 
-## Spanish Missionaries and Settlers
 
-When Spanish colonizers arrived in the Americas, Franciscan missionaries and early settlers recognized the value of chiles almost immediately. They brought cultivated varieties northward along the Camino Real, establishing chile cultivation in what is now New Mexico by the late 1500s.
+## Expanding the International Scope
 
-These settlers adapted their growing techniques to the high desert climate, developing irrigation systems and cultivation practices that would define New Mexican agriculture for centuries.
+The defining lens that Americans used to view the region prior to the 1950s was ignorance. Following the two world wars in the early 20th century, Americans were pressed a greater awareness of international affairs, and citizens of the U.S. began to reach consensus on how to judge these now-apparent nations. Japan and Germany, for example, were the subject of most American ire, due to their roles in the previous conflicts, but the Middle East has proven to be significantly more complicated.
 
-## Modern Farmers and Preservationists
+In the years leading up to war (and those running through them) nations in the East were often portrayed with some amount of political neutrality2. While there were, of course, cultural and religious traditions that created a distinct separation from the U.S. perspective, the representations of individuals practicing the Islamic faith (who were the primary makeup of the region) were based significantly less in prejudice than one would see in the modern day. One can, in fact, notice American inspiration drawn from Eastern cultures3. For a time, ideals of hard work, moral strength, and performance shaped the U.S., painting a much more interconnected picture than modern discourse would suggest.
 
-Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
 
-The people of the chile continue to shape its story.
+## 
