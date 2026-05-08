@@ -32,7 +32,7 @@ Over time, the American conception of the Middle East stopped being defined by c
 This belief is not exclusive to practitioners of Islam (in fact, narratives about foreign invaders apply to a wide range of ethnic minorities) but it has a uniquely prominent space in the American ethos, especially after the terrorist attacks of 9/11 seemed to justify the xenophobic beliefs of certain U.S. citizens.
 
 {% include images/figure-wrap.html
-  image-path="../Hate_Crimes_FBI.png"
+  image-path="./Hate_Crimes_FBI.png"
   image-position="left"
   image-width="50%"
   caption="After September of 2000, racially motivated hate crimes increased exponentially."
