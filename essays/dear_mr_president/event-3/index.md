@@ -26,7 +26,7 @@ tabs:
 
 # The Bush Administration
 
-The Bush Administration was a time of ADD TEXT HERE, and many people had ADD TEXT HERE. The 9/11 attack was one of the most present memories in the minds of Americans. "The Al Qaeda strategy was precisely to use terrorist attacks to instill fear and provoke a war with the United States, and they succeeded in their aims by producing perhaps the most dramatic media spectacle in history and provoking the Bush-Cheney administration to declare a 'war on terrorism'."[^6] In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] Some were unhappy with this, and wrote music in protest of this war along with other of the administration's policies.
+The 9/11 attack was one of the most present memories in the minds of Americans. "The Al Qaeda strategy was precisely to use terrorist attacks to instill fear and provoke a war with the United States, and they succeeded in their aims by producing perhaps the most dramatic media spectacle in history and provoking the Bush-Cheney administration to declare a 'war on terrorism'."[^6] In the aftermath of 9/11, the United States geared up for war with Iraq, framing this as an extension of the "war on terror" that responded to the attack.[^2] Some were unhappy with this, and wrote music in protest of this war along with other of the administration's policies.
 
 ## Pink (2006)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmMS9XVIa00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
@@ -76,15 +76,10 @@ It features multiple artists, each performing their own section of the song.[^4]
 
 ## Comparison
 
-Both songs critique the Bush administration, but go about it in different ways, with Pink being more ADD TEXT HERE, and Fredwreck being much more ADD TEXT HERE
-
-Gershkoff, Amy, and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 525–37.
-
-Kellner, Douglas. “Bushspeak and the Politics of Lying: Presidential Rhetoric in the ‘War on Terror.’” Presidential Studies Quarterly 37, no. 4 (2007): 622–45.
+Both songs critique the Bush administration, but go about it in different ways, with Pink being more sympathetic, and Fredwreck being much more harsh and attacking in his critique, in order to spread awareness about the issues. These songs represent different approaches to political music around the same subject, and how this can affect its effectiveness in different contexts, as well as how social location may affect the ways that ideas are expressed or presented.
 
 ---
 
-The story of the chile is still being written.
 
 [^1]: Tamara Conniff. "Think PINK," Billboard 118, no. 10 (2006): 22.
 [^2]: Amy Gershkoff and Shana Kushner. “Shaping Public Opinion: The 9/11-Iraq Connection in the Bush Administration’s Rhetoric.” Perspectives on Politics 3, no. 3 (2005): 526

@@ -27,8 +27,7 @@ tabs:
 
 # WWII and Civil Rights
 
-The 1940s to the 1970s was a stretch of time that harbored conflict and ADD TEXT
-One of the key issues of this broad stretch of time was segregation, and ADD TEXT
+The 1940s to the 1970s was a stretch of time that harbored conflict and many different political issues were on the minds of Americans. One of the key issues of this broad stretch of time was segregation, as well as the Second World War. People took very different stances on these issues, and expressed these ideas through music.
 
 ## The Almanac Singers (1942)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqRKoIJXGLg" title="Dear Mr. President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
@@ -93,7 +92,8 @@ Government overreach is a common theme in music of this type, as an extention of
 
 ## Comparison
 
-These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being associated with the ADD TEXT HERE, tended towards adovcacy of ADD TEXT HERE, even after they split in.(CITATION) Happy Fats, however, takes a staunchly segregationist position, ADD TEXT HERE. This reflects the ways that divisions about 
+These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being associated with the CPUSA, tended towards adovcacy of civil rights, as this was in alignment with its position.[^6] Happy Fats, however, takes a staunchly segregationist position in much of his music. This reflects the ways that divisions about race in America in this era. 
+Additionally, the Almanac singers positions on US involvement in World War II reveals the complicated dynamics of the political far left in America and Russia.
 
 
 [^1]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
@@ -106,3 +106,4 @@ These two songs take on very different perspectives when it comes to racial issu
 [^next]: Michael Wade. , "Johnny Rebel and the Cajun Roots of Right-Wing Rock: [1]," Popular Music and Society 30, no. 4 (2007): 493-512,574.
 [^4]: Beth A. Messner, Art Jipson, Paul J. Becker, and Bryan Byers. , "The Hardest Hate: A Sociological Analysis of Country Hate Music," Popular Music and Society 30, no. 4 (2007): 513-531.
 [^5]: The Country Music Hall of Fame and Museum. The Encyclopedia of Country Music. Oxford University Press, 1998. EBSCOhost: 227.
+[^6]: Clarence Taylor. “RACE, CLASS, AND POLICE BRUTALITY IN NEW YORK CITY: THE ROLE OF THE COMMUNIST PARTY IN THE EARLY COLD WAR YEARS.” The Journal of African American History 98, no. 2 (2013): 205–28.
