@@ -2,7 +2,7 @@
 title: "Middle Eastern Relations Before 1950"
 layout: scrollstory-tabs
 header-image: ../images/Middle_East_Map.jpg
-header-title: "The Middle East in American Media"
+header-title: "The Middle East in American Media: How Western Portayal Created a Cultural Enemy"
 thumbnail: ../images/Middle_East_Map.jpg
 summary: The Second Red Scare.
 tabs:

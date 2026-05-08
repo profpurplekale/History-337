@@ -2,7 +2,7 @@
 title: "Islamophobia in the 21st Century"
 layout: scrollstory-tabs
 header-image: ../images/Middle_East_Map.jpg
-header-title: "The Middle East in American Media"
+header-title: "The Middle East in American Media: How Western Portayal Created a Cultural Enemy"
 thumbnail: ../images/Middle_East_Map.jpg
 summary: A chronological journey through the history of chile cultivation and culture.
 tabs:
