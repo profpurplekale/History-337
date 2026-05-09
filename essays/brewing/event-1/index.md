@@ -27,11 +27,14 @@ tabs:
 
 # The Merry Pranksters
 
-The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own. This is a new edit.
+The oil shocks of 1973 and 1979 revealed that the U.S. economy depended on cheap oil and long supply chains. As gas stations ran out of fuel, and lines grew longer, everyday consumption began to feel unstable. Craft Beer Pioneer, Bill Owens, explained that “beer’s expensive, so I was brewing my own.”    While Owens was hoarding his supply of beer in his garage, Americans were dangerously storing gas in their garages and waiting for alternating days to buy gas corresponding to the odd or even numbers on their license plates. The oil crisis made Americans consider, and movements emerged, whether the issue revolved around overpopulation, economic systems, or consumption habits.
 
 ## Indigenous Cultivators
 
-Long before European contact, Mesoamerican peoples had developed sophisticated agricultural techniques for growing chiles. The Aztecs, Maya, and other civilizations didn't just consume chiles—they bred them, selecting for specific flavor profiles, heat levels, and growing characteristics.
+Late 20th-century California had a distinct counterculture atmosphere. At the University of California, Berkeley, Frances Moore Lappé conducted her research for her environmental and political manifesto, “Diet for A Small Planet.” While Americans began to reconsider the nature of local supply chains, Lappé posited that ecological devastation and food insecurity were not a matter of scarcity but of inefficient, meat-centered supply chains. The cornerstone piece of the localism movement, which garnered particular attention in California, fundamentally challenged consumption habits. 
+
+{% include typography/pullquote.html text="\"For freedom is not the capacity to do whatever we please; freedom is the capacity to make intelligent choices.”\"" %}
+
 
 {% include images/figure-wrap.html
   image-path="../images/vatt.jpeg"
@@ -41,7 +44,7 @@ Long before European contact, Mesoamerican peoples had developed sophisticated a
   text=chile_origins_text
 %}
 
-These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
+The Localism Movement greatly influenced the Craft Beer Movement. The first female brewmaster in the United States, Mellie Pullman, reflected these trends in the Western Craft Brewing Movement. “I'm like the typical Portlander. Completely obsessed with all of it. Going to the newest restaurants and trying to support local producers.”   In Utah, Pullman “came up with a lager, called the Slickrock Lager, and it was really marketed toward the mountain biking community.”   Her reflection on the lager is a direct response to catering to the community when they might defer to something standardized like Coors. Sociologists and cultural geographers have acknowledged the utility of breweries as “anchor points” and coined the term “neolocalism” to describe the modern, evolving taste for local products and identity.   This tendency, then, is rooted in the localism movement and helps explain how breweries have remained economically viable well into the 21st century. 
 
 ## Spanish Missionaries and Settlers
 
