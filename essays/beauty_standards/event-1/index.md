@@ -41,6 +41,7 @@ In the midst of the Civil Rights Movement, another counter-cultural protest bega
 [^source1]: I don't freaking know why this webpage is broken!!!
 [^source2]: www.nytimes.com/2018/11/27/lens/kwame-brathwaite-black-is-beautiful.html
 
+
 ## Mods and Hippies
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -54,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include images/figure-wrap.html
   image-path="images/twiggy-1960.jpg"
-  image-position="right"
+  image-position="left"
   image-width="48%"
   caption="Twiggy, 1966 [^source3] "
   text=twiggy
