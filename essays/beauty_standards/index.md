@@ -72,7 +72,7 @@ Drag is very influential, and each winner of RuPaul's Drag Race tends to go on a
 
 {% include images/figure-wrap.html
   image-path="images/onya-nurve.jpg"
-  image-position="left"
+  image-position="right"
   image-width="48%"
   caption="The Winner of Rupaul's Drag Race Season 17, Onya Nurve with the Author"
   text=onya_nurve
