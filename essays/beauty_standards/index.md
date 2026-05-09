@@ -62,10 +62,10 @@ The final piece of the Vogue cover that tells us more about the beauty standards
 
 ## Does the Beauty Standard Only Affect Women?
 
-
+{% capture onya_nurve %}
 Women are the main targets for most magazines; this is true. However, the beauty standard affects people of all genders and sexualities. In the 1990s, the emergence of the Club Kids led to a revolution of beauty and fashion. One of the Club Kids who emerged on top and brought queer culture to the mainstream is RuPaul Charles. Charles is best known for his reality competition show, RuPaul's Drag Race. This show brought Drag into the mainstream, and drag itself began to influence the beauty standard. Drag queens becoming more influential in beauty spaces has also influenced the average American's own beauty routine. According to Elle Magazine, "former Kardashian makeup artist Joyce Bonelli, who worked with the Kardashians for more than a decade, has said that her “transformational makeup” technique is inspired by “drag anything and everything.” [^source3]. 
 
-{% capture onya_nurve %}
+
 This is also significant because for a long time in the late 2010s, the Kardashian family ruled the makeup industry, from Kylie Jenner's lipkits to average girls and women emulating Kim Kardashian's average makeup look. For it to be inspired by drag is incredibly important, as it normalizes drag which was once seen as outside of the norm. Later in the Elle article, drag queen and winner of Rupaul's Drag Race Season 9, Sasha Velour states, "Beauty is so often tied to what’s perceived of as normal, and drag has allowed queer people to be normal in mainstream society." [^source4]. Drag is very influential, and each winner of RuPaul's Drag Race tends to go on and do tours and promote their own makeup brands, charities, and other endeavors. This is also important as it gives younger queer people to embrace that side of their identity and inspires them to be their most authentic selves. 
 {% endcapture %}
 
