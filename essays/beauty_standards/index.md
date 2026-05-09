@@ -3,7 +3,7 @@ title: "Beauty Standards"
 layout: scrollstory-tabs
 header-image: images/beauty-is-pain.jpg
 header-title: "Beauty Standards"
-thumbnail: images/beauty-is-pain.jpg
+thumbnail: images/vogue-jan-1950.jpg
 summary: A cultural study of beauty standards in the USA.
 tabs:
   - id: overview
