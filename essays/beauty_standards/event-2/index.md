@@ -1,7 +1,7 @@
 ---
 title: "Evolving Standards in the 80s and 90s"
 layout: scrollstory-tabs
-header-image: ../images/place-holder-image.jpg
+header-image: ../images/rupaul-viva-glam.jpg
 header-title: "Evolving Standards in the 80s and 90s"
 thumbnail: ../images/place-holder-image.jpg
 summary: Beauty in the 80s and 90s.
