@@ -79,7 +79,7 @@ There are fundamental aspects of culture that American and Japan differ in that 
 
 Thirty years after the countries trade war ended, Japan would continue to have a lasting impact on American Culture. From business practices, entertainment and exported cars, Japan continues to exert its cultural soft power on the US. The underlying racial tension that existed in the 1980s has decreased in certain groups from a better understanding within certain entertainment industries, such as videogames and anime, as the US increased consumption of Japanese media. As a consumer of Japanese media, The US acts as a melting pot, absorbing various ideas from Japan, such as Studio Ghibli's popular movies and Sony's video game dominance, while also fusing aspects of Japanese culture into America popularity such as movies like Pacific Rim and Godzilla v King Kong.
 
-By looking at the trade war and the anti-Japanese sentiment that it generated, we see that the US and Japan have had a push and pull relationship in their cultures. The US was pushing away in the late 70s to mid-80s but then started pulling in the aspects mentioned above. Japan has been increasing its export Japanese culture and to this continues to be seen as a cultural superpower.
+By looking at the trade war and the anti-Japanese sentiment that it generated, we see that the US and Japan have had a push and pull relationship in their cultures. The US was pushing away in the late 70s to mid-80s but then started pulling in the aspects mentioned above. Japan has been increasing its export Japanese culture continues to be seen as a cultural superpower in the 2020s.
 
 
 [^1]: Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", (Camp David, April 25, 1987).
