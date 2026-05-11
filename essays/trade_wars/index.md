@@ -82,8 +82,8 @@ Thirty years after the countries trade war ended, Japan would continue to have a
 By looking at the trade war and the anti-Japanese sentiment that it generated, we see that the US and Japan have had a push and pull relationship in their cultures. The US was pushing away in the late 70s to mid-80s but then started pulling in the aspects mentioned above. Japan has been increasing its export Japanese culture and to this continues to be seen as a cultural superpower.
 
 
-[^1]: Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", Camp David, April 25, 1987.
-[^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
-[^3]: Endo, Russell. The Current Status of Japanese Americans. June 1st, 1985. 3, EBSCOhost.
-[^4]:Endo, Russell. The Current Status of Japanese Americans, 9.
-[^5]: Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal, 28:3, 39  (2002)  DOI:10.17953/amer.28.3.p74875252957n72
+[^1]: Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", (Camp David, April 25, 1987).
+[^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, (Berkley:University of California Press, 2018), 362-363, ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806
+[^3]: Endo, Russell, The Current Status of Japanese Americans, June 1st, 1985, 3, EBSCOhost.
+[^4]:Endo, Russell, The Current Status of Japanese Americans, 9.
+[^5]: Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal 28, no.3,(2002), 39, DOI:10.17953/amer.28.3.p74875252957n72
