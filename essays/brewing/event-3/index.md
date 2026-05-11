@@ -28,7 +28,7 @@ tabs:
 
 While the Craft Brewing Movement emerged as a rebellion against corporate capitalism, the standardization and homogeneity of beer, and a localized vision of the industry, it evolved within an emerging neoliberal context that praised entrepreneurialism, individuality, and turning hobbies into profitable businesses. 
 
-## Ancient History (7500 BCE – 1400 CE)
+## Entrepreneurial Leisure
 
 Scholars such as J. Nikol Beckham refer to the nature of the Craft Brewing Movement’s success as “entrepreneurial leisure.” Beckham suggests that while the Craft Brewing Movement emerged in opposition against “big beer,” the narrative has evolved to reflect neoliberal ideals, including the virtuous nature of entrepreneurialism, and turning leisure into productivity.   The mythologization of the craft brewer has been adapted to transmit neoliberal ideals, 
 
