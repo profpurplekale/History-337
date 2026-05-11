@@ -62,9 +62,9 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
   text=chile_nm_text
 %}
 
-## Conclusion still in work!!!
+## Business and leisure
 
-Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga did not have a major impact on America. America keeps a seperation between work and play, and even if a benkyou Manga could be instructive, it is liked to be viewed as childish due to the use of drawings.
+Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga did not have a major impact on America. America keeps a separation between work and play, and even if a benkyou Manga could be instructive, it is likely to be viewed as childish due to the use of drawings. Mixing business and leisure is one of the differences of Japan and America, with Japanese Salarymen having a reputation for post work drinking that can end with sleeping on the street. Gung Ho shows the characters going out for drinks but it's more Americanized as a pep talk at the bar to get one's spirit back up and not a community bonding session.
 
 [^1]: Howard, Ron, Director. Gung Ho. Paramount, 1986. 00:00:40.
 [^2]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 87. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
