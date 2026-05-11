@@ -27,7 +27,7 @@ tabs:
 # Japanese and American Cultural clashes in business
 [^1]
 
-From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture. But this is not important to understand how Japanese business was conducted and influenced relations between the US and Japan during the 1980s.
+ As we examine the differences between Japanese and American business styles, what do we observe? By exploring what influences both cultures, we can see there is a clear distinction between them. But is there more to these differences than just working hard and playing hard?
 
 ## Business or Family? Is it Both?
 
