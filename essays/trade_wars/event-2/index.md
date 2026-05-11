@@ -66,12 +66,12 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
 
 Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga did not have a major impact on America. America keeps a separation between work and play, and even if a benkyou Manga could be instructive, it is likely to be viewed as childish due to the use of drawings. Mixing business and leisure is one of the differences of Japan and America, with Japanese Salarymen having a reputation for post work drinking that can end with sleeping on the street. Gung Ho shows the characters going out for drinks but it is more Americanized as a pep talk at the bar to get one's spirit back up and not a community bonding session.
 
-[^1]: Howard, Ron, Director. Gung Ho. Paramount, 1986. 00:00:40.
+[^1]: Howard, Ron, Director, Gung Ho. (Paramount, 1986), 00:00:40.
 [^2]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 87. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
-[^3]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 82. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
-[^4]: Gung Ho, 1986, 01:24:02.
+[^3]: Sugimoto, “Making Sense of Nihonjinron.”, 82.
+[^4]: Gung Ho (1986), 01:24:02.
 [^5]: Nicholas Buccola, One Man’s Freedom: Goldwater, King, and the Struggle over an American Ideal (Princeton, NJ: Princeton University Press, 2025), 99–100.
 [^6]: Helfand, Gary Helfand, Gary. “The Applicability of Japanese Management Techniques in the American Public Sector: Some Cultural Considerations.” Public Productivity Review 7, no. 2 (1983): 107. https://doi-org.libproxy.unm.edu/10.2307/3380036.
 [^7]: Shotaro Ishinomori, JAPAN INC, Translated by Betsey Scheiner, University of California Press, Berkeley and  Los Angeles, July 5th, 1988, 204-205.
 [^8]: Reagan, Radio Address to the nation, April 25th, 1987.
-[^9]: Ruth Benedict. The Chrysanthemum and the Sword : Patterns of Japanese Culture. Mariner Books, 1989. EBSCOhost, 47-48.
+[^9]: Ruth Benedict, The Chrysanthemum and the Sword : Patterns of Japanese Culture. (Boston: Mariner Books, 1989), 47-48, EBSCOhost.
