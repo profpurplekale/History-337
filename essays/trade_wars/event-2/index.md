@@ -24,7 +24,7 @@ tabs:
     url: ../event-3/
 ---
 
-# Japanese and American Cultural clashes in business
+# Japanese and American Cultural Differences in Business
 [^1]
 
  As we examine the differences between Japanese and American business styles, what do we observe? By exploring what influences both cultures, we can see there is a clear distinction between them. But is there more to these differences than just working hard and playing hard?
@@ -43,13 +43,13 @@ Sugimoto’s writing "Making Sense of Nihonjinron" talks about the desire to por
   text=chile_origins_text
 %}
 
-## The American Autoworkers Union and community identity
+## The American Autoworkers Union and Community Identity
 
 Comparing Nihonjinron, and its view of nation, ethnicity, and Culture, to this idea that within the United States, there is some  exceptionalism which just naturally makes American’s better than the competitors reveals that American feel their work and production is exceptional. The idea that they works have lost this exceptionalism is part of the speech in Gung Ho that helps remind the workers what they are fighting for. [^4] The community aspect of being in a Union helps give it more power with its members in bargaining but tended to have “Big Labor” as an enemy of the pioneering spirit of America by people like Barry Goldwater. [^5] Union identity in labor gives the American worker as community identity that they belong to which differs from  the Japanese sharing of their working identity in the corporation management. [^6] The group honor is expressed in Gung Ho as Oishi Kazihiro drunkenly explains "I had to apologize to the workers for letting their production fall behind… A worker's value is measured by the work The company is everything. Team!"  But the cultural sentiment of this idea is lost when the scene shifts to drunken singing instead of exploring this idea more.
 But the fact that the Japanese had efficient systems to run their business was not lost on American businesses and there were attempts to try to assimilate some of these ideas into American productivity.
 
 
-## Japan Inc and its lasting impacts
+## Japan Inc and its Lasting Impact
 {% capture chile_nm_text %}
 Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products, and restrict trade as part of a Trade War to reach their national goals.
 {% endcapture %}
@@ -63,7 +63,7 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
 %}
 
 [^7] [^8]
-## Business and leisure
+## Business and Leisure
 
 Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga did not have a major impact on America. America keeps a separation between work and play, and even if a benkyou Manga could be instructive, it is likely to be viewed as childish due to the use of drawings. Mixing business and leisure is one of the differences of Japan and America, with Japanese Salarymen having a reputation for post work drinking that can end with sleeping on the street. Gung Ho shows the characters going out for drinks but it is more Americanized as a pep talk at the bar to get one's spirit back up and not a community bonding session.
 

@@ -52,7 +52,7 @@ During the 1980s, the United States and Japan engaged in trade agreement and dis
 %}
 [^4]
 
-## Attack on the Auto industry
+## Attack on the Auto Industry
 
 Beginning in the late 1970s, the Japanese started making serious gains on the American auto market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and an additional enmity towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry were the inspiration for the movie Gung Ho.
 

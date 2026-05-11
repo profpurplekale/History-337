@@ -44,7 +44,7 @@ Though Semi-conductors were part of Reagan’s April 25th, 1987, tariff speech  
   text=chile_origins_text
 %}
 
-## Anime cultural impact beyond the 80s
+## Anime Cultural Impact in the 80s and Beyond
 
 The 1980s also saw the first westernization of Japanese Anime as they were imported to the West. The VHS allowed for easier importing and viewing of shows and by the late 2000s, online streaming would become another means for watching Japanese media directly.  Anime, such as Robotech, gave Americans exposure to animated war, using intense battles for action but also showing the human cost of war. 
 
@@ -80,4 +80,4 @@ While Japan’s lasting cultural influence on American culture through video gam
 [^6]: Stalker, Japan : History and Culture from Classical to Cool, 380.
 [^7]:Tsutsui, William M. Japanese Popular Culture and Globalization / William M. Tsutsui. (Association for Asian Studies, 2010), 71.
 [^8]: Roger Ebert, “Great Movie: Grave of the Fireflies (1988),” RogerEbert.com, July 13, 2001, https://www.rogerebert.com/reviews/great-movie-grave-of-the-fireflies-1988
-.[^9]: Robotech, created by Carl Macek (Los Angeles: Harmony Gold USA, 1985), television series.
+[^9]: Robotech, created by Carl Macek (Los Angeles: Harmony Gold USA, 1985), television series.
