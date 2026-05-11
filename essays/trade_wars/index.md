@@ -61,8 +61,8 @@ As America was exiting the energy crisis of the late 1970s, Japan was starting i
 ## Business
 
 {% capture chile_nm_text %}
-There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of Buy American itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the  1970’s oil crisis and therefore wanted a more fuel-efficient car.  [^5]
-{% endcapture %}
+There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of Buy American itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the  1970’s oil crisis and therefore wanted a more fuel-efficient car.  
+{% endcapture %} [^5]
 
 {% include images/figure-wrap.html
   image-path="./images/japan_inc1auto.jpg"
