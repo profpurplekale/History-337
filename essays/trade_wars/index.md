@@ -75,7 +75,7 @@ There are fundamental aspects of culture that American and Japan differ in that 
 
 ## Going Global: The Lasting Impacts of the 80s
 
-{% include typography/pullquote.html text="\"INSERT A REALLY COOL QUOTE HERE!!!.\"" %}
+{% include typography/pullquote.html text="\"The 80s provided a way for Japanese culture to be exported through it's technology.\"" %}
 
 Thirty years after the countries trade war ended, Japan would continue to have a lasting impact on American Culture. From business practices, entertainment and exported cars, Japan continues to exert its cultural soft power on the US. The underlying racial tension that existed in the 1980s has decreased in certain groups from a better understanding within certain entertainment industries, such as videogames and anime, as the US increased consumption of Japanese media.
 
