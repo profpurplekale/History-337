@@ -61,7 +61,7 @@ As America was exiting the energy crisis of the late 1970s, Japan was starting i
 ## Business
 
 {% capture chile_nm_text %}
-There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of Buy American itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the  1970’s oil crisis and therefore wanted a more fuel-efficient car.  
+There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of Buy American itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the  1970’s oil crisis and therefore wanted a more fuel-efficient car.  [^5]
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -84,3 +84,4 @@ Thirty years after the countries trade war ended, Japan would continue to have a
 [^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
 [^3]: Endo, Russell. The Current Status of Japanese Americans. June 1st, 1985. 3, EBSCOhost.
 [^4]:Endo, Russell. The Current Status of Japanese Americans, 9.
+[^5]: Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal, 28:3, 39  (2002)  DOI:10.17953/amer.28.3.p74875252957n72
