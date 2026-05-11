@@ -51,7 +51,7 @@ But the fact that the Japanese had efficient systems to run their business was n
 
 ## Japan Inc and its lasting impacts
 {% capture chile_nm_text %}
-Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. [^7] Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products, and restrict trade as part of a Trade War to reach their national goals.[^8]
+Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products, and restrict trade as part of a Trade War to reach their national goals.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -62,6 +62,7 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
   text=chile_nm_text
 %}
 
+[^7] [^8]
 ## Business and leisure
 
 Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga did not have a major impact on America. America keeps a separation between work and play, and even if a benkyou Manga could be instructive, it is likely to be viewed as childish due to the use of drawings. Mixing business and leisure is one of the differences of Japan and America, with Japanese Salarymen having a reputation for post work drinking that can end with sleeping on the street. Gung Ho shows the characters going out for drinks but it is more Americanized as a pep talk at the bar to get one's spirit back up and not a community bonding session.
