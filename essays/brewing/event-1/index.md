@@ -21,7 +21,7 @@ tabs:
     url: ../event-2/
 
   - id: event-3
-    label: Hangover
+    label: Homogenetic Rebellion Against Homogeneity 
     url: ../event-3/
 ---
 

@@ -21,7 +21,7 @@ tabs:
     active: true
     
   - id: event-3
-    label: Hangover
+    label: Homogenetic Rebellion Against Homogeneity 
     url: ../event-3/
 ---
 
