@@ -41,7 +41,7 @@ tabs:
 
 ## Exports in Decline
 
-During the 1980s, the United States and Japan engaged in trade agreement and discussion on a variety item such as automobiles, electronics, computers, software and intellectual priority rights.[^2]  These talks were often hostile and had both sides accusing each other of protectionist legislation, pledges to reduce tariffs, promises to import greater amounts. By 1985 trade officials from both countries were warning of the impending trade war.[^3] The trade war had serious consequences for the US auto industry.
+During the 1980s, the United States and Japan engaged in trade agreement and discussion on a variety item such as automobiles, electronics, computers, software, and intellectual priority rights.[^2]  These talks were often hostile and had both sides accusing each other of protectionist legislation, pledges to reduce tariffs, promises to import greater amounts. By 1985 trade officials from both countries were warning of the impending trade war.[^3] The trade war had prfound consequences for the US auto industry.
 
 {% include images/figure-wrap.html
   image-path="../images/UAW_Smashcar.png"
@@ -54,7 +54,7 @@ During the 1980s, the United States and Japan engaged in trade agreement and dis
 
 ## Attack on the Auto industry
 
-Beginning in the late 1970s, the Japanese started making serious gains on the American auto market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and an additional enimity towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry was the inspiration for the movie Gung Ho.
+Beginning in the late 1970s, the Japanese started making serious gains on the American auto market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and an additional enmity towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry were the inspiration for the movie Gung Ho.
 
 {% include images/figure-wrap.html
   image-path="../images/japan_inc2.jpg"

@@ -51,7 +51,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 {% include typography/pullquote.html text="\"As we explore the 1980s through business, film and media, what are some of lasting US Japan Cultural legacies that emerged?\"" %}
 
 
-## Cultures competing since World War 2
+## Cultures Competing since World War 2
 
 As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US.[^2] In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media.[^3][^4]   
   
@@ -77,7 +77,7 @@ There are fundamental aspects of culture that American and Japan differ in that 
 
 {% include typography/pullquote.html text="\"Japanese culture after the 80s would have a lasting impact on the United States as seen in anime, videogames and music.\"" %}
 
-Thirty years after the countries trade war ended, Japan would continue to have a lasting impact on American Culture. From business practices, entertainment and exported cars, Japan continues to exert its cultural soft power on the US. The underlying racial tension that existed in the 1980s has decreased in certain groups from a better understanding within certain entertainment industries, such as videogames and anime, as the US increased consumption of Japanese media. As a consumer of Japanese media, The US acts as a melting pot, absorbing various ideas from Japan, such as Studio Ghibli's popular movioes and Sony's video game dominance, while also fusing aspects of Japanese culture into America popularity such as movies like Pacific Rim and Godzilla v King Kong.
+Thirty years after the countries trade war ended, Japan would continue to have a lasting impact on American Culture. From business practices, entertainment and exported cars, Japan continues to exert its cultural soft power on the US. The underlying racial tension that existed in the 1980s has decreased in certain groups from a better understanding within certain entertainment industries, such as videogames and anime, as the US increased consumption of Japanese media. As a consumer of Japanese media, The US acts as a melting pot, absorbing various ideas from Japan, such as Studio Ghibli's popular movies and Sony's video game dominance, while also fusing aspects of Japanese culture into America popularity such as movies like Pacific Rim and Godzilla v King Kong.
 
 By looking at the trade war and the anti-Japanese sentiment that it generated, we see that the US and Japan have had a push and pull relationship in their cultures. The US was pushing away in the late 70s to mid-80s but then started pulling in the aspects mentioned above. Japan has been increasing its export Japanese culture and to this continues to be seen as a cultural superpower.
 
