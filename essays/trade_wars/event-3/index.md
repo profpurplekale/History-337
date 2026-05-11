@@ -59,6 +59,8 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
   text=chile_origins_text
 %}
 
+[^9]
+
 Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2. Roger Ebert, in a review of the DVD release in 2000 describes some of the barriers that anime has to overcome in the US market:
 
  “Because it is animated and from Japan, “Grave of the Fireflies” has been little seen. When anime fans say how good the film is, nobody takes them seriously. Now that it’s available on DVD with a choice of subtitles or English dubbing, maybe it will find the attention it deserves. Yes, it’s a cartoon, and the kids have eyes like saucers, but it belongs on any list of the greatest war films ever made." [^8]
@@ -78,4 +80,4 @@ While Japan’s lasting cultural influence on American culture through video gam
 [^6]: Stalker, Japan : History and Culture from Classical to Cool, 380.
 [^7]:Tsutsui, William M. Japanese Popular Culture and Globalization / William M. Tsutsui. (Association for Asian Studies, 2010), 71.
 [^8]: Roger Ebert, “Great Movie: Grave of the Fireflies (1988),” RogerEbert.com, July 13, 2001, https://www.rogerebert.com/reviews/great-movie-grave-of-the-fireflies-1988
-.
+.[^9]: Robotech, created by Carl Macek (Los Angeles: Harmony Gold USA, 1985), television series.
