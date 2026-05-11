@@ -50,7 +50,7 @@ Comparing Nihonjinron, and its view of nation, ethnicity, and Culture, to this i
 But the fact that the Japanese had efficient systems to run their business was not lost on American businesses and there were attempts to try to assimilate some of these ideas into American productivity. Gary Helfand explores these ideas in his article on Japanese Management techniques and the Japanese "experince a heightened sense of mutual understanding and intimacy."[^10] This manifest in business with teams working together to avoid any sense of embarassment or shame at not living up to the community identity such as mentioned above in the scene mentioned above. American's cultural identity feels counter to this with the focus on individual responsiblity.
 
 {% include images/figure-wrap.html
-  image-path="../images/Helfand.jpg"
+  image-path="../images/Helfand.png"
   image-position="left"
   image-width="50%"
   caption="Helfand's description on differences in managmeent between America and Japan"
