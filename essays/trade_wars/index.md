@@ -55,13 +55,13 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 
 As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US.[^2] In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media.[^3][^4]   
   
- In  this essay, I will explore how this Japanese stereotype is portrayed and how there is an American stereotype based on the idea Exceptionalism that clashes against the core ideas within Japanese identity.
+ In  this website, We will explore how this Japanese stereotype is portrayed, how percieved United States Exceptionalism clashes against the core ideas within Japanese identity and how these identies relate in business, movies and animation. The last section will lightly cover how the Japanese company Nintendo succsesfully infiltrated the American Market to become a successful business.
 
 
 ## Business
 
 {% capture chile_nm_text %}
-There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of Buy American itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the  1970’s oil crisis and therefore wanted a more fuel-efficient car.  
+There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of UAWs push to "Buy American" itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the 1970’s oil crisis and therefore wanted a more fuel-efficient car.  
 {% endcapture %} 
 
 {% include images/figure-wrap.html
