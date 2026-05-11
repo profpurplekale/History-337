@@ -31,9 +31,9 @@ From wild origins in the Mexican highlands to cultivation across the globe, geog
 
 ## Business or Family? Is it Both?
 
-There are aspects of the Japanese that Americans are not familiar with and Gung Ho uses this for laughs as the film shows men screaming together for some sort of foreign business ritual. But how real is Gung Ho’s  portrayal of Japanese mentality as counter to American independence. The film attempts to portray, for comedic contrast, the Japanese idea of Nihonjinron, literally “Japanese discussions”, which attempt to discuss and debate the meaning of the Japanese essence. 
+There are aspects of the Japanese that Americans are not familiar with and Gung Ho uses this for laughs as the film shows men screaming together for some sort of foreign business ritual. But how real is Gung Ho’s  portrayal of Japanese mentality as a polar opposite to American independence. The film attempts to portray, for comedic contrast, elements of the Japanese idea of Nihonjinron, literally “Japanese discussions”, which attempt to discuss and debate the meaning of the Japanese essence. 
   
-Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents can sometimes carry racist and nationalistic ideas, is built on a frame based on Nationality, Ethnicity, and Culture (NEC). [^3]
+Sugimoto’s writing "Making Sense of Nihonjinron" talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents can sometimes carry racist and nationalistic ideas, is built on a frame based on Nationality, Ethnicity, and Culture (NEC). [^3] Even Ruth Benedicts's The Chrysanthemum and the Sword: Patterns of Japanese Culture. (1946) was writing how Japanese culture was built on  meticulous rules and convetions and learning the hierarachy built on innumerable factors like age, sex, station, and familiarity. [^9]
 
 {% include images/figure-wrap.html
   image-path="../images/Times1.jpg"
@@ -74,3 +74,4 @@ Though the Manga did portray the fears of the time that the US and Japan shared 
 [^6]: Helfand, Gary Helfand, Gary. “The Applicability of Japanese Management Techniques in the American Public Sector: Some Cultural Considerations.” Public Productivity Review 7, no. 2 (1983): 107. https://doi-org.libproxy.unm.edu/10.2307/3380036.
 [^7]: Shotaro Ishinomori, JAPAN INC, Translated by Betsey Scheiner, University of California Press, Berkeley and  Los Angeles, July 5th, 1988, 204-205.
 [^8]: Reagan, Radio Address to the nation, April 25th, 1987.
+[^9]: Ruth Benedict. The Chrysanthemum and the Sword : Patterns of Japanese Culture. Mariner Books, 1989. EBSCOhost, 47-48.
