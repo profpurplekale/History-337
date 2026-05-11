@@ -59,7 +59,10 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
   text=chile_origins_text
 %}
 
-Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2, and Princess Mononoke (1997). Studio Ghibli has continued to produce movies that are known through the US, and also worldwide, and provide a way for non-Japanese cultures to experience aspects of Japanese life and culture while also being entertained. 
+Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2. Roger Ebert, in a review of the DVD release in 2000 describes some of the barriers that anime has to overcome in the US market:
+  “Because it is animated and from Japan, “Grave of the Fireflies” has been little seen. When anime fans say how good the film is, nobody takes them seriously. Now that it’s available on DVD with a choice of subtitles or English dubbing, maybe it will find the attention it deserves. Yes, it’s a cartoon, and the kids have eyes like saucers, but it belongs on any list of the greatest war films ever made." [^8]
+
+Studio Ghibli has continued to produce movies that are known through the US, and also worldwide, and provides a way for non-Japanese cultures to experience aspects of Japanese life by providing such powerful visuals in anime with Japanese story telling.
 
 ## Cashing in on Soft Power?
 
@@ -73,3 +76,5 @@ While Japan’s lasting cultural influence on American culture through video gam
 [^5]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–601. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
 [^6]: Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 380.
 [^7]:Tsutsui, William M. Japanese Popular Culture and Globalization / William M. Tsutsui. Association for Asian Studies, 2010. 71.
+[^8]: Roger Ebert, “Great Movie: Grave of the Fireflies (1988),” RogerEbert.com, July 13, 2001, https://www.rogerebert.com/reviews/great-movie-grave-of-the-fireflies-1988
+.
