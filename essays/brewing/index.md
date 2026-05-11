@@ -57,7 +57,10 @@ Numerous instances of homebrewing exist in the historical record before legaliza
 
 {% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.\"" %}
 
+Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the potential industry in the state. “After consulting with Dr. Michael Lewis at UC Davis and numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     
 
+Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. 
+While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.”   From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, Bill Owen’s Buffalo Bill’s Brewery adds complexity to the narrative. 
 
 ## The New Mexican Obsession
 

@@ -31,7 +31,7 @@ The oil shocks of 1973 and 1979 revealed that the U.S. economy depended on cheap
 
 ## Indigenous Cultivators
 
-Late 20th-century California had a distinct counterculture atmosphere. At the University of California, Berkeley, Frances Moore Lappé conducted her research for her environmental and political manifesto, “Diet for A Small Planet.” While Americans began to reconsider the nature of local supply chains, Lappé posited that ecological devastation and food insecurity were not a matter of scarcity but of inefficient, meat-centered supply chains. The cornerstone piece of the localism movement, which garnered particular attention in California, fundamentally challenged consumption habits. 
+Late 20th-century California had a distinct counterculture atmosphere. At the University of California, Berkeley, Frances Moore Lappé conducted her research for her environmental and political manifesto, “Diet for A Small Planet.” While students in California protested the Vietnam War, and Americans began to reconsider the nature of local supply chains, Lappé posited that ecological devastation and food insecurity were not a matter of scarcity but of inefficient, meat-centered supply chains. The cornerstone piece of the localism movement, which garnered particular attention in California, fundamentally challenged consumption habits. 
 
 {% include typography/pullquote.html text="\"For freedom is not the capacity to do whatever we please; freedom is the capacity to make intelligent choices.”\"" %}
 
@@ -46,11 +46,22 @@ Late 20th-century California had a distinct counterculture atmosphere. At the Un
 
 The Localism Movement greatly influenced the Craft Beer Movement. The first female brewmaster in the United States, Mellie Pullman, reflected these trends in the Western Craft Brewing Movement. “I'm like the typical Portlander. Completely obsessed with all of it. Going to the newest restaurants and trying to support local producers.”   In Utah, Pullman “came up with a lager, called the Slickrock Lager, and it was really marketed toward the mountain biking community.”   Her reflection on the lager is a direct response to catering to the community when they might defer to something standardized like Coors. Sociologists and cultural geographers have acknowledged the utility of breweries as “anchor points” and coined the term “neolocalism” to describe the modern, evolving taste for local products and identity.   This tendency, then, is rooted in the localism movement and helps explain how breweries have remained economically viable well into the 21st century. 
 
-## Spanish Missionaries and Settlers
+## Epistemology
 
-When Spanish colonizers arrived in the Americas, Franciscan missionaries and early settlers recognized the value of chiles almost immediately. They brought cultivated varieties northward along the Camino Real, establishing chile cultivation in what is now New Mexico by the late 1500s.
+Craft brewing is not only a form of corporate dissent but also a particular epistemological nature. Pullman had plenty of chances to profit, but instead, declined: “People always ask me to come and do consulting. No, that's not my thing. I'm just education. I'm not consulting.”   The collaborative nature in the Craft Brewing Industry is so pronounced that sociologists have study the phenomenon. “One might have a preconceived notion that most brewers would want to keep their knowledge a secret, especially recipes or special techniques; however, as many homebrewers interviewed stated, they were willing to share their knowledge and “feed” off of each other.”   This phenomenon evidently was a precedent set by early home and craft brewers, who had to experiment, jerry rig, or otherwise “DIY” their brewing equipment, and create their own recipes. 
 
-These settlers adapted their growing techniques to the high desert climate, developing irrigation systems and cultivation practices that would define New Mexican agriculture for centuries.
+{% capture chile_origins_text %}
+Craft brewing is not only a form of corporate dissent but also a particular epistemological nature. Pullman had plenty of chances to profit, but instead, declined: “People always ask me to come and do consulting. No, that's not my thing. I'm just education. I'm not consulting.”   The collaborative nature in the Craft Brewing Industry is so pronounced that sociologists have study the phenomenon. “One might have a preconceived notion that most brewers would want to keep their knowledge a secret, especially recipes or special techniques; however, as many homebrewers interviewed stated, they were willing to share their knowledge and “feed” off of each other.”   This phenomenon evidently was a precedent set by early home and craft brewers, who had to experiment, jerry rig, or otherwise “DIY” their brewing equipment, and create their own recipes. 
+
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/OWENSVAT.png"
+  image-position="left"
+  image-width="48%"
+  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  text=chile_origins_text
+%}
 
 ## Modern Farmers and Preservationists
 
