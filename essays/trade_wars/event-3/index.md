@@ -59,6 +59,8 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
   text=chile_origins_text
 %}
 
+Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2, and Princess Mononoke (1997). Studio Ghibli has continued to produce movies that are known through the US, and also worldwide, and provide a way for non-Japanese cultures to experience aspects of Japanese life and culture while also being entertained. 
+
 ## Cashing in on Soft Power?
 
 While Japan’s lasting cultural influence on American culture through video games and Animation is measurable in GDP, William Tsutsui brings up the realist view of how Japan will go about cashing in this cultural soft power in international relationships. [^7] American’s can enjoy Japanese animation and play their video games during their leisure time but what percent of them end up going to Japan to work or participate in their culture?  This goes back to the idea of America being a melting pot who values independence in which Japanese ideas can be assimilated but then expressed with the American flavor of Independence and capitalist driven. America seems willing to take in various Japanese elements when it is in the form of entertainment but long-standing incorporation of the societal elements that built that culture remain excluded, such as the hierarchy views and family community aspects.
