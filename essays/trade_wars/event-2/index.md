@@ -46,7 +46,8 @@ Sugimoto’s writing "Making Sense of Nihonjinron" talks about the desire to por
 ## The American Autoworkers Union and Community Identity
 
 Comparing Nihonjinron, and its view of nation, ethnicity, and Culture, to this idea that within the United States, there is some  exceptionalism which just naturally makes American’s better than the competitors reveals that American feel their work and production is exceptional. The idea that they works have lost this exceptionalism is part of the speech in Gung Ho that helps remind the workers what they are fighting for. [^4] The community aspect of being in a Union helps give it more power with its members in bargaining but tended to have “Big Labor” as an enemy of the pioneering spirit of America by people like Barry Goldwater. [^5] Union identity in labor gives the American worker as community identity that they belong to which differs from  the Japanese sharing of their working identity in the corporation management. [^6] The group honor is expressed in Gung Ho as Oishi Kazihiro drunkenly explains "I had to apologize to the workers for letting their production fall behind… A worker's value is measured by the work The company is everything. Team!"  But the cultural sentiment of this idea is lost when the scene shifts to drunken singing instead of exploring this idea more.
-But the fact that the Japanese had efficient systems to run their business was not lost on American businesses and there were attempts to try to assimilate some of these ideas into American productivity.
+
+But the fact that the Japanese had efficient systems to run their business was not lost on American businesses and there were attempts to try to assimilate some of these ideas into American productivity. Gary Helfand explores these ideas in his article on Japanese Management techniques and the Japanese "experince a heightened sense of mutual understanding and intimacy."[^10] This manifest in business with teams working together to avoid any sense of embarassment or shame at not living up to the community identity such as mentioned above in the scene mentioned above. American's cultural identity feels counter to this with the focus on individual responsiblity.
 
 
 ## Japan Inc and its Lasting Impact
@@ -76,3 +77,4 @@ Though the Manga did portray the fears of the time that the US and Japan shared 
 [^7]: Shotaro Ishinomori, JAPAN INC, Translated by Betsey Scheiner, University of California Press, Berkeley and  Los Angeles, July 5th, 1988, 204-205.
 [^8]: Reagan, Radio Address to the nation, April 25th, 1987.
 [^9]: Ruth Benedict, The Chrysanthemum and the Sword : Patterns of Japanese Culture. (Boston: Mariner Books, 1989), 47-48, EBSCOhost.
+[^10]: Helfand, Gary. “The Applicability of Japanese Management Techniques in the American Public Sector: Some Cultural Considerations.” Public Productivity Review 7, no. 2 (1983), 107-109, https://doi-org.libproxy.unm.edu/10.2307/3380036.
