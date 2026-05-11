@@ -7,7 +7,7 @@ thumbnail: ../images/gungho1.jpg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
-    label: Overview of the US Japan Tradewar 
+    label: The US and Japan during the 1980s 
     url: ../
 
   - id: event-1

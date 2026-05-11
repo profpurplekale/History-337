@@ -7,7 +7,7 @@ thumbnail: ../images/President_Ronald_Reagan_Walking_with_Prime_Minister_Yasuhir
 summary: A history of US Japan 1980s trade wars
 tabs:
   - id: overview
-    label: Overview of the US Japan Tradewar
+    label: The US and Japan during the 1980s
     url: ../
 
 
