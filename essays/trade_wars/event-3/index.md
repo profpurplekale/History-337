@@ -60,7 +60,8 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
 %}
 
 Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2. Roger Ebert, in a review of the DVD release in 2000 describes some of the barriers that anime has to overcome in the US market:
-  “Because it is animated and from Japan, “Grave of the Fireflies” has been little seen. When anime fans say how good the film is, nobody takes them seriously. Now that it’s available on DVD with a choice of subtitles or English dubbing, maybe it will find the attention it deserves. Yes, it’s a cartoon, and the kids have eyes like saucers, but it belongs on any list of the greatest war films ever made." [^8]
+
+ “Because it is animated and from Japan, “Grave of the Fireflies” has been little seen. When anime fans say how good the film is, nobody takes them seriously. Now that it’s available on DVD with a choice of subtitles or English dubbing, maybe it will find the attention it deserves. Yes, it’s a cartoon, and the kids have eyes like saucers, but it belongs on any list of the greatest war films ever made." [^8]
 
 Studio Ghibli has continued to produce movies that are known through the US, and also worldwide, and provides a way for non-Japanese cultures to experience aspects of Japanese life by providing such powerful visuals in anime with Japanese story telling.
 
