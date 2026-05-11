@@ -71,7 +71,7 @@ There are fundamental aspects of culture that American and Japan differ in that 
   caption="Japan Inc's portrayal of the UAW union's outrage"
   text=chile_nm_text
 %}
-[^5]
+[^5],[^6]
 
 ## Going Global: The Lasting Impacts of the 80s
 
@@ -87,3 +87,4 @@ By looking at the trade war and the anti-Japanese sentiment that it generated, w
 [^3]: Endo, Russell, The Current Status of Japanese Americans, June 1st, 1985, 3, EBSCOhost.
 [^4]:Endo, Russell, The Current Status of Japanese Americans, 9.
 [^5]: Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal 28, no.3,(2002), 39, DOI:10.17953/amer.28.3.p74875252957n72
+[^6]:Shotaro Ishinomori, JAPAN INC, Translated by Betsey Scheiner, University of California Press, Berkeley and  Los Angeles, July 5th, 1988, 204-205.
