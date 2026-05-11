@@ -61,7 +61,7 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
 
 ## Conclusion
 
-Insert a great ending here. The story of the Chile and its impact on Japan has yet to be written.
+While Japan’s lasting cultural influence on American culture through video games and Animation is measurable in GDP, William Tsutsui brings up the realist view of how will Japan go about cashing in this cultural soft power in international relationships. [^7] American’s can enjoy Japanese animation and play their video games during their leisure time but what percent of them end up going to Japan to work or participate in their culture?  This goes back to the idea of America being a melting pot who values independence in which Japanese ideas can be assimilated but then expressed with the American flavor of Independence and capitalist driven.
 
 
 [^1]: https://www.flickr.com/photos/travfotos/10985408655
@@ -70,3 +70,4 @@ Insert a great ending here. The story of the Chile and its impact on Japan has y
 [^4]: Uchiyama et al, Cultural Re-importation, 582.
 [^5]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–601. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
 [^6]: Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 380.
+[^7]:Tsutsui, William M. Japanese Popular Culture and Globalization / William M. Tsutsui. Association for Asian Studies, 2010. 71.
