@@ -2,9 +2,9 @@
 title: "Cultural impact on the US and Japan post 1980"
 layout: scrollstory-tabs
 header-image: ./images/reagan_japanese_meetings_london_1984.jpg
-header-title: "US Japan Cultural legacies from the 1980s"
+header-title: "US Japanese Cultural Legacies from the 1980s and Beyond"
 thumbnail: images/1986_Toyota.jpg
-summary: A history of the US Japan Trade War and its aftermath.
+summary: How the United States and Japan have shared culture since the 1980s
 tabs:
   - id: overview
     label: The US and Japan during the 1980s
