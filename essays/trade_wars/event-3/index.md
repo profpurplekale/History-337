@@ -70,12 +70,12 @@ Studio Ghibli has continued to produce movies that are known through the US, and
 While Japan’s lasting cultural influence on American culture through video games and Animation is measurable in GDP, William Tsutsui brings up the realist view of how Japan will go about cashing in this cultural soft power in international relationships. [^7] American’s can enjoy Japanese animation and play their video games during their leisure time but what percent of them end up going to Japan to work or participate in their culture?  This goes back to the idea of America being a melting pot who values independence in which Japanese ideas can be assimilated but then expressed with the American flavor of Independence and capitalist driven. America seems willing to take in various Japanese elements when it is in the form of entertainment but long-standing incorporation of the societal elements that built that culture remain excluded, such as the societal hierarchy views and family community aspects.
 
 
-[^1]: https://www.flickr.com/photos/travfotos/10985408655
-[^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
+[^1]: Flikr, N/A, https://www.flickr.com/photos/travfotos/10985408655
+[^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, (Berkeley:University of California Press, 2018),362-363, ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806
 [^3]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–585. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
 [^4]: Uchiyama et al, Cultural Re-importation, 582.
-[^5]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–601. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
-[^6]: Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 380.
-[^7]:Tsutsui, William M. Japanese Popular Culture and Globalization / William M. Tsutsui. Association for Asian Studies, 2010. 71.
+[^5]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–585, https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
+[^6]: Stalker, Japan : History and Culture from Classical to Cool, 380.
+[^7]:Tsutsui, William M. Japanese Popular Culture and Globalization / William M. Tsutsui. (Association for Asian Studies, 2010), 71.
 [^8]: Roger Ebert, “Great Movie: Grave of the Fireflies (1988),” RogerEbert.com, July 13, 2001, https://www.rogerebert.com/reviews/great-movie-grave-of-the-fireflies-1988
 .
