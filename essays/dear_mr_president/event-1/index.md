@@ -45,6 +45,8 @@ Initially, the CPUSA advocated nonintervention, as did the Almanac Singers. Earl
 
 After Germany invaded Russia, the CPUSA's position flipped towards advocacy for war.[^ch] When this policy shifted, so did the attitudes of the musicians, resulting in the release of the album "Dear Mr. President, and the song in question.[^pe]
 
+As the Almanac Singers tended to align with communist ideas, their music can be useful in gauging the focuses of the political left, as well as how the wider public responded to these ideas.
+
 
 {% include images/figure-wrap.html
   image-path="../images/Dear_mr_prez.jpeg"
@@ -73,6 +75,7 @@ primary argument, presenting the idea of integration as an absurd overreach by t
 
 Government overreach is a common theme in music of this type, as an extension of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not 'stay in their place'"[^4]
 
+Happy Fats takes a right wing position on the discussion around integration, and presents it in a way that is less explicit than some older music of this type, according to CITATION. This represents a shift in attitudes around this kind of racism, as expressions of these ideas became more subtle in the face of this cultural shift.
 
 "In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics" [^next]
 
@@ -96,8 +99,6 @@ These two songs take on very different perspectives when it comes to racial issu
 Additionally, the Almanac singers positions on US involvement in World War II reveals the complicated dynamics of the political far left in America and Russia.
 
 The direct topics of each song are notably very different from each other, focusing their attention on different issues. The attitude towards the president in each song is also quite different as well. This establishes that songs using this structure can be very diverse in terms of subject matter, tone, and perspective, and as such will not be able to reveal the full array of public discussion on any one subject, but instead can reveal one perspective, and by looking at how it was recieved, make inferences about larger cultural moods.
-
-For instance, as the Almanac Singers tended to align with communist ideas, their music can be useful in gauging the focuses of the political left, as well as how the wider public responded to these ideas.
 
 
 [^1]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
