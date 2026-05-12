@@ -1,8 +1,8 @@
 ---
-title: "Cultural impact on the US and Japan post 1980"
+title: "Cultural legacies of the US and Japan post 1980"
 layout: scrollstory-tabs
 header-image: ./images/reagan_japanese_meetings_london_1984.jpg
-header-title: "US Japanese Cultural Legacies from the 1980s and Beyond"
+header-title: "US and Japanese Cultural Legacies from the 1980s and Beyond"
 thumbnail: images/1986_Toyota.jpg
 summary: How the United States and Japan have shared culture since the 1980s
 tabs:
@@ -48,7 +48,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 
 <a id='R7hDPx9-RrhxY_99FSYTbA' class='gie-single' href='https://www.gettyimages.com/detail/3271061' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'R7hDPx9-RrhxY_99FSYTbA',sig:'Az4jwZm-WTzCFjhtWWR57QcKbjHpVbckC-bjjliWwlE=',w:'594px',h:'422px',items:'3271061',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
-{% include typography/pullquote.html text="\"As we explore the 1980s through business, film and media, what are some of lasting US, Japanese cultural legacies that emerged?\"" %}
+{% include typography/pullquote.html text="\"As we explore the 1980s through business, film and media, what are some of lasting US and Japanese cultural legacies that emerged?\"" %}
 
 
 ## Cultures Competing since World War 2
