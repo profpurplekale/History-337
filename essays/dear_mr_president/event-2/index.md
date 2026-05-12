@@ -85,10 +85,11 @@ Despite the gap in time between these two songs, they are fairly similar in the 
 
 The concerns that both songs focus on stem from a shift in policy and changes in society, such as the focus on welfare queen, and the cutting of social services and savetly nets. Though these songs are not directly addressing the causes of these issues, they reveal the way that the impact of these is felt throughout society, and how people are affected by them. 
 
-These songs are considerably less pointed than many of the others discussed as well, which may also reveal something about either the fear of backlash, or more moderate opiinions overall.
-One interesting event that relates to this topic is the band now known as The Chicks EXPAND. After their criticism of the Iraq War EXPAND BACKLASH. This may have impacted some of the presentation of Fitz and the Tantrum's song, but the 4 Non Blondes song released much earlier than this, and thus could not have been affected by it.
+These songs are considerably less pointed than many of the others discussed as well, which may also reveal something about the perspectives of the artists, or how they felt their message would be recieved by the public.
+One interesting event that relates to this topic is an event involving the band now known as The Chicks. After their criticism of Bush and Iraq War, they recived significant backlash, as many boycotted their music.[^4] This may have impacted some of the presentation of Fitz and the Tantrum's song, as a fear of backlash may prevent more pointed critique. However, the 4 Non Blondes song released much earlier than this, and thus could not have been affected by it directly. It is also possible that the song represents their attitudes accurately, thus revealing how the less politically involved populace thought about these chnages in society.
 
 
 [^1]: Carl Wiser. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
 [^2]: George Varga. “Linda Perry Revs up with 4 Non Blondes Reunion, New Film and Solo Album,” Tribune, May 14, 2025.
 [^3]: Jane Jansen Seymour. "Fitz & the Tantrums Keep Busy Over the Holiday Weekend". PopMatters, June 1, 2010.
+[^4]: Andrew Dansby, “Fans Turn on Dixie Chicks,” Rolling Stone, June 25, 2018
