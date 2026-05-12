@@ -83,6 +83,10 @@ It focuses on the struggles of people in poverty, and how people are often unabl
 
 Despite the gap in time between these two songs, they are fairly similar in the broad critiques, as they note issues of poverty and governance that are not tied to any particular event or administration. There aren't many specific arguments or calls to action in these songs either, primarily arguing that the current state of affairs is not good. This highlights the way that political messages in popular media are not always very detailed, and may not necessarily be written with a specific goal in mind.
 
+The concerns that both songs focus on stem from a shift in policy and changes in society, such as the focus on welfare queen, and the cutting of social services and savetly nets. Though these songs are not directly addressing the causes of these issues, they reveal the way that the impact of these is felt throughout society, and how people are affected by them. 
+
+These songs are considerably less pointed than many of the others discussed as well, which may also reveal something about either the fear of backlash, or more moderate opiinions
+
 
 [^1]: Carl Wiser. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
 [^2]: George Varga. “Linda Perry Revs up with 4 Non Blondes Reunion, New Film and Solo Album,” Tribune, May 14, 2025.
