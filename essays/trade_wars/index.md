@@ -28,12 +28,12 @@ tabs:
 
 The United States and Japan share a “work hard, play hard” mindset that is culturally distinct. United States Exceptionalism drives the free market of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. In contrast to this American exceptionalism, is a Japanese businesses approach  which, used in the 1980s,  which employed an almost familial bond system that results in a highly structured and hierarchical system. By starting at a comparison of these business styles in the 1980s “Trade War” and beyond , what emerges as we explore how Japanese culture influenced the US from the 1980s to the 2020s in ways beyond business.
 
-The different business styles used by America and Japan would result in the US auto industry falling behind in production which produced an anti-Japanese sentiment felt first in Detroit through the automotive industry, and eventually spreading to a national level as the Nations enter a trade war built on perceive inequalities in trade. [^1]
+The different business styles used by America and Japan would result in the US auto industry falling behind in production which produced an anti-Japanese sentiment felt first in Detroit through the automotive industry, and eventually spreading to a national level as the two nations enter a trade war built on perceive inequalities in trade. [^1]
 
 ## Humbled Empire to Rising Nation
 
 {% capture chile_origins_text %}
-From 1945 to the late 1970s, Japan would emerge from an enemy defeated in World War 2 to a global economic competitor. This site will explore some of the economic and cultural ideas that drive both nations while also examining how these cultural differences were portrayed in the 80s. The site will then explore how Japanese culture influenced American during the 80s and beyond. What emerges when examining their cultures is that both countries seem to share the idea that there is something exceptional about its members that makes them destined for success while Japan focuses on community framework while America follows an idea of Independence.
+From 1945 to the late 1970s, Japan would emerge from an enemy defeated in World War 2 to a global economic competitor. This site will explore some of the economic and cultural ideas that drive both nations while also examining how these cultural differences were portrayed in the 80s. The site will then explore how Japanese culture influenced America during the 80s and beyond. What emerges when examining their cultures is that both countries seem to share the idea that there is something exceptional about its members that makes them destined for success while Japan focuses on community framework while America follows the individual and his own hard work.
 {% endcapture %}
 
 {% include images/figure-wrap.html
