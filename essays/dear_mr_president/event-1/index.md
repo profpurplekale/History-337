@@ -75,7 +75,7 @@ primary argument, presenting the idea of integration as an absurd overreach by t
 
 Government overreach is a common theme in music of this type, as an extension of presenting Civil Rights leaders as troublemakers, in the case of these songs, specifically through enacting polices and laws.[^4] "The federal government is depicted as the primary threat to the traditional Southern lifestyle, rather than African-Americans who will not 'stay in their place'"[^4]
 
-Happy Fats takes a right wing position on the discussion around integration, and presents it in a way that is less explicit than some older music of this type, according to CITATION. This represents a shift in attitudes around this kind of racism, as expressions of these ideas became more subtle in the face of this cultural shift.
+Happy Fats takes a right wing position on the discussion around integration, and presents it in a way that is less explicit than some older music of this type, according to Michael Wade.[^next] This represents a shift in attitudes around this kind of racism, as seen by the way that expressions of these ideas became more subtle in the face of this cultural shift.
 
 "In a relatively short time, however, the traditional lexicon of white racism became largely unacceptable as a form of public expression, especially in politics. The segregationists would have to find new political allies, and a new vocabulary with which to express largely unchanged beliefs. Some of the newly tailored concepts were locally available in the lyrics of Johnny Rebel, Son of Mississippi, Happy Fats, and the mysterious James Crow. At least part of their message, then, suggests a transition toward the more subtle, coded appeals which were increasingly the stuff of politics" [^next]
 
