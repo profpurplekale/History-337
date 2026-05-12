@@ -51,7 +51,9 @@ Another way to reach a broad audience like this is through music. Political musi
 
 {% include typography/pullquote.html text="\"Music can enhance historical study by re-creating social and cultural mood and by illustrating an era's common ideas and attitudes.\"" %} [^6]
 
-Although on its own music cannot create a perfect picture of the past, it can still be a useful tool in looking at the issues that people thought were important, and how they presented them in art. The Dear Mr. President songs exist as a form of this music influenced by the tradition of political letter writing, and can be used to see what changes different people wanted to see, what problems needed to be addressed, and how to present these ideas.
+Although on its own music cannot create a perfect picture of the past, it can still be a useful tool in looking at the issues that people thought were important, and how they presented them in art. The Dear Mr. President songs use the format of a letter to the president more as a way to frame their ideas, which are really intended to be heard by a wider audience. This music, influenced by the tradition of political letter writing, can be used to see what changes different people wanted to see, what problems needed to be addressed, and how to present these ideas. It can paint a picture of what problems and changes were present in the minds of Americans.
+
+
 
 ---
 
