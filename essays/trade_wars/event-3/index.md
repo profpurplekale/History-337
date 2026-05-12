@@ -61,7 +61,7 @@ The 1980s also saw the first westernization of Japanese anime as they were impor
 
 [^9]
 
-Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2. Roger Ebert, in a review of the DVD release in 2000 describes some of the barriers that anime has to overcome in the US market:
+Since 1985, Studio Ghibli has produced some of the most popular anime movies such as Grave of the Fire flies (1988) which portrayed emotionally difficult material like two siblings trying to survive during World War 2. Roger Ebert, in a review of the DVD release in 2000 describes some of the barriers that anime must overcome in the US market:
 
  “Because it is animated and from Japan, “Grave of the Fireflies” has been little seen. When anime fans say how good the film is, nobody takes them seriously. Now that it’s available on DVD with a choice of subtitles or English dubbing, maybe it will find the attention it deserves. Yes, it’s a cartoon, and the kids have eyes like saucers, but it belongs on any list of the greatest war films ever made." [^8]
 
@@ -69,7 +69,7 @@ Studio Ghibli has continued to produce movies that are known through the world a
 
 ## Cashing in on Soft Power?
 
-While Japan’s lasting cultural influence on American culture through video games and Animation is measurable in GDP, William Tsutsui brings up the realist view of how Japan will go about cashing in this cultural soft power in international relationships. [^7] Americans can enjoy Japanese animation and play their video games during their leisure time but what percent of them end up going to Japan to work or participate in their culture?  Instead of Americans going to Japan, I aruge that this goes back to the idea of America being a melting pot who values independence in which Japanese ideas can be assimilated but then expressed with the American flavor of Independence and capitalist driven. America seems willing to take in various Japanese elements when it is in the form of entertainment but  incorporation of the Japanese societal elements that built that culture remain excluded, such as the societal hierarchy views and work/family/community aspects.
+While Japan’s lasting cultural influence on American culture through video games and Animation is measurable in GDP, William Tsutsui brings up the realist view of how Japan will go about cashing in this cultural soft power in international relationships. [^7] Americans can enjoy Japanese animation and play their video games during their leisure time but what percent of them end up going to Japan to work or participate in their culture?  Instead of Americans going to Japan, I argue that this goes back to the idea of America being a melting pot who values independence in which Japanese ideas can be assimilated but then expressed with the American flavor of Independence and capitalist driven. America seems willing to take in various Japanese elements when it is in the form of entertainment but  incorporation of the Japanese societal elements that built that culture remain excluded, such as the societal hierarchy views and work/family/community aspects.
 
 
 [^1]: Flikr, N/A, https://www.flickr.com/photos/travfotos/10985408655
