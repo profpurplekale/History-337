@@ -44,7 +44,7 @@ From 1945 to the late 1970s, Japan would emerge from an enemy defeated in World 
   text=chile_origins_text
 %}
 
- United States Exceptionalism drives the US free market of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work result gives him the economic means to spend his leisure time on various ways that might include Japanese product consumption. The Japanese businesses of the 1980s contrasted this by employing an almost familial bond system that results in a highly structured and hierarchical system, with leisure time of a salary man having a portion of time spent with drinking with coworkers.
+ United States Exceptionalism drives the US free market of capitalism and the inviduals work hard for themselves and that his own work results in the company staying profitable. His effort in work result in having the economic means to spend his leisure time on various ways that might include Japanese product consumption. The Japanese businesses of the 1980s contrasted this by employing an almost familial bond system that results in a highly structured and hierarchical system, with leisure time of a "salary man" having a portion of time spent with drinking with coworkers.
 
 <a id='R7hDPx9-RrhxY_99FSYTbA' class='gie-single' href='https://www.gettyimages.com/detail/3271061' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'R7hDPx9-RrhxY_99FSYTbA',sig:'Az4jwZm-WTzCFjhtWWR57QcKbjHpVbckC-bjjliWwlE=',w:'594px',h:'422px',items:'3271061',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
@@ -53,15 +53,15 @@ From 1945 to the late 1970s, Japan would emerge from an enemy defeated in World 
 
 ## Cultures Competing since World War 2
 
-As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US.[^2] In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media.[^3][^4]   
+As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US.[^2] In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first and second generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media.[^3][^4]   
   
- In  this website, We will explore how this Japanese stereotype is portrayed, how percieved United States Exceptionalism clashes against the core ideas within Japanese identity and how these identies relate in business, movies and animation. The last section will lightly cover how the Japanese company Nintendo succsesfully infiltrated the American Market to become a successful business.
+ In  this website, We will explore how this Japanese stereotype is portrayed, how self-perceived  United States Exceptionalism clashes against the core ideas within Japanese identity and how these identities  relate in business, movies and animation. The last section will lightly cover how the Japanese company Nintendo succsesfully infiltrated the American Market to become a popular business.
 
 
 ## Business
 
 {% capture chile_nm_text %}
-There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of UAWs push to "Buy American" itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the 1970’s oil crisis and therefore wanted a more fuel-efficient car.  
+There are fundamental aspects of culture that America and Japan differ in, which leads to their business styles having to account for these differences when interacting. The nature of UAWs push to “Buy American” itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the 1970’s oil crisis and therefore wanted a more fuel-efficient car. 
 {% endcapture %} 
 
 {% include images/figure-wrap.html
