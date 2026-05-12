@@ -95,6 +95,10 @@ Government overreach is a common theme in music of this type, as an extension of
 These two songs take on very different perspectives when it comes to racial issues, for one. The Almanac Singers, being associated with the CPUSA, tended towards advocacy of civil rights, as this was in alignment with its position.[^6] Happy Fats, however, takes a staunchly segregationist position in much of his music. This reflects the ways that divisions about race in America in this era. 
 Additionally, the Almanac singers positions on US involvement in World War II reveals the complicated dynamics of the political far left in America and Russia.
 
+The direct topics of each song are notably very different from each other, focusing their attention on different issues. The attitude towards the president in each song is also quite different as well. This establishes that songs using this structure can be very diverse in terms of subject matter, tone, and perspective, and as such will not be able to reveal the full array of public discussion on any one subject, but instead can reveal one perspective, and by looking at how it was recieved, make inferences about larger cultural moods.
+
+For instance, as the Almanac Singers tended to align with communist ideas, their music can be useful in gauging the focuses of the political left, as well as how the wider public responded to these ideas.
+
 
 [^1]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 23.
 [^2]: R. Serge Denisoff. “‘Take It Easy, but Take It’: The Almanac Singers.” The Journal of American Folklore 83, no. 327 (1970): 31.
