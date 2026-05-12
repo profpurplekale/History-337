@@ -85,7 +85,8 @@ Despite the gap in time between these two songs, they are fairly similar in the 
 
 The concerns that both songs focus on stem from a shift in policy and changes in society, such as the focus on welfare queen, and the cutting of social services and savetly nets. Though these songs are not directly addressing the causes of these issues, they reveal the way that the impact of these is felt throughout society, and how people are affected by them. 
 
-These songs are considerably less pointed than many of the others discussed as well, which may also reveal something about either the fear of backlash, or more moderate opiinions
+These songs are considerably less pointed than many of the others discussed as well, which may also reveal something about either the fear of backlash, or more moderate opiinions overall.
+One interesting event that relates to this topic is the band now known as The Chicks EXPAND. After their criticism of the Iraq War EXPAND BACKLASH. This may have impacted some of the presentation of Fitz and the Tantrum's song, but the 4 Non Blondes song released much earlier than this, and thus could not have been affected by it.
 
 
 [^1]: Carl Wiser. “What’s Going on? The 4 Non Blondes Story : Song Writing.” Song Meanings at Songfacts, December 16, 2025.
