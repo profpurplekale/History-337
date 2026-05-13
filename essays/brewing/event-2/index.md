@@ -43,7 +43,7 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
 
 In 1979, the Washington Post acknowledged the viability of alternative brewing and the emerging industry. “Many people feel that American Beer, like the proverbial apple pie, is not what it used to be, that it has become standardized to the lowest common denominator.”
 
-## The Rio Grande Valley
+## <del>De</del>Reindustrializing
 
 When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
 
