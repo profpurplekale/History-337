@@ -49,7 +49,7 @@ September 11th was, in a lot of ways, the most major turning point for U.S. pers
 In 2000, William Friedkin directed the movie Rules of Engagement3, which focuses on a court case concerning a large-scale civilian massacre in Yemen.
 
 {% include images/figure-wrap.html
-  image-path="../images/Rules_Engagement.webp"
+  image-path="../images/Rules_Of_Engagement.webp"
   image-position="left"
   image-width="50%"
   caption="Needless American violence in the Middle East has been justified for nearly a century."
