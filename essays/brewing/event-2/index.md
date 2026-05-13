@@ -33,6 +33,8 @@ Identifying changes in consumer demand and adapting quickly to cater to them is 
 
 Shifting tastes under neoliberalism were not a random cultural shift, and the erosion of the post-war “mass-consumption” economy introduced new demands for individualism rather than the sameness that standardized and mass consumption suggested. 
 
+In 1979, the Washington Post acknowledged the viability of alternative brewing and the emerging industry. “Many people feel that American Beer, like the proverbial apple pie, is not what it used to be, that it has become standardized to the lowest common denominator.”
+
 {% include images/figure-wrap.html
   image-path="../images/hoptoit.jpg"
   image-position="left"
@@ -50,7 +52,6 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
   text=chile_origins_text
 %}
 
-In 1979, the Washington Post acknowledged the viability of alternative brewing and the emerging industry. “Many people feel that American Beer, like the proverbial apple pie, is not what it used to be, that it has become standardized to the lowest common denominator.”
 
 ## <del>De</del>Reindustrializing 
 
