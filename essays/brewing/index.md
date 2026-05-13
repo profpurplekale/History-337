@@ -68,7 +68,7 @@ The only caveat of the Bates Bill was that, in order to kill the opposition from
 }
 </style>
 
-{% assign images_list = "images/bbb.jpg,images/nbbb.jpg,images/ibbb.png" | split: ',' %}
+{% assign images_list = "images/bbb.jpg,images/ibbb.png,images/ibbb.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
 {% include images/carousel.html
