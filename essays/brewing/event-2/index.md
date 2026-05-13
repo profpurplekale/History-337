@@ -81,9 +81,14 @@ The repurposing of large post-industrial spaces exemplifies the transition from 
 
 ## Undeveloped Shift 
 
-By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry. “Initially, they were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.”   What began as an alternative to standardized beer and began resembling a counterculture movement began to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.   
+By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry in 1988. “Initially, brewers were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.”   What began as an alternative to standardized beer and began as a counterculture movement started to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.   
 
-While the Craft Brewing Movement blossomed from the localism movement and DIY ethos, its shift moved the notion from a localized one to one of the rugged individualist. 
+Homebrewers and localists were contributing to the character of the Craft Beer Revolution long before the catalyzing Bates Bill. While the bill itself and its deregulatory nature may be situated within broader neoliberal trends, the movements founders and its tenets including collaboration, the preferance for authenticity over mass production, and hobbyism 
+
+The movement was gradually shaped by 
+
+"as bigger businesses, they become beholden to finance, mergers, take overs, etc." 
+
 
 “While Owens did not create the innovative ideas, he pulled them from different sources and put them together in one innovative package.”  
 
