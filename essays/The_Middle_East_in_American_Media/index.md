@@ -34,7 +34,7 @@ Unfortunately, this willingness to extrapolate regional hatred from the works of
 The American inclination towards hatred can be primarily attributed to how Western powers portrayed the Middle East between 1945 and 2000—laying the groundwork for the most significant influx in ethnic hatred in this century. Through an analysis of timely primary sources (including popular films and newspaper articles) I have attempted to identify inflection points in American media portrayal with the goal of determining why Western attitudes have turned against the Middle East, using academic literature to center specific inquiries.
 
 {% include images/figure-wrap.html
-  image-path="images/McCarthy_Wheeling.jpg"
+  image-path="images/Arabian_nights_004.png"
   image-position="left"
   image-width="48%"
   caption="Senator McCarthy's claim in his February 9, 1950 speech that over 205 government employees were members of Communist Party made newspaper headlines and captured fears of the American public."
