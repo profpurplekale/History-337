@@ -37,7 +37,7 @@ Programs such as Schoolhouse Rock!, Mister Rogers' Neighborhood and Free to Be .
 
 Schoolhouse Rock! was an educational musical program that aired on ABC from 1973 to 1985.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5aYnNrTnXhk?si=e0pC5DD3s5JZ_Nz_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+INSERT VIDEO
 
 The central figure of the episode is Lady Liberty, who is portrayed as motherly domestic figure who opens up a cookbook to pick out a "recipe" for America. The episode frames the United States as a nation created by the blending of many different people and cultures by using cooking as a metaphor. The visual of Lady Liberty opening up the cookbook that shows the "ingredients" of America which is a list of different nationalities in alphabetical order such as Armenian, Africans, English, Dutch, etc. Another clip shows a wide array of people swimming in a pot like a pool. This imagery promotes the ideas of inclusion and a collective national identity that reflects the lingering influence of the civil rights movements and multicultural initiatives that expanded during the 1970's.
 
