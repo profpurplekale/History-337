@@ -27,19 +27,21 @@ tabs:
 
 # The Summer of Love
 
-From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
+Identifying changes in consumer demand and adapting quickly to cater to them is inherently entrepreneurial. The localized nature of the craft industry meant that vast localities began to become viable spaces to start a brewery.  
 
-## Mesoamerican Origins
+## Shifting Tastes 
 
-Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
+Shifting tastes under neoliberalism were not a random cultural shift, and the erosion of the post-war “mass-consumption” economy introduced new demands for individualism rather than the sameness that standardized and mass consumption suggested. 
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/hoptoit.jpg"
   image-position="left"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
 %}
+
+In 1979, the Washington Post acknowledged the viability of alternative brewing and the emerging industry. “Many people feel that American Beer, like the proverbial apple pie, is not what it used to be, that it has become standardized to the lowest common denominator.”
 
 ## The Rio Grande Valley
 
