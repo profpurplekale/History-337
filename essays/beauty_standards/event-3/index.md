@@ -42,19 +42,37 @@ Makeup was where the era saw the most change; however, as colors were more popul
 
 ## 2010 Changed Beauty
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In 2010, with social media becoming more prominent in people’s lives, makeup changed again. YouTubers posting makeup tutorials began to go viral, and people began to imitate the looks they saw online. One of the first makeup tutorials to ever be posted on YouTube to gain a significant amount of traction was likely Makeup Lessons - LOOK HOT in 5 Minutes or Less… uploaded by Adrienne K. Hickman. While basic, this video was still the beginning of a major motion in social media. Now, there are over a million makeup tutorials, and some people are launching major careers off of their videos. One such person is Nikki De Jager, better known online as NikkiTutorials. She has collaborated with major makeup brands and is still someone actively posting tutorials and reviews today. 
 
-## 2020 Changes Beauty Again
+{% include images/figure-wrap.html
+  image-path="images/kylie-jenner"
+  image-position="left"
+  image-width="48%"
+  caption="Kylie Jenner, Instagram 2016"
+  text=kylie-jenner
+%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% capture kylie-jenner %}
+The 2010 makeup tutorial craze also lent itself to beauty being very makeup-heavy. While many of these claim the looks they create are natural looking, they were what is called a ‘full-glam look,’ which simply means it has many layers of makeup to create the iconic flawless base of the time. Fluffy eyebrows were also incredibly popular, made so by actresses like Lily James and Cara Delevingne. These brows were commonly called Instagram brows as well. Another celebrity commonly associated with the makeup look of the 2010s is Kylie Jenner. Jenner’s lip kits were the holy grail when it came to lipsticks in the 2010s. In the image to the left, we can see her Instagram post that hinted at the drop in these lip kits.
+{% endcapture %}
+
+2010s makeup was full glam, which was also typically associated with drag makeup. As stated in the overview, the Kardashians’ makeup artist from the time even stated that they were inspired by drag queens. Overall, the 2010s also began to allow for more creativity in makeup, something that would continue into the 2020s.
+
+
 
 ## Today
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% capture people-magazine %}
+Now, in our post-COVID-19 world, makeup is more expensive than ever. As stated previously, there are millions of makeup tutorials, some for simple looks, others for extreme makeup styles. When the COVID-19 lockdown happened, with the prevalence of TikTok, there was even more experimentation. However, this did not stay the same for very long. The latest trends, if one opens TikTok, relate largely to the “Clean Girl” aesthetic. There is also a heavy focus on the Tradwife aesthetic. Tradwife means a traditional wife, and is largely related to the alt-right political focus, as it claims that women should be in the home as caretakers. Despite this scary trend emerging, there are still countless people who are speaking out against it and experimenting with what beauty really means.
+{% endcapture %}
 
-## Conclusion
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{% include images/figure-wrap.html
+  image-path="images/trad-wife-people-magazine"
+  image-position="right"
+  image-width="48%"
+  caption="An image from an article of People Magazine"
+  text=people-magazine
+%}
 
 ---
 
