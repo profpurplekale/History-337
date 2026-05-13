@@ -59,14 +59,15 @@ Homebrewing remained illegal in the United States until California State Assembl
 
 <style>
 #chile-types {
-  height: auto !important;
+  aspect-ratio: 3000 / 2244;
+  overflow: hidden;
 }
 
-<style>
 #chile-types img {
   width: 100%;
-  aspect-ratio: 3000 / 2244;
+  height: 100%;
   object-fit: cover;
+  display: block;
 }
 </style>
 
