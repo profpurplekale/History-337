@@ -41,6 +41,8 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
   text=chile_origins_text
 %}
 
+where the fuck is my image
+
 {% include images/figure-wrap.html
   image-path="../images/hoptoit.jpg"
   image-position="right"
