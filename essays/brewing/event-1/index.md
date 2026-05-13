@@ -67,6 +67,13 @@ Craft brewing is not only a form of corporate dissent but also a particular epis
 
 ## Modern Farmers and Preservationists
 
-Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
+The movement took a hobbyist form early. Jack McAuliffe, craft brewing pioneer and founder of Anchor Brewing, for example, used repurposed dairy and soda industry equipment.”   Brewers such as Fred Eckhardt published books such as “The Treatise on Lager Beers” in 1970 which served as a manual for homebrewing. He later reflected on his contributions decades later: “It tells a lot of things about making beer at home. You could actually start a brewery on that book.”   In other instances, brewers shared recipes, problems, and solutions in conferences, correspondences, and even over their own home brews. 
 
-The people of the chile continue to shape its story.
+By 1986, prominent newspaper outlets such as The New York Times reported that “Small Breweries [were] Enjoying a Revival.” The subject of the article, Hopland Brewery, Tavern, Beer Garden and Restaurant, had recently purchased its brewing equipment from McAuliffe’s New Albion Brewing. While the brewery was ahead of its time, it was unable to secure financial viability in the same way as breweries that were serving in-house were. 
+
+“Most brewpub proprietors are longtime home-brewers and the beer tends to reflect individual tastes… Brewpub beer is sometimes inconsistent, but it is always remarkably fresh tasting, much in the way that homemade bread compares to the commercial variety.”  
+The article even mentions Bill Owens who shares his vision for the brewery: ''No Pac-Man, no big-screen TV, no jukebox and no Boston ferns - just fine beer and the lost art of conversation.''   By the middle of the 1980s, the nation’s “newspaper of record” had begun to identify the emerging alternative industry. The article’s reporter, Lawrence M. Fisher, aptly identified the Movement’s epistemological nature, reporting that ”Brewpubs create their own clientele almost instantaneously, through word of mouth.”   
+
+## Section
+
+The collaborative and epistemological nature of the Craft Beer Movement reflects a niche within late twentieth-century American consumer culture. Brewing knowledge, which was once concentrated and withheld by corporate brewers, became decentralized within informal networks, clubs, conferences, and shared experimentation. Consumers even exchanged their recommendations and began exemplifying a key shift in consuming habits and taste. Both craft consumers and producers then reveal a rebellion against mass-produced culture in favor of localism and community-based expertise. The Craft Brewing Movement then reveals a cultural consumer shift valuing authenticity and collaboration. 
