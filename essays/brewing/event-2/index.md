@@ -41,12 +41,11 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
   text=chile_origins_text
 %}
 
-where the fuck is my image
 
 {% include images/figure-wrap.html
   image-path="../images/hopoffit.png"
   image-position="right"
-  image-width="50%"
+  image-width="75%"
   caption="Oregon Hops & Brewing Archives, Oregon State University. Grant's Brewery Equipment. Oregon Digital. Accessed 2026-05-13. https://oregondigital.org/concern/images/fx71bd48j"
   text=chile_origins_text
 %}
