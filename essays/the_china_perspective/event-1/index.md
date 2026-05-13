@@ -33,7 +33,7 @@ Prior to World War Two, dpeictions of people from China often weren't the most g
   image-path="images/exclusion.jpg"
   image-position="left"
   image-width="20%"
-  caption="A couple American troopers running beside a field."
+  caption="A propaganda poster depicting the American sentiment against Chinese immigrants at the time."
   text=war1_text
 %}
 
@@ -47,7 +47,7 @@ But with involement in the fight against Japan, there would seem to be something
   image-path="images/wartime.webp"
   image-position="middle"
   image-width="20%"
-  caption="A couple American troopers running beside a field."
+  caption="A couple wartime posters advocating for the Chinese fighting against Japan."
   text=war2_text
 %}
 
