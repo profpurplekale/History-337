@@ -11,7 +11,7 @@ tabs:
     url: ../
 
   - id: event-1
-    label: Crisis Brewing
+    label: Neolocalism
     url: ../event-1/
 
   - id: event-2
