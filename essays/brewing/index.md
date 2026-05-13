@@ -58,14 +58,9 @@ For decades prior to the Craft Brewing Movement, the alternative brewing and cra
 Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. The only caveat of the Bates Bill was that, in order to kill the opposition from large, corporate breweries, who saw it as a threat to their business, Bates had to include an amendment that necessitated brewpubs serve food along with their beer. Buffalo Bill’s Brewery merely served sandwiches with supplies bought from Costco and the occasional pizza with materials bought from Price Club (now Costco).  
 
 <style>
-#chile-types {
-  aspect-ratio: 3000 / 2244;
-  overflow: hidden;
-}
-
 #chile-types img {
   width: 100%;
-  height: 100%;
+  max-height: 500px;
   object-fit: cover;
   display: block;
 }
