@@ -30,10 +30,10 @@ tabs:
 
 
 {% include images/figure-wrap.html
-  image-path="../National_Park_Service_9-11.jpg"
+  image-path="../images/National_Park_Service_9-11.jpg"
   image-position="left"
   image-width="50%"
-  caption="After September of 2000, racially motivated hate crimes increased exponentially."
+  caption="The terror attacks of September 11th caused a significant uptick in hate crimes concerning race and religion."
   text=chile_origins_text
 %}
 
