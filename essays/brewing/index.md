@@ -1,7 +1,7 @@
 ---
 title: "The Craft Brewing Movement"
 layout: scrollstory-tabs
-header-image: ../images/buff.png
+header-image: /images/buff.png
 header-title: "The Craft Brewing Movement"
 thumbnail: images/manvatt.jpeg
 summary: A history of the Craft Brewing Movement.
