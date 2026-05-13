@@ -30,7 +30,7 @@ tabs:
 
 
 {% include images/figure-wrap.html
-  image-path="../Hate_Crimes_FBI.svg.png"
+  image-path="../National_Park_Service_9-11.jpg"
   image-position="left"
   image-width="50%"
   caption="After September of 2000, racially motivated hate crimes increased exponentially."
