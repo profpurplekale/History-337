@@ -48,7 +48,9 @@ The emerging homogenic nature of the Craft Brewing Movement and the prevailing i
 
 ## Dark Beer 
 
-Still, Black brewers and entrepreneurs were celebrated during the Craft Beer Movement, but their success further reveals segregated market structures. In 1984, Black Americans consumed 80 percent of the malt liquor produced in the United States and Nathaniel G. Chapman and David L. Brunsma explain that racially targeted marketing “sold “cheaper products of lesser quality to communities of color.”   Though Leon Oldham and Curtis Dilworth successfully established “Big Man” malt liquor in Georgia and were touted as “Brewery entrepreneurs.”   
+Still, Black brewers and entrepreneurs were celebrated during the Craft Beer Movement, but their success further reveals segregated market structures. In 1984, Black Americans consumed 80 percent of the malt liquor produced in the United States and Nathaniel G. Chapman and David L. Brunsma explain that racially targeted marketing “sold “cheaper products of lesser quality to communities of color.”   Though Leon Oldham and Curtis Dilworth successfully established “Big Man” malt liquor in Georgia and were touted as “Brewery entrepreneurs.”  
+
+
 
 
 Pullman was the “only woman engineer in her class” and fortunately wielded the experience to navigate male-dominated technical spaces.   While her competence was often negotiated in the industry, the common denominator remains that technical experience and whiteness …
