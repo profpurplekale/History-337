@@ -33,11 +33,19 @@ With men, their attitudes were matching over with women by leaning away from les
 
 ## Programs in the 70's
 
-Programs such as Schoolhouse Rock!, and Free to Be . . . You and Me emphasized these fundemental educational skills while including social values like equality and social intelligence. 
+Programs such as Schoolhouse Rock!, Mister Rogers' Neighborhood and Free to Be . . . You and Me emphasized these fundemental educational skills while including social values like equality and social intelligence. 
 
-Schoolhouse Rock! was an educational musical program that aired on ABC from 1973 to 1985. During the 70's 
+Schoolhouse Rock! was an educational musical program that aired on ABC from 1973 to 1985.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5aYnNrTnXhk?si=7nXjc214rRIIro_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This Episode *The Great American Melting Pot* aired on ABC in May 1976 in the series's sixth episode as part of the program's third season. The episode focuses on the multicultural origins of the United States and presents how immigration is central to the nation's idenity and cultural development.Through it's lyrics and visual elements, this episode reflects the socially progressive goals that characterized children's television in the 70's.
+
+ The central figure of the episode is Lady Liberty, who is portrayed as motherly domestic figure who opens up a cookbook to pick out a "recipe" for America. The episode frames the United States as a nation created by the blending of many different people and cultures by using cooking as a metaphor. The visual of Lady Liberty opening up the cookbook that shows the "ingredients" of America which is a list of different nationalities in alphabetical order such as Armenian, Africians, English, Dutch, etc. Another clip shows a wide array of people swimming in a pot like a pool. This imagery promotes the ideas of inclusion and a collective national identity that reflects the lingering influence of the civil rights movements and multicultural inititives that expanded during the 1970's.
+
+ The scene of people swimming together in the melting pot can be interpreted through the historical context of racial segregation in the U.S. Public pools were major sites of racial conflict during the civil rights era as many violently resisted integration in recreational spaces. By showing people of different racial and ethnic backgrounds sharing the same spaces toegther, the episode promotes an idealized version of racial intergration and symbollocaly rejecting segregation. Another children's television program *Mister Rogers' Neighborhood* pioneered this by being the first to show desegregation in 1969 when he shared a pool with the black character Officer celemens as a protest against those opposing desegregation . This demonstrate
+ 
+ Despite these progressive themes, the *Schoolhouse Rock!* episode reveals the limiations of 70's multiculturalism. Even though it celebrates immigration and the diversity of the United States, it primarily centers on Western-European immigration groups such as the English and Irish while giving far less visibility to other non-european communities. The overall narrative still frames the American identity through a Eurocentric lens. 
 
 
 {% include images/figure-wrap.html
