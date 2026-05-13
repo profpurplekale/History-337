@@ -60,16 +60,13 @@ The repurposing of large post-industrial spaces exemplifies the transition from 
   text=chile_origins_text
 %}
 
-## The Global Journey
+## Undeveloped Shift 
 
-Within two centuries of Columbus, chiles had spread to nearly every continent. They found new homes in:
-- **India and Thailand**, where they transformed regional cuisines
-- **Hungary**, where they became paprika
-- **Korea**, where they became essential to kimchi
-- **Africa**, where they integrated with local cooking traditions
+By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry. “Initially, they were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.”   What began as an alternative to standardized beer and began resembling a counterculture movement began to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.   
 
-Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
+While the Craft Brewing Movement blossomed from the localism movement and DIY ethos, its shift moved the notion from a localized one to one of the rugged individualist. 
 
-## Modern Growing Regions
+“While Owens did not create the innovative ideas, he pulled them from different sources and put them together in one innovative package.”  
 
-Today, commercial chile production spans from New Mexico to California, from China to India. Climate change is shifting growing regions, pushing cultivation to new altitudes and latitudes as traditional areas become too hot or dry.
+## Conclusion 
+
