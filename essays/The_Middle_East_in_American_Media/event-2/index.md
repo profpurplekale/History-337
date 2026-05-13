@@ -31,8 +31,9 @@ tabs:
 
 As the second World War came and passed, the American perspective on the world became significantly more expansive. For some nations, like the Soviet Union, this increased visibility was broadly negative. The specter of communism became the single greatest fear within the American public, and an association with anything resembling communist ideology was a surefire way to be shunned in both professional and personal relationships alike.
 
-The Cold War spilled into several other nations, including many Middle Eastern and African nations whose conflicts became the battleground for the ideals of the U.S. and U.S.S.R, with the two superpower nations providing money and weapons to the side that most closely aligned with their beliefs. As stated, the association with socialism created a fear of these affected nations. Ultimately, the actual alignment with communism within many Middle Eastern nations was overstated1, but the fear remained. Islamic Socialism became the de-facto assumption for broad Muslim ideologies, even as those practices remained unpopular throughout the religion FOOTNOTE THREE.
+The Cold War spilled into several other nations, including many Middle Eastern and African nations whose conflicts became the battleground for the ideals of the U.S. and U.S.S.R, with the two superpower nations providing money and weapons to the side that most closely aligned with their beliefs. As stated, the association with socialism created a fear of these affected nations. Ultimately, the actual alignment with communism within many Middle Eastern nations was overstated1, but the fear remained. Islamic Socialism became the de-facto assumption for broad Muslim ideologies, even as those practices remained unpopular throughout the religion [^1].
 
+[^1]: CONN, HARVIE M. “ISLAMIC SOCIALISM IN PAKISTAN: AN OVERVIEW.” Islamic Studies 15, no. 2 (1976): 111–21. http:\\www.jstor.org\stable\20846988.
 
 {% include images/figure-wrap.html
   image-path="../images/Hate_For_West.png"
