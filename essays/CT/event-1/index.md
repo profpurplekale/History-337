@@ -46,8 +46,7 @@ This Episode *The Great American Melting Pot* aired on ABC in May 1976 in the se
  The scene of people swimming together in the melting pot can be interpreted through the historical context of racial segregation in the U.S. Public pools were major sites of racial conflict during the civil rights era as many violently resisted integration in recreational spaces. By showing people of different racial and ethnic backgrounds sharing the same spaces toegther, the episode promotes an idealized version of racial intergration and symbollocaly rejecting segregation. Another children's television program *Mister Rogers' Neighborhood* pioneered this by being the first to show desegregation in 1969 when he shared a pool with the black character Officer celemens as a protest against those opposing desegregation . This demonstrate
  
  Despite these progressive themes, the *Schoolhouse Rock!* episode reveals the limiations of 70's multiculturalism. Even though it celebrates immigration and the diversity of the United States, it primarily centers on Western-European immigration groups such as the English and Irish while giving far less visibility to other non-european communities. The overall narrative still frames the American identity through a Eurocentric lens. 
-
-
+ 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
   image-position="left"
