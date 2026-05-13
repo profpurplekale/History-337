@@ -73,14 +73,6 @@ But with the end of the Korean war, that would absolutely not mark the end of op
 
 A likely image that comes to mind of many people regarding this is that of Clint Eastwood's "Gran Torino", particularly the Korean War vet's high level of displeasure in getting involved with the locals that have moved in from South-East Asia and various other places.
 
-{% include images/figure-wrap.html
-  image-path="images/torino.jpg"
-  image-position="middle"
-  image-width="50%"
-  caption="A scene from the film "Gran Torino"."
-  text=torino_text
-%}
-
 [^source4]:Peck, James. “Washington’s China”. Amherst: University of Massachusetts Press, 2006. Pg. 112.
 
 ## A Complicated Image
