@@ -26,7 +26,7 @@ tabs:
 ---
 
 # Middle Eastern Relations Before 1950
-
+Prior to the end of World War 2, international relations amongst the U.S. and periphery nations remained largely undefined- but the introduction of world conflict and the expansion of technology created new bonds (both positive and negative) throughout the world.
 
 
 

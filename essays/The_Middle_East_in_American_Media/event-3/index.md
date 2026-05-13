@@ -27,9 +27,7 @@ tabs:
 # Islamophobia in the 21st Century
 
 ## Cultural Division after September 11th
-Over time, the American conception of the Middle East stopped being defined by clear regional borders, with many beginning to understand the region as being comprised of miscellaneous Islamic nations. Because of this, the practice of Islam was treated like an ethnic trait, allowing many prejudiced individuals in the west to disavow members of the entire region. If Islam is simply a religion, then it is unamerican to squash their pursuit of free religion under the constitution. If Islam is a nationality, you can write off every Muslim as a foreign national intent on destroying the nation.
 
-This belief is not exclusive to practitioners of Islam (in fact, narratives about foreign invaders apply to a wide range of ethnic minorities) but it has a uniquely prominent space in the American ethos, especially after the terrorist attacks of 9/11 seemed to justify the xenophobic beliefs of certain U.S. citizens.
 
 {% include images/figure-wrap.html
   image-path="../Hate_Crimes_FBI.svg.png"
