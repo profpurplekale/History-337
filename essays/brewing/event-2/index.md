@@ -45,9 +45,20 @@ In 1979, the Washington Post acknowledged the viability of alternative brewing a
 
 ## <del>De</del>Reindustrializing 
 
-When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
+{% capture chile_origins_text %}
+These inexpensive, although dilapidated spaces were well-suited for the hospitality, artisanal, and service industry, particularly wineries and breweries, which necessitated large and sterile spaces to accommodate large vats, grain mills, and fermenters. 
 
-Towns like Hatch, Chimayó, and Española became synonymous with chile cultivation. Each developed distinct varieties adapted to local microclimates, creating a patchwork of regional flavors.
+The repurposing of large post-industrial spaces exemplifies the transition from standardization to experimentation. “Today, the word "neoliberal" is often used to condemn a broad swath of policies, from prizing free market principles over people to advancing privatization programs,” but in some regards, the “reindustrialized” nature of the brewing industry may be regarded as neoliberal, or at least a side effect.
+
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/OWENSVAT.png"
+  image-position="left"
+  image-width="48%"
+  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  text=chile_origins_text
+%}
 
 ## The Global Journey
 
