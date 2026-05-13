@@ -35,7 +35,7 @@ Shifting tastes under neoliberalism were not a random cultural shift, and the er
 
 {% include images/figure-wrap.html
   image-path="../images/hoptoit.jpg"
-  image-position="center"
+  image-position="none"
   image-width="50%"
   caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
   text=chile_origins_text
