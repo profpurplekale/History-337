@@ -31,7 +31,7 @@ Identifying changes in consumer demand and adapting quickly to cater to them is 
 
 ## Shifting Tastes 
 
-Shifting tastes under neoliberalism were not a random cultural shift, and the erosion of the post-war “mass-consumption” economy introduced new demands for individualism rather than the sameness that standardized and mass consumption suggested. 
+Shifting tastes under neoliberalism were not a random cultural shift, and the erosion of the post-war “mass-consumption” economy introduced new demands for individualism rather than the sameness that standardized and mass consumption suggested. The Craft Beer Movement is part of a broader taste revolution within the United States, then. The rejection of homogenized products relates to a new American cultural identity in which authenticity, quality, and expertise were emphasized. 
 
 In 1979, the Washington Post acknowledged the viability of alternative brewing and the emerging industry. “Many people feel that American Beer, like the proverbial apple pie, is not what it used to be, that it has become standardized to the lowest common denominator.”
 
