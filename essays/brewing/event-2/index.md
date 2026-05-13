@@ -48,7 +48,7 @@ In 1979, the Washington Post acknowledged the viability of alternative brewing a
 {% capture chile_origins_text %}
 These inexpensive, although dilapidated spaces were well-suited for the hospitality, artisanal, and service industry, particularly wineries and breweries, which necessitated large and sterile spaces to accommodate large vats, grain mills, and fermenters. 
 
-The repurposing of large post-industrial spaces exemplifies the transition from standardization to experimentation. “Today, the word "neoliberal" is often used to condemn a broad swath of policies, from prizing free market principles over people to advancing privatization programs,” but in some regards, the “reindustrialized” nature of the brewing industry may be regarded as neoliberal, or at least a si
+The repurposing of large post-industrial spaces exemplifies the transition from standardization to experimentation. “Today, the word "neoliberal" is often used to condemn a broad swath of policies, from prizing free market principles over people to advancing privatization programs,” but in some regards, the “reindustrialized” nature of the brewing industry may be regarded as neoliberal, or at least a side effect
 
 {% endcapture %}
 
