@@ -1,7 +1,7 @@
 ---
 title: "The Craft Brewing Movement"
 layout: scrollstory-tabs
-header-image: ../images/manvatt.jpeg
+header-image: ../images/buffalo.jpg
 header-title: "The Craft Brewing Movement"
 thumbnail: images/manvatt.jpeg
 summary: A history of the Craft Brewing Movement.
@@ -55,9 +55,17 @@ For decades prior to the Craft Brewing Movement, the alternative brewing and cra
 
 {% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.\"" %}
 
-Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. 
+Homebrewing remained illegal in the United States until California State Assemblyman Tom Bates of Berkeley became interested in promoting the industry’s potential. “After consulting with … numerous brewers and would-be brewers, Bates wrote California Assembly Bill 3610, which allowed brewers to sell directly to consumers,” and “authorized homebrewers to produce up to 1000 gallons annually.”     Californian, Craft Beer pioneer, and future owner of what is disputedly the first true brewpub in the United States, Buffalo Bills Brewery, had by then become so invested in the idea of starting his own brewpub that he testified in favor during committee hearings. The only caveat of the Bates Bill was that, in order to kill the opposition from large, corporate breweries, who saw it as a threat to their business, Bates had to include an amendment that necessitated brewpubs serve food along with their beer. Buffalo Bill’s Brewery merely served sandwiches with supplies bought from Costco and the occasional pizza with materials bought from Price Club (now Costco).  
 
-While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.”   From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, Bill Owen’s Buffalo Bill’s Brewery adds complexity to the narrative. 
+{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
+{% include images/carousel.html id="chile-types" images=images_list %}
+
+While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.”   From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, the Homebrewing Act was essential for the modern brewery phenomenon as we understand it to emerge. McAuliffe had merely been “hand bottling his beer and self-distributing it, driving between bars and restaurants in the Bay Area to deliver beer from his trunk.”   While Buffalo Bill’s is the third brewpub in the nation, it is the first brewpub in the US with a long draft system, drawing beer down a 62-foot line from the bright tank (storage tank under pressure) to the tap.”   It fundamentally reimagined the landscape in which Americans would gather to drink and revolutionized the nature of those spaces, with brewing in house becoming a symbol of pride and locality. 
+
+## Abolishing Drunk Shaming
+
+The Bates Bill represents two key shifts in American culture in the late 1970s. More broadly, it represents the neoliberal shift toward government deregulation and the effective creation of a hobbyist-to-entrepreneur pipeline for Craft and Home Brewers. For the movement itself, it created the circumstances for the Craft Brewing Revolution to occur, which fundamentally altered the landscape and nature of the places the Americans would gather to drink. 
+ 
 
 ## Deregulation and Market Liberalization
 
