@@ -32,8 +32,9 @@ Prior to the end of World War 2, international relations amongst the U.S. and pe
 
 ## Early Film Depictions
 
-The Thief of Bagdad FOOTNOTE ONE was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. 
+The Thief of Bagdad [^1] was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. 
 
+[^1]: Powell, Michael, Ludwig Berger, and Tim Whelan, dirs. 1940. The Thief of Baghdad. Film. United States of America: United Artists.
 
 {% include images/figure-wrap.html
   image-path="../images/Thief_Of_Bagdad.jpg"
