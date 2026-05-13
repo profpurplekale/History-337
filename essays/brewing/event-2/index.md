@@ -47,7 +47,7 @@ In 1979, the Washington Post acknowledged the viability of alternative brewing a
 {% include images/figure-wrap.html
   image-path="../images/hopoffit.png"
   image-position="right"
-  image-width="100%"
+  image-width="87%"
   caption="Oregon Hops & Brewing Archives, Oregon State University. Grant's Brewery Equipment. Oregon Digital. Accessed 2026-05-13. https://oregondigital.org/concern/images/fx71bd48j"
   text=chile_origins_text
 %}
