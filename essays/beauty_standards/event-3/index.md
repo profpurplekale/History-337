@@ -59,6 +59,9 @@ The 2010 makeup tutorial craze also lent itself to beauty being very makeup-heav
 2010s makeup was full glam, which was also typically associated with drag makeup. As stated in the overview, the Kardashians’ makeup artist from the time even stated that they were inspired by drag queens. Overall, the 2010s also began to allow for more creativity in makeup, something that would continue into the 2020s.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5-P5bXdOBRk?si=gJc0LdkV2E7-Ta-R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## Today
 
