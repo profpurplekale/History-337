@@ -45,6 +45,13 @@ In 1979, the Washington Post acknowledged the viability of alternative brewing a
 
 ## <del>De</del>Reindustrializing 
 
+The epochal shift toward neoliberalism - a web of related policies that, broadly speaking, reduced the footprint of government in society and reassigned economic power to private market forces - that began in the United States and Great Britain in the late 1970s fundamentally changed the world.”   Such shifts are notable within the brewing industry, particularly the emergence of the Homebrewing Movement and Craft Beer Revolution. For example, the industrial characteristics that modern breweries have widely embodied by adopting deserted spaces such as warehouses, fabrication shops, and mechanical workshops find roots in deindustrialization. As Wesley Shumar and Tyson Mitman explain in “Producing and Consuming the Craft Beer Movement,” neoliberal pressures for financial deregulation, the elimination of the gold standard, and the restructuring of labor-capital relationships:
+
+{% include typography/pullquote.html text="\"Led to patterns of deindustrialization… in the first phase of deindustrialization in the United States, industries moved from the north to the south. Eventually, this led to globalization as industrial production did not cease, but moved to other countries where there were cheaper labor forces. These abandoned industrial landscapes [became] important to the re-imagination of urban spaces and craft brewing’s place in the new city.\"" %}
+
+
+
+
 {% capture chile_origins_text %}
 These inexpensive, although dilapidated spaces were well-suited for the hospitality, artisanal, and service industry, particularly wineries and breweries, which necessitated large and sterile spaces to accommodate large vats, grain mills, and fermenters. 
 
