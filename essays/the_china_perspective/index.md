@@ -12,7 +12,7 @@ tabs:
     active: true
 
   - id: event-1
-    label: The Second Red Scare
+    label: Scars of Korea
     url: event-1/
 
   - id: event-2
@@ -65,3 +65,9 @@ This would result in multiple different diplomatic efforts, including the aforem
 ## Initial Perception
 
 With these factors in mind, the early perception of Communist China and the broader "Oriental" sphere as a whole becomes a very fascinating area of the American public's consciousness. Firstly and most prominently, there is a massive upswing in the amount of media depictions of South-East Asia within American theater and film. This is largely a consequence of American military presence becoming a much greater force in the region, with the end of World War Two's Pacific theater, the occupation of Japan and its formerly-occupied lands, and the impending conflicts that would begin occurring not too long after the war's end.
+
+On the one hand, there was a great deal of fascination with these peculiar, fascinating foreign lands. Not just that, but it was part of the popular belief of the time both before and around World War Two that there existed something of a "special relationship" between China and America, since we had done so much for the various forms of China both during and before the civil war. This idea warped the general perception to some degree to imply that there couldn't possibly be any reason for bad blood between China and the States. [^source2]
+
+But on the other hand, many began to "face the music" about the whole ordeal as things began unfolding down in South-East Asia. They represented one of the single largest populations on the planet, and it seemed like pretty much the entire nation would fall in under the new regime with the guiding hand of the Soviets to move them along. While China was a very poorly industrialized nation, this would not prevent them from undergoing some major reforms in the industrial sector and striving towards it. By the time of the Korean war in 1950, China was now ready to make its first major move against the Western powers.
+
+[^source2]:Hunt, Michael H. “The Making of a Special Relationship”. New York: Columbia University Press, 1983. Pg. 299-300.
