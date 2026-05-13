@@ -48,8 +48,6 @@ After the financial crises of the 20th century, including the welfare crisis of 
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"How did the Craft Beer Movement emerge from California’s localist, hobbyist, and counterculture, and what does its development reveal about neoliberalism, entrepreneurship, and American cultural identity in American society at the end of the 20th century?\"" %}
-
 
 ## Stagnant Industry
 
