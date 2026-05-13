@@ -71,12 +71,6 @@ The only caveat of the Bates Bill was that, in order to kill the opposition from
 {% assign images_list = "images/bbb.jpg,images/ibbb.png,images/ibbb.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
-{% include images/carousel.html
-   id="chile-types"
-   images=images_list
-   captions=captions_list
-%}
-
 While no one actually ever paid the license fee, nor did anyone get fined or arrested, the law was necessary to legitimize homebrewing.”   From this catalyzing moment on, the Craft Brewing Movement gained exponential traction. While the American Beer Revival is widely attributed to Fritz Maytag’s Anchor Brewing and Jack McAuliffe’s New Albion Brewing, the Homebrewing Act was essential for the modern brewery phenomenon as we understand it to emerge. McAuliffe had merely been “hand bottling his beer and self-distributing it, driving between bars and restaurants in the Bay Area to deliver beer from his trunk.”   While Buffalo Bill’s is the third brewpub in the nation, it is the first brewpub in the US with a long draft system, drawing beer down a 62-foot line from the bright tank (storage tank under pressure) to the tap.”   It fundamentally reimagined the landscape in which Americans would gather to drink and revolutionized the nature of those spaces, with brewing in house becoming a symbol of pride and locality. 
 
 ## Liberalizing the Lager
