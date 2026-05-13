@@ -25,7 +25,7 @@ tabs:
     url: ../event-3/
 ---
 
-# The Merry Pranksters
+# Local Knowledge on Tap 
 
 The oil shocks of 1973 and 1979 revealed that the U.S. economy depended on cheap oil and long supply chains. As gas stations ran out of fuel, and lines grew longer, everyday consumption began to feel unstable. Craft Beer Pioneer, Bill Owens, explained that “beer’s expensive, so I was brewing my own.”    While Owens was hoarding his supply of beer in his garage, Americans were dangerously storing gas in their garages and waiting for alternating days to buy gas corresponding to the odd or even numbers on their license plates. The oil crisis made Americans consider, and movements emerged, whether the issue revolved around overpopulation, economic systems, or consumption habits.
 
@@ -65,7 +65,7 @@ Craft brewing is not only a form of corporate dissent but also a particular epis
 
 {% include typography/pullquote.html text="\"The United States beer revival is often attributed to two brewers: Fritz Maytag purchasing the faltering, iconic Anchor Brewing Company in 1965 in San Francisco, California and Jack McAuliffe opening the first microbrewery, New Albion Brewing, in 1976 in Sonoma, California. These brewers set a pattern for other craft breweries to be small, independent, and traditional, and they created a legacy of brewers helping one another.\"" %}
 
-## Modern Farmers and Preservationists
+## Grassroots Brewing
 
 The movement took a hobbyist form early. Jack McAuliffe, craft brewing pioneer and founder of Anchor Brewing, for example, used repurposed dairy and soda industry equipment.”   Brewers such as Fred Eckhardt published books such as “The Treatise on Lager Beers” in 1970 which served as a manual for homebrewing. He later reflected on his contributions decades later: “It tells a lot of things about making beer at home. You could actually start a brewery on that book.”   In other instances, brewers shared recipes, problems, and solutions in conferences, correspondences, and even over their own home brews. 
 
@@ -77,6 +77,6 @@ By 1986, prominent newspaper outlets such as The New York Times reported that �
 
 The article even mentions Bill Owens who shares his vision for the brewery: ''No Pac-Man, no big-screen TV, no jukebox and no Boston ferns - just fine beer and the lost art of conversation.''   By the middle of the 1980s, the nation’s “newspaper of record” had begun to identify the emerging alternative industry. The article’s reporter, Lawrence M. Fisher, aptly identified the Movement’s epistemological nature, reporting that ”Brewpubs create their own clientele almost instantaneously, through word of mouth.”   
 
-## Section
+## From Mass Consumption to Local Connection
 
 The collaborative and epistemological nature of the Craft Beer Movement reflects a niche within late twentieth-century American consumer culture. Brewing knowledge, which was once concentrated and withheld by corporate brewers, became decentralized within informal networks, clubs, conferences, and shared experimentation. Consumers even exchanged their recommendations and began exemplifying a key shift in consuming habits and taste. Both craft consumers and producers then reveal a rebellion against mass-produced culture in favor of localism and community-based expertise. The Craft Brewing Movement then reveals a cultural consumer shift valuing authenticity and collaboration. 
