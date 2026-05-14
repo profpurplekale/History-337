@@ -42,3 +42,4 @@ Whether some parents like it or not, technology-especially television-has become
 Over the past several decades, it has gone undergone major transformations shaped by political decisions, economic priorities, and shifting cultural values. My webpage will explore how children's television has changed across three key time periods; 70's before deregulation, 80's during deregulation, and 90's to present after deregulation.
 
 By examining these shifts, it highlights how television eveolved from an educational service into a commericalized industry, and what that transformation meant to children and American society. 
+ .nojekyll
