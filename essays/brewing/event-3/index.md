@@ -80,10 +80,10 @@ Still, Black brewers and entrepreneurs were celebrated during the Craft Beer Mov
 {% endcapture %}
 
 {% include images/figure-wrap.html
-   image-path="../images/malt.png"
-   image-position="left"
-   image-width="48%"
-    caption="People in the News: Brewery Entrepreneurs." 1984., Mar 10Afro-American (1893-), 6. https://libproxy.unm.edu/login?url=https://www.proquest.com/newspapers/people-news/docview/532508386/se-2."
-   text=chile_origins_text
+  image-path="../images/malt.png"
+  image-position="left"
+  image-width="48%"
+  caption="People in the News: Brewery Entrepreneurs, 1984, Mar. 10, Afro-American (1893-), 6. https://libproxy.unm.edu/login?url=https://www.proquest.com/newspapers/people-news/docview/532508386/se-2."
+  text=chile_origins_text
 %}
 
