@@ -21,7 +21,7 @@ tabs:
     active: true
     
   - id: event-3
-    label: The Warren Court
+    label: Looking Towards the Future
     url: ../event-3/
 ---
 

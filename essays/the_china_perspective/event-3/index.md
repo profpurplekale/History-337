@@ -1,7 +1,7 @@
 ---
 title: "The China Perspective"
 layout: scrollstory-tabs
-header-image: ../images/cold-war.webp
+header-image: ../images/meeting.jpg
 header-title: "The American view of China"
 thumbnail: ../images/thumbnail.jpg
 summary: A dive on the American public's opinions and views on Cold War Communist China from the 50s to the 90s.
@@ -19,14 +19,14 @@ tabs:
     url: ../event-2/
 
   - id: event-3
-    label: The Warren Court
+    label: Looking Towards the Future
     url: ../event-3/
     active: true
 ---
 
-# The Warren Court
+# The Fall of Communism
 
-From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
+With the collapse of the USSR, and China already having gone through several major economic reforms, .
 
 ## Ancient History (7500 BCE – 1400 CE)
 
