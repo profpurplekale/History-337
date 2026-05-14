@@ -43,7 +43,7 @@ The Localism Movement greatly influenced the Craft Beer Movement. The first fema
 
 [^footnote14]: Mellie Pullman, “Mellie Pullman Oral History Interview,” Special Collections & Archives Research Center, accessed April 16, 2026, 53:10. http://scarc.library.oregonstate.edu/omeka/items/show/31536.
 
-[^footnote15] Mellie Pullman, “Mellie Pullman Oral History Interview,” Special Collections & Archives Research Center, accessed April 16, 2026, 32:00. http://scarc.library.oregonstate.edu/omeka/items/show/31536.
+[^footnote15]: Mellie Pullman, “Mellie Pullman Oral History Interview,” Special Collections & Archives Research Center, accessed April 16, 2026, 32:00. http://scarc.library.oregonstate.edu/omeka/items/show/31536.
 
 ## Epistemology
 
