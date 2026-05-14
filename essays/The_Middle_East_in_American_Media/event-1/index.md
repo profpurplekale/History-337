@@ -26,15 +26,17 @@ tabs:
 ---
 
 # Middle Eastern Relations Before 1950
-Prior to the end of World War 2, international relations amongst the U.S. and periphery nations remained largely undefined- but the introduction of world conflict and the expansion of technology created new bonds (both positive and negative) throughout the world.
+## Underdeveloped Perspectives
+Prior to the end of World War 2, international relations amongst the U.S. and periphery nations remained largely undefined- but the introduction of world conflict and the expansion of technology created new bonds (both positive and negative) throughout the world. One relationship that shifted the most within the United States (with the exception of active combatant enemies) was the relationship concerning the Middle East. Many distinct nations comprise the Middle East, but for all intents and purposes, the U.S. public tended to view them as a monolith, both because of ignorance and an understanding of minor similarities between each countries (such as the Islamic Faith). This monolith was viewed in varied light, based on the situation or person, but an overall sentiment had yet to be assigned to the region. [^1] Before 1950, much of the general stigma had yet to form.
 
-
+[^1]: Skenderovic, Damir, and Christina Späti. “From Orientalism to Islamophobia: Reflections, Confirmations, and Reservations.” ReOrient 4, no. 2 (2019): 130–43. 
 
 ## Early Film Depictions
 
-The Thief of Bagdad [^1] was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. 
+The Thief of Bagdad [^2] was a film released by the United Artists studio in 1940. Depicting genies, giant spiders, and flying carpets, this film is clearly not a work of fact- but the way it depicts Basra and Bagdad (the two major settings of the movie) pulls back the curtain on how western audiences had long-viewed the Middle East. Islam is mentioned consistently, with nearly all main characters being noted as practicing Muslims, but there is not a clear indictment on whether or not the writers believe the religion is particularly positive or negative- it is treated as an entirely neutral concept. 
 
-[^1]: Powell, Michael, Ludwig Berger, and Tim Whelan, dirs. 1940. The Thief of Baghdad. Film. United States of America: United Artists.
+
+[^2]: Powell, Michael, Ludwig Berger, and Tim Whelan, dirs. 1940. The Thief of Baghdad. Film. United States of America: United Artists.
 
 {% include images/figure-wrap.html
   image-path="../images/Thief_Of_Bagdad.jpg"
@@ -50,8 +52,7 @@ This film also depicts Eastern governments, which have become the subject of hea
 
 The defining lens that Americans used to view the region prior to the 1950s was ignorance. Following the two world wars in the early 20th century, Americans were pressed a greater awareness of international affairs, and citizens of the U.S. began to reach consensus on how to judge these now-apparent nations. Japan and Germany, for example, were the subject of most American ire, due to their roles in the previous conflicts, but the Middle East has proven to be significantly more complicated.
 
-In the years leading up to war (and those running through them) nations in the East were often portrayed with some amount of political neutrality[^2]. While there were, of course, cultural and religious traditions that created a distinct separation from the U.S. perspective, the representations of individuals practicing the Islamic faith (who were the primary makeup of the region) were based significantly less in prejudice than one would see in the modern day. One can, in fact, notice American inspiration drawn from Eastern cultures[^3]. For a time, ideals of hard work, moral strength, and performance shaped the U.S., painting a much more interconnected picture than modern discourse would suggest.
+In the years leading up to war (and those running through them) nations in the East were often portrayed with some amount of political neutrality[^3]. While there were, of course, cultural and religious traditions that created a distinct separation from the U.S. perspective, the representations of individuals practicing the Islamic faith (who were the primary makeup of the region) were based significantly less in prejudice than one would see in the modern day. One can, in fact, notice American inspiration drawn from Eastern cultures[^4]. For a time, ideals of hard work, moral strength, and performance shaped the U.S., painting a much more interconnected picture than modern discourse would suggest.
 
-[^2]:Anne O’Hare McCormick,1945. Jun 02 "Abroad: The Middle East is a Political Mine Field." New York Times (1923-), 14. 
-[^3]:Nance, Susan. 2009. How the Arabian Nights Inspired the American Dream, 1790-1935. Chapel Hill: University of North Carolina Press.
-## 
+[^3]:Anne O’Hare McCormick,1945. Jun 02 "Abroad: The Middle East is a Political Mine Field." New York Times (1923-), 14. 
+[^4]:Nance, Susan. 2009. How the Arabian Nights Inspired the American Dream, 1790-1935. Chapel Hill: University of North Carolina Press.
