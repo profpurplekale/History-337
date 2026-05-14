@@ -63,7 +63,7 @@ With greater social acceptance, there was now a chance to have a much larger phy
 A major point of reform in China by Mao Zedong was that of a revolution in the very culture of China itself. In 1966, a book called "Quotations from Chairman Mao Tse-tung" would be published, and would come to be known as "Mao's Little Red Book". Part officials were encouraged to keep a copy with them, and owning one was practically a universal requirement for any kind of membership with any kind of official group. With the book's initial arrival in America, it would actually see a fair amount of interest by the previously mentioned left-wing groups of the American public. Of course, it would also see a fair amount of ridicule by anyone who had any grudge against communist sentiment, but this was to be expected. Huey Newton, one of the founders of the Black Panthers, held Mao in high regard, and would sometimes sell copies for fund-raising.
 {% endcapture %}
 
-% include images/figure-wrap.html
+{% include images/figure-wrap.html
   image-path="../images/signature.avif"
   image-position="left"
   image-width="20%"
