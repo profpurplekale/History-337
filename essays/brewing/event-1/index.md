@@ -60,7 +60,7 @@ Craft brewing is not only a form of corporate dissent but also a particular epis
   image-path="images/OWENSVAT.png"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Bill Owens, Wort through Garden Hose Heat Exchanger from Converted Keg Kettle to Five-Gallon Glass Carboy. 1982, Color Polaroid. Bill Owens Personal Archives."
   text=chile_origins_text
 %}
 
