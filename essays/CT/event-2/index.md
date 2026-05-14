@@ -21,7 +21,7 @@ tabs:
     active: true
     
   - id: event-3
-    label:  Children's Televison after Deregulation in the 90s-Present
+    label:  1990's & After:Balance
     url: ../event-3/
 ---
 
