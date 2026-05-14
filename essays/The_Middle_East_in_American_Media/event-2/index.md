@@ -34,7 +34,7 @@ As the second World War came and passed, the American perspective on the world b
 The Cold War spilled into several other nations, including many Middle Eastern and African nations whose conflicts became the battleground for the ideals of the U.S. and U.S.S.R, with the two superpower nations providing money and weapons to the side that most closely aligned with their beliefs. As stated, the association with socialism created a fear of these affected nations. Ultimately, the actual alignment with communism within many Middle Eastern nations was overstated[^1], but the fear remained. Islamic Socialism became the de-facto assumption for broad Muslim ideologies, even as those practices remained unpopular throughout the religion [^2].
 
 [^1]:Wood, Percy.  1951, Dec 16. "Hate for West Found Growing in Middle East: Firm Belief in God Keeps Arabs from Communism." Chicago Daily Tribune (1923-1963), 3. 
-[^2]: CONN, HARVIE M. “ISLAMIC SOCIALISM IN PAKISTAN: AN OVERVIEW.” Islamic Studies 15, no. 2 (1976): 111–21. http:\\www.jstor.org\stable\20846988.
+[^2]: CONN, HARVIE M. “ISLAMIC SOCIALISM IN PAKISTAN: AN OVERVIEW.” Islamic Studies 15, no. 2 (1976): 111–21. 
 
 {% include images/figure-wrap.html
   image-path="../images/Hate_For_West.png"
@@ -48,7 +48,10 @@ The Cold War spilled into several other nations, including many Middle Eastern a
 
 September 11th was, in a lot of ways, the most major turning point for U.S. perspectives regarding Islam and the Middle East1. Unfortunately, this prejudice was not nearly as novel as some people may suggest.
 
-In 2000, William Friedkin directed the movie Rules of Engagement3, which focuses on a court case concerning a large-scale civilian massacre in Yemen.
+In 2000, William Friedkin directed the movie Rules of Engagement[^3], which focuses on a court case concerning a large-scale civilian massacre in Yemen. In the initial showings for this movie, the director notes that initial audiences were known to "stand up and applaud the film throughout the United States."[^4] American occupation of Middle Eastern nations like Yemen oftern created the unrest that resulted in situations such as the one depicted in the film, but there seems to be no understanding of this fact in the eyes of the viewing Americans. The film's creation and execution of this event lacks nuance, but the extreme positive reaction to the deaths of Yemeni civilians in a fictional context is sharply indicative of a dire shift in Middle Eastern relations that propels the cultural shifts after 9/11.
+
+[^3]:Friedkin, William, dir. 2000. Rules of Engagement. Film. United States of America: Paramount Pictures.
+[^4]:Shaheen, Jack G. “Reel Bad Arabs: How Hollywood Vilifies a People.” The Annals of the American Academy of Political and Social Science 588 (2003): 171–93.
 
 {% include images/figure-wrap.html
   image-path="../images/Rules_Of_Engagement.webp"
