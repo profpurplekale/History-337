@@ -88,20 +88,16 @@ The repurposing of large post-industrial spaces exemplifies the transition from 
 
 ## Undeveloped Shift 
 
-By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry in 1988. “Initially, brewers were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.” [^footnote29]  What began as an alternative to standardized beer and began as a counterculture movement started to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.[^footnote30]
+By the turn of the 1990s, though, the Craft Brewing industry was undergoing a shift. While attorney turned brewing equipment supplier, Thomas M Burns Jr., explains the industry had retained its “certain charm, a romantic quality, a fraternal element,” his experience also reveals a shift further toward the commodification of the industry in 1988. “Initially, brewers were hobbyists trying to make a living with their hobby. Now we are seeing a greater level of professionalism.” [^footnote29]  What began as an alternative to standardized beer and began as a counterculture movement started to become further integrated into mainstream capitalist markets. At the same conference Burns was interviewed, contract brewer, Francis W. Cattani further revealed the shift from an artisanal, local, and anti-corporate nature to a corporatized one:  “My purpose is sales. I can take this idea and make it blossom,” he explained.[^footnote30] By the 1990s, the Craft Brewing Industry was enduring a critical shift toward commodification and competition that transcended Bill Owens' quest to merely be the first "true" brewery. 
 
 [^footnote29]: Thomas M. Burns, Jr., Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf. 
 
 [^footnote30]: Francis W. Cattani, Interview by Dennis Ray Wheaton at the Fifth Annual National Microbrewers Conference, Chicago. September, 1988, 3. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gsb-faculty.stanford.edu/glenn-r-carroll/files/2022/04/drw_craft_beer_interviews_1988_v3.pdf. 
 
-Homebrewers and localists were contributing to the character of the Craft Beer Revolution long before the catalyzing Bates Bill. While the bill itself and its deregulatory nature may be situated within broader neoliberal trends, the movements founders and its tenets including collaboration, the preferance for authenticity over mass production, and hobbyism 
+## Conclusion
 
-The movement was gradually shaped by 
+Homebrewers and localists were contributing to the character of the Craft Beer Revolution long before the catalyzing Bates Bill. While the bill itself and its deregulatory nature may be situated within broader neoliberal trends, the movements founders and its tenets including collaboration, the preferance for authenticity over mass production, and hobbyism. 
 
-"as bigger businesses, they become beholden to finance, mergers, take overs, etc." 
+"As bigger businesses... [breweries] became beholden to finance, mergers, take overs, etc." [^footnote31]
 
-
-“While Owens did not create the innovative ideas, he pulled them from different sources and put them together in one innovative package.”  
-
-## Conclusion 
-
+[^footnote31]: Shumar, Wesley, and Tyson Mitman. Producing and Consuming the Craft Beer Movement. Taylor & Francis, 2023, 5. 
