@@ -1,10 +1,10 @@
 ---
-title: "Scars of Conflict & Korea"
+title: "The China Perspective"
 layout: scrollstory-tabs
-header-image: ../images/korea.jpg
-header-title: "Scars of Conflict & Korea"
-thumbnail: ../images/poster.avif
-summary: China's involvement in the war on the Korean peninsula and it's impact on the American perception.
+header-image: images/cold-war.webp
+header-title: "The American view of China"
+thumbnail: images/thumbnail.jpg
+summary: A dive on the American public's opinions and views on Cold War Communist China from the 50s to the 90s.
 tabs:
   - id: overview
     label: Historical Context & Beginning
@@ -48,7 +48,7 @@ But with involement in the fight against Japan, there would seem to be something
 
 {% include images/figure-wrap.html
   image-path="images/wartime.jpg"
-  image-position="middle"
+  image-position="right"
   image-width="20%"
   caption="A couple wartime posters advocating for the Chinese fighting against Japan."
   text=war2_text
@@ -66,7 +66,7 @@ Unfortunately, this good standing wasn't meant to last, as with the percieved in
 
 {% include images/figure-wrap.html
   image-path="images/fighting_for_russia.jpg"
-  image-position="right"
+  image-position="left"
   image-width="20%"
   caption="A South Korean propaganda poster claiming North Koreans are being used for the means of the Soviets."
   text=war3_text

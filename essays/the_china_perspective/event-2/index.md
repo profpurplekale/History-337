@@ -1,17 +1,17 @@
 ---
-title: "The McCarthy Hearings"
+title: "The China Perspective"
 layout: scrollstory-tabs
-header-image: ../images/welch-mccarthy.jpg
-header-title: "McCarthyism"
-thumbnail: ../images/welch-mccarthy.jpg
-summary: The landscapes and regions that shaped chile cultivation and culture.
+header-image: images/cold-war.webp
+header-title: "The American view of China"
+thumbnail: images/thumbnail.jpg
+summary: A dive on the American public's opinions and views on Cold War Communist China from the 50s to the 90s.
 tabs:
   - id: overview
-    label: Overview of McCarthyism
+    label: Historical Context & Beginning
     url: ../
 
   - id: event-1
-    label: The Second Red Scare
+    label: Scars of Conflict and Korea
     url: ../event-1/
 
 
