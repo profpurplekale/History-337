@@ -1,9 +1,9 @@
 ---
 title: "The China Perspective"
 layout: scrollstory-tabs
-header-image: images/cold-war.webp
+header-image: ../images/korea.jpg
 header-title: "The American view of China"
-thumbnail: images/thumbnail.jpg
+thumbnail: ../images/thumbnail.jpg
 summary: A dive on the American public's opinions and views on Cold War Communist China from the 50s to the 90s.
 tabs:
   - id: overview
@@ -43,7 +43,7 @@ Prior to World War Two, dpeictions of people from China often weren't the most g
 ## A Change of Heart
 
 {% capture war2_text %}
-But with involement in the fight against Japan, there would seem to be something of a turn-around in opinion regarding all of this. Instead of some lowly gremlin slinking around, or a helpless victim of a weak society, China in its fight against Japan would make it out to be an incredibly helpful ally to have in the fight, and would thusly have a turnaround in the disposition towards the people of China. As far as the depiction of this, however, it's a bit more muddy than it may seem at first. There is obviously a high level of praise given to the Chinese partisan resistance members, being another group of "freedom fighters" standing up to the forces of the Axis, but there were a number of flaws in the depictions. One of the bigger ones is that it never really seemed to be able to leave behind the unnecessary racial profiles. One piece from around this time goes into heavy deliberation outlining the differences between someone from China compared to a figure like Tojo from japan, despite the two images showing people who look near-identical to one-another. [^source3]
+But with involement in the fight against Japan, there would seem to be something of a turn-around in opinion regarding all of this. Instead of some lowly gremlin slinking around, or a helpless victim of a weak society, China in its fight against Japan would make it out to be an incredibly helpful ally to have in the fight, and would thusly have a turnaround in the disposition towards the people of China. As far as the depiction of this, however, it's a bit more muddy than it may seem at first. There is obviously a high level of praise given to the Chinese partisan resistance members, being another group of "freedom fighters" standing up to the forces of the Axis, but there were a number of flaws in the depictions. One of the bigger ones is that it never really seemed to be able to leave behind the unnecessary racial profiles. One piece from around this time goes into heavy deliberation outlining the differences between someone from China compared to a figure like Tojo from japan, despite the two images showing people who look near-identical to one-another.[^source3]
 {% endcapture %}
 
 {% include images/figure-wrap.html
