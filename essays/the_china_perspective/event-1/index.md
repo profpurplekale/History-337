@@ -32,7 +32,7 @@ Prior to World War Two, dpeictions of people from China often weren't the most g
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/exclusion.jpg"
+  image-path="../images/exclusion.jpg"
   image-position="left"
   image-width="20%"
   caption="A propaganda poster depicting the American sentiment against Chinese immigrants at the time."
@@ -47,7 +47,7 @@ But with involement in the fight against Japan, there would seem to be something
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/wartime.jpg"
+  image-path="../images/wartime.jpg"
   image-position="right"
   image-width="20%"
   caption="A couple wartime posters advocating for the Chinese fighting against Japan."
@@ -65,7 +65,7 @@ Unfortunately, this good standing wasn't meant to last, as with the percieved in
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/fighting_for_russia.jpg"
+  image-path="../images/fighting_for_russia.jpg"
   image-position="left"
   image-width="20%"
   caption="A South Korean propaganda poster claiming North Koreans are being used for the means of the Soviets."
