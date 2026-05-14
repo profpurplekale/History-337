@@ -28,11 +28,11 @@ tabs:
 
 In the 1970s, a quiet cultural revolution was brewing in America’s garages. This isn’t a study about the iPhone, but rather the preservative-free food and the jerry-rigged kegerators that held just as much transformative potential for the U.S. economy as the Macintosh.
 
-{% include typography/pullquote.html text="\"How did the Craft Beer Movement of the late 20th century resist mass consumption, homogenization, and corporate concentration and what does it reflect about American consumer culture, entrepreneurialism and identity? \"" %}
-
 This project analyzes the Craft Brewing Movement from the 1970s through the 1990s within the broader context of late twentieth-century neoliberalism, juxtaposed with localism, and shifting consumer cultures. 
 
-The Craft Brewing Movement of the late 20th century reveals a significant shift in American consumer culture from postwar mass-consumption and standardization toward localized, authentic, collaborative and entrepreneurial forms of brewing and consumption. While the evolution of craft brewing exemplifies the potential to combat corporate consolidation and resist homogenous production, it simultaneously exposes the contradictions of neoliberal capitalism that passify cultural and economic resistance into commodified consumption and stratified markets. 
+{% include typography/pullquote.html text="\"How did the Craft Beer Movement of the late 20th century resist mass consumption, homogenization, and corporate concentration and what does it reflect about American consumer culture, entrepreneurialism and identity? \"" %}
+
+The Craft Brewing Movement of the late 20th century reveals a significant shift in American consumer culture from postwar mass-consumption and standardization toward localized, authentic, collaborative and entrepreneurial forms of brewing and consumption. While the evolution of craft brewing exemplifies the potential to combat corporate consolidation and resist homogenous production, it simultaneously exposes the contradictions of neoliberal capitalism and its capacity to passify cultural and economic resistance into commodified consumption and stratified markets. 
 
 ## Fueling Craft Beer Revival 
 
