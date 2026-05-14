@@ -24,21 +24,24 @@ tabs:
     url: event-3/
 ---
 
-# Overview of the Craft Beer Movement
+# Overview of the Craft Beer Movement (197)
 
-In the 1970s, a quiet cultural revolution was brewing in America’s garages. This isn’t a study about the Macintosh, but rather the preservative-free food and the jerry-rigged kegerators that held just as much transformative potential for the U.S. economy as the Macintosh.
+In the 1970s, a quiet cultural revolution was brewing in America’s garages. This isn’t a study about the iPhone, but rather the preservative-free food and the jerry-rigged kegerators that held just as much transformative potential for the U.S. economy as the Macintosh.
 
-{% include typography/pullquote.html text="\"How did the Craft Beer Movement emerge from California’s localist, hobbyist, and counterculture, and what does its development reveal about neoliberalism, entrepreneurship, and American cultural identity in American society at the end of the 20th century?\"" %}
+{% include typography/pullquote.html text="\"How did the Craft Beer Movement of the late 20th century resist mass consumption, homogenization, and corporate concentration and what does it reflect about American consumer culture, entrepreneurialism and identity? \"" %}
 
-The Craft Beer Movement of the late 20th century emerged in California from hobbyist, collaborative, informal knowledge networks, and localist critiques of industrial food production. Notions of the heroic entrepreneur and rugged individualist heavily influenced the Craft Brewing Movement and its pioneers. The masculinized and entrepreneurial evolution of the industry largely reflects broader cultural, neoliberal, and economic ideals in American society at the turn of the century. 
+This project analyzes the Craft Brewing Movement from the 1970s through the 1990s within the broader context of late twentieth-century neoliberalism, juxtaposed with localism, and shifting consumer cultures. 
 
+The Craft Brewing Movement of the late 20th century reveals a significant shift in American consumer culture from postwar mass-consumption and standardization toward localized, authentic, collaborative and entrepreneurial forms of brewing and consumption. While the evolution of craft brewing exemplifies the potential to combat corporate consolidation and resist homogenous production, it simultaneously exposes the contradictions of neoliberal capitalism that passify cultural and economic resistance into commodified consumption and stratified markets. 
 
 ## Fueling Craft Beer Revival 
 
 {% capture chile_origins_text %}
-After the financial crises of the 20th century, including the welfare crisis of the 1960s and the oil shocks of the 1970s, the American consciousness began to shift further toward notions of economic independence. As the postwar economy began to stagnate, the portion of the upper middle and wealthy class that witnessed wealth concentration began to seek “a more specialized and symbolically complex consumer lifestyle.” [^footnote1] The crisis in welfare capitalism also had the “unusual effect of… the revitalization of ideas about entrepreneurship, creativity and innovation.”   Specialized consumer lifestyles and the perceived need to imagine an economy unreliant on Middle Eastern oil and global economies gave rise to the farm-to-table and localism movements, and, with renewed entrepreneurial imagination, so too the Craft Brewing Movement.
+After the financial crises of the 20th century, including the welfare crisis of the 1960s and the oil shocks of the 1970s, the American consciousness began to shift further toward notions of economic independence. As the postwar economy began to stagnate, the portion of the upper middle and wealthy class that witnessed wealth concentration began to seek “a more specialized and symbolically complex consumer lifestyle.” [^footnote1] The crisis in welfare capitalism also had the “unusual effect of… the revitalization of ideas about entrepreneurship, creativity and innovation.” [^footnote100] Specialized consumer lifestyles and the perceived need to imagine an economy unreliant on Middle Eastern oil and global economies gave rise to the farm-to-table and localism movements, and, with renewed entrepreneurial imagination, so too, the Craft Brewing Movement.
 
 [^footnote1]: Shumar, Wesley, and Tyson Mitman. Producing and Consuming the Craft Beer Movement. Taylor & Francis, 2023, 55. 
+
+[^footnote100]: Shumar, Wesley, and Tyson Mitman. Producing and Consuming the Craft Beer Movement. Taylor & Francis, 2023, 55. 
 
 {% endcapture %}
 
