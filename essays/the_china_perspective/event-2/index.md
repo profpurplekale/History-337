@@ -133,6 +133,6 @@ Even today, his image remains associated with defiance against tyranny and marti
   text=statue_text
 %}
 
-[^source5]:“Under Western Eyes”. National Review, Volume 41, Issue 12, P13-14, 1989.
+[^source6]:“Under Western Eyes”. National Review, Volume 41, Issue 12, P13-14, 1989.
 
-[^source6]:“Chinese democracy and the crisis of 1989: Chinese and American reflections”, edited by Roger V. Des Forges, Luo Ning, and Wu Yen-bo. New York: State University of New York Press, 1993. Pg. 313-314.
+[^source7]:“Chinese democracy and the crisis of 1989: Chinese and American reflections”, edited by Roger V. Des Forges, Luo Ning, and Wu Yen-bo. New York: State University of New York Press, 1993. Pg. 313-314.
