@@ -24,9 +24,9 @@ tabs:
     url: event-3/
 ---
 
-# Overview of the Craft Beer Movement (197)
+# Overview of the Craft Beer Movement 
 
-In the 1970s, a quiet cultural revolution was brewing in America’s garages. This isn’t a study about the iPhone, but rather the preservative-free food and the jerry-rigged kegerators that held just as much transformative potential for the U.S. economy as the Macintosh.
+Before craft beer was designated its own aisle in Whole Foods, it was a a rebellion brewed in garages, cellars, washing machines, and repurposed dairy tanks. Homebrewers did not yet have the recipes, equipment, nor the capital to compete with corporate breweries, yet hobbyists persisted. Within the same economic culture that neoliberalism emerged, an American consumer culture revolution was brewing. 
 
 This project analyzes the Craft Brewing Movement from the 1970s through the 1990s within the broader context of late twentieth-century neoliberalism, juxtaposed with localism, and shifting consumer cultures. 
 
