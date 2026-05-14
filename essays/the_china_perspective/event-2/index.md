@@ -87,7 +87,7 @@ The narrative would take a large shift in the early 1970s however, as over in Ch
   image-path="../images/punishment.webp"
   image-position="right"
   image-width="35%"
-  caption="The son of a purged official endures a "Struggle Session", the sign details the crime of the boy publically defending his father and the date of the offense."
+  caption="The son of a purged official endures a Struggle Session, the sign details the crime of the boy publically defending his father and the date of the offense."
   text=punishment_text
 %}
 
