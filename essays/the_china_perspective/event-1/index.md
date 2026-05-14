@@ -17,7 +17,7 @@ tabs:
     active: true
 
   - id: event-2
-    label: The McCarthy Hearings
+    label: The Vietnam Era and Tiananmen
     url: ../event-2/
 
   - id: event-3
@@ -25,7 +25,7 @@ tabs:
     url: ../event-3/
 ---
 
-## Prior to the War
+# Prior to the War
 
 {% capture war1_text %}
 Prior to World War Two, dpeictions of people from China often weren't the most glamorous, and were often deliberately offensive or otherwise rude in the sense that the American view of the people of China tended to refer to what is called the "yellow peril". This stereotype smacked the people of South-East Asia, and particular to China, a depiction of the people being heathenous opium addicts, coming from a nation seen as weak due to the debacle of the Opium Wars. These depictions were extremely unflattering, largely rooted in a very strongly anti-immigrant opinion of the American public during the late 19th and early 20th century. Even in more "altruistic" depictions, it usually centered around Christian missionary work where it would make the Chinese out to be these poor, helpless, lost people who were given the "benevolence" of the American missionary efforts. Often times, it would kind of shake out as the American missionary groups actively "saving" the downtrodden people of China, once again, not doing much to help given that even the best case scenario tends to argue for them assuming a position of weakness.

@@ -16,7 +16,7 @@ tabs:
     url: event-1/
 
   - id: event-2
-    label: The McCarthy Hearings
+    label: The Vietnam Era and Tiananmen
     url: event-2/
 
   - id: event-3
