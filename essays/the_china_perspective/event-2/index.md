@@ -73,7 +73,7 @@ A major point of reform in China by Mao Zedong was that of a revolution in the v
 
 {% include images/figure-wrap.html
   image-path="../images/newton.jpg"
-  image-position="left"
+  image-position="right"
   image-width="20%"
   caption="Members of the Black Panthers raising their copy of the Little Red Book in protest to free Huey Newton."
   text=panthers_text
