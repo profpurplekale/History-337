@@ -27,7 +27,7 @@ tabs:
 
 # Local Knowledge on Tap 
 
-The oil shocks of 1973 and 1979 revealed that the U.S. economy depended on cheap oil and long supply chains. As gas stations ran out of fuel, and lines grew longer, everyday consumption began to feel unstable. Craft Beer Pioneer, Bill Owens, explained that “beer’s expensive, so I was brewing my own.”    While Owens was hoarding his supply of beer in his garage, Americans were dangerously storing gas in their garages and waiting for alternating days to buy gas corresponding to the odd or even numbers on their license plates. The oil crisis made Americans consider, and movements emerged, whether the issue revolved around overpopulation, economic systems, or consumption habits.
+The oil shocks of 1973 and 1979 revealed that the U.S. economy depended on cheap oil and long supply chains. As gas stations ran out of fuel, and lines grew longer, everyday consumption began to feel unstable. Craft Beer Pioneer, Bill Owens, explained that “beer’s expensive, so I was brewing my own.” [^footnote12] While Owens was hoarding his supply of beer in his garage, Americans were dangerously storing gas in their garages and waiting for alternating days to buy gas corresponding to the odd or even numbers on their license plates. The oil crisis made Americans consider, and movements emerged, whether the issue revolved around overpopulation, economic systems, or consumption habits.
 
 ## Localism
 

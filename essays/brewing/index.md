@@ -57,7 +57,7 @@ For decades prior to the Craft Brewing Movement, the alternative brewing and cra
 
 [^footnote2]: John Harry, “Jimmy Carter: American Homebrew Hero?,” National Museum of American History , September 30, 2019, https://americanhistory.si.edu/explore/stories/jimmy-carter-american-homebrew-hero.
 
-{% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.[^footnote3]\"" %}
+{% include typography/pullquote.html text="\"Federal regulators were concerned about people using the brewing grain not for beer, but for moonshine… [which] was often toxic due to impure ingredients and clumsy—if not negligent distilling conditions—when prepared by amateurs, making it proved dangerous. By the 1960s, even with homebrewing’s continued illegality, homebrewing clubs sprang up around the country as hobbyists tried to make beer that was different from the American light lager that was so common at the time.\"" %} [^footnote3]
 
 [^footnote3]: John Harry, “Jimmy Carter: American Homebrew Hero?,” National Museum of American History , September 30, 2019, https://americanhistory.si.edu/explore/stories/jimmy-carter-american-homebrew-hero.
 
@@ -98,7 +98,7 @@ While no one actually ever paid the license fee, nor did anyone get fined or arr
 
 [^footnote11]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 10. https://doi.org/10.22371/02.2017.018. 
 
-[^footnote3]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 33. https://doi.org/10.22371/02.2017.018. 
+[^footnote12]: Patrick Walls, “Bill Owens: A US Craft Beer Pioneer, 1982 – 2001.” master’s thesis, University of San Diego, 2017, 33. https://doi.org/10.22371/02.2017.018. 
 
 ## Liberalizing the Lager
 
