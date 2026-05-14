@@ -28,7 +28,7 @@ tabs:
 
 Before craft beer was designated its own aisle in Whole Foods, it was a a rebellion brewed in garages, cellars, washing machines, and repurposed dairy tanks. Homebrewers did not yet have the recipes, equipment, nor the capital to compete with corporate breweries, yet hobbyists persisted. Within the same economic culture that neoliberalism emerged, an American consumer culture revolution was brewing. 
 
-This project analyzes the Craft Brewing Movement from the 1970s through the 1990s within the broader context of late twentieth-century neoliberalism, juxtaposed with localism, and shifting consumer cultures. 
+This project analyzes the Craft Brewing Movement from the 1970s through the 1990s within the broader context of late twentieth-century neoliberalism, juxtaposed with localism and shifting consumer cultures. 
 
 {% include typography/pullquote.html text="\"How did the Craft Beer Movement of the late 20th century resist mass consumption, homogenization, and corporate concentration and what does it reflect about American consumer culture, entrepreneurialism and identity? \"" %}
 
