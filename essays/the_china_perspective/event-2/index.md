@@ -65,7 +65,7 @@ A major point of reform in China by Mao Zedong was that of a revolution in the v
 
 {% include images/figure-wrap.html
   image-path="../images/signature.jpg"
-  image-position="left"
+  image-position="right"
   image-width="20%"
   caption="Sidney Rittenberg, the second American to achieve citizenship in Communist China and close associate of Mao, has his copy of the Little Red Book personally signed."
   text=signature_text
@@ -73,10 +73,10 @@ A major point of reform in China by Mao Zedong was that of a revolution in the v
 
 {% include images/figure-wrap.html
   image-path="../images/newton.jpg"
-  image-position="right"
+  image-position="left"
   image-width="20%"
   caption="Members of the Black Panthers raising their copy of the Little Red Book in protest to free Huey Newton."
-  text=signature_text
+  text=panthers_text
 %}
 
 {% capture punishment_text %}
