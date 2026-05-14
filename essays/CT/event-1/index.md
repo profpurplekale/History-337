@@ -1,9 +1,9 @@
 ---
 title: "Children's Television"
 layout: scrollstory-tabs
-header-image: essays/childrens_televison/images/images/70'sSS.jpeg
+header-image: essays/childrens_televison/images/images/Screenshot 2026-05-12 at 7.25.05 PM.png
 header-title: "Children's Televison"
-thumbnail: essays/childrens_televison/images/images/70'sSS.jpeg
+thumbnail: essays/childrens_televison/images/images/Screenshot 2026-05-12 at 7.25.05 PM.png
 summary: History of Children's Televison.
 tabs:
   - id: overview
@@ -38,7 +38,7 @@ Programs such as Schoolhouse Rock!, Mister Rogers' Neighborhood, and Free to Be 
 
 Schoolhouse Rock! was an educational musical program that aired on ABC from 1973 to 1985.
 
-INSERT VIDEO
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/5aYnNrTnXhk?si=YxfjTW99gnc2_KIR" title="The Great American Melting Pot| Schoolhouse Rock!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The central figure of the episode is Lady Liberty, who is portrayed as motherly domestic figure who opens up a cookbook to pick out a "recipe" for America. The episode frames the United States as a nation created by the blending of many different people and cultures by using cooking as a metaphor. The visual of Lady Liberty opening up the cookbook that shows the "ingredients" of America which is a list of different nationalities in alphabetical order such as Armenian, Africans, English, Dutch, etc. Another clip shows a wide array of people swimming in a pot like a pool. This imagery promotes the ideas of inclusion and a collective national identity that reflects the lingering influence of the civil rights movements and multicultural initiatives that expanded during the 1970's.
 

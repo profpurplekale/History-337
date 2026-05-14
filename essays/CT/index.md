@@ -1,9 +1,9 @@
 ---
 title: "Children's Television"
 layout: scrollstory-tabs
-header-image: essays/childrens_televison/images/images/70'sSS.jpeg
+header-image: essays/childrens_televison/images/images/oldtv.jpg
 header-title: "Children's Televison"
-thumbnail: essays/childrens_televison/images/images/70'sSS.jpeg
+thumbnail: essays/childrens_televison/images/images/oldtv.jpg
 summary: History of Children's Televison.
 tabs:
   - id: overview
@@ -26,7 +26,7 @@ tabs:
 
 # Overview of Children's Television
 
-As technology has developed over the past century, it has become a central part of childhood and an influential tool in children's development. Having been born in 2006, I have never know a world without technology. Growing up in the late 2000s to mid 2010's, I watched shows like Barney and Dinosaur Train on PBS kids, while I stayed with my grandparents,  I would watch spanish language programs like El Chavo Animido. My early experience is just a small example on how television can shape not only entertainment preferences but also language, identity, and how children begin to understand the world around them. 
+As technology has developed over the past century, it has become a central part of childhood and an influential tool in children's development. Having been born in 2006, I have never know a world without technology. Growing up in the late 2000s to mid 2010's, I watched shows like Barney and Dinosaur Train on PBS kids, while I stayed with my grandparents,  I would watch spanish language programs like El Chavo Animido. These experiences shaped my understanding of languag, culture, and identity. My own childhood experience reflects the broader influence televison has had on generations of children and demonstrates how media can shape ways children view the world around them. 
 
 
 INSERT ANN
