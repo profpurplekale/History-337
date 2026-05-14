@@ -26,7 +26,7 @@ tabs:
 
 # The Fall of Communism
 
-With the collapse of the USSR, and China already having gone through several major economic reforms, the overall narrative of the "Red Menace" steadily faded from American society, essentially disappearing entirely by the 21st century. But this didn't remove 
+With the collapse of the USSR, and China already having gone through several major economic reforms, the overall narrative of the "Red Menace" steadily faded from American society, essentially disappearing entirely by the 21st century. But this didn't remove China from the concerns of the United States, if anything it just boosted its spot on the list of the American government's concerns.
 
 ## Ancient History (7500 BCE – 1400 CE)
 
