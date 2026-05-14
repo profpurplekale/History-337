@@ -26,9 +26,21 @@ tabs:
 
 # Pre-Communist Influence
 
+{% capture new-year_text %}
 With regards to a lot of media depictions of China within America, one of the most important things to consider is that of China's lengthy history and the culture thereof. People within the United States for a long time prior to the World Wars would have a certain fascination in China's culture of the far-flung past, with figures like Benjamin Franklin and Thomas Jefferson having admiration of Confucian ideals of virtue and reward to personal merit. And such is the case with many American citizens as well, with a certain level of mystique dominating the mindset of many of those in the States, a rather cliché vision of a calm, calculating, exceedingly wise and esoteric figure.
 
-The Chinese and other similarly Asian migrant groups would also have to contend with the view of the "Model Minority". This was a view of the early-to-mid 1900s that still made a clear distinction between racial groups, but made the implication of Asians within American culture doing its due-dilligence to "properly assimilate" within the United States.[^source1] Combine that with elements of the "eastern exotic" with fancy imports of tea, silk, and porcelain, as well as more culturally impolite factors like the "Model Minority" and you get the overall view of "Oriental Mystery" that tends to be applied in
+The Chinese and other similarly Asian migrant groups would also have to contend with the view of the "Model Minority". This was a view of the early-to-mid 1900s that still made a clear distinction between racial groups, but made the implication of Asians within American culture doing its due-dilligence to "properly assimilate" within the United States.[^source1] Combine that with elements of the "eastern exotic" with fancy imports of tea, silk, and porcelain, as well as more culturally impolite factors like the "Model Minority" and you get the overall view of "Oriental Mystery" that tends to be applied towards anything regarding South-East Asia behind the lens of American media.
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/new-year.jpg"
+  image-position="middle"
+  image-width="40%"
+  caption="Chinese American performers carring a red and gold dragon while celebrating the Chinese New Year."
+  text=new-year_text
+%}
+
+In a rather paradoxical fashion, there would also be the stereotype of the "perpetual foreigner", an idea that posits that, regardless of citizenship or birth nation, views Asian-Americans as this generalized other that can never fully assimilate into American society. With this is carried the assumption that any Asian-American could potentially hold stronger loyalties to their ancestral homeland rather than to the United States, potentially working as a foreign operative. It was this sort of idea that resulted in major civil upsets like the internment of Japanese-Americans with the outbreak of World War Two.
 
 [^source1]:Lee, Robert G. “Orientals: Asian Americans in Popular Culture”. Philadelphia: Temple University Press, 1999. Pg. 145-146.
 
