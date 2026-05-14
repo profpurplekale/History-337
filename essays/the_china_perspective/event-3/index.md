@@ -35,7 +35,7 @@ China had been involved in spy activity with the United States in some form or a
 In 1999, an incident would occur with a scientist working at the Los Alamos National Laboratory, with the U.S. government suspecting scientist Wen Ho Lee of stealing critical American nulcear secrets for the purpose of selling or otherwise providing to China, and would be detained for government trial. It would turn out that the government had wrongfully accused Lee of these actions, and after nine months of solitary confinement the government's case against Lee would falter, and he would pleed guilty to lesser charges of merely mis-handline sensitive information, resulting in the following fifty-eight felony charges being dropped and Wen Ho Lee being released.[^source8] The Federal District Judge in the trial James A. Parker would personally apologize to Lee, stating his belief of the government mis-using the court in this regard.
 
 {% include images/figure-wrap.html
-  image-path="../images/incident.jpg"
+  image-path="../images/incident.jpeg"
   image-position="left"
   image-width="40%"
   caption="Wen Ho Lee being led by FBI agents after his arrest for the charges under suspicion of downloading and distributing classified material."
