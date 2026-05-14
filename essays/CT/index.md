@@ -28,13 +28,7 @@ tabs:
 
 As technology has developed over the past century, it has become a central part of childhood and an influential tool in children's development. Having been born in 2006, I have never know a world without technology. Growing up in the late 2000s to mid 2010's, I watched shows like Barney and Dinosaur Train on PBS kids, while I stayed with my grandparents,  I would watch spanish language programs like El Chavo Animido. My early experience is just a small example on how television can shape not only entertainment preferences but also language, identity, and how children begin to understand the world around them. 
 
-{% include images/!(../childrens_televison/images/images/dinotrain.png)
-  class="center"
-  width="60%"
-  caption="What a nice view"
-  alt-text="Hiking trails winding through a canyon in the Sandia foothills."
-  image-path="/assets/images/backgrounds/hike-1.jpg"
-%}
+
 INSERT ANN
 
 Whether some parents like it or not, technology-especially television-has become a fundemental part of a modern childhood. Some people think of children's television as simple entertainment with colorful characters. However, children's television has not always been designed for solely that purpose. It serves more than just enetrtainment; it acts as a tool that helps children learn, form opinions, and interpret their surroundings. INSERT IMAGE

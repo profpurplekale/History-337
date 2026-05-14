@@ -26,18 +26,11 @@ tabs:
 
 #  1990s - Present: Children's Television After Deregulation - Finding Balance
 
-Concerns on effects of deregulation lead to the passage of Children's television act of 1990 -- expand . INSERT IMAGE somehwere TT
+Concerns on effects of deregulation lead to the passage of Children's television act of 1990 -- expand 
+## Programs in the 90's
 
-## Programs in the 70's
+Programs such as Reading Rainbow aimed to fix the deregulation from the 80s..
 
-Programs ... FIX IMAGE
-{% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
-  image-position="left"
-  image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
-  text=chile_origins_text
-%}
 
 Law attempted to restore balance between commercial and public service interest but media landscape had already changed as commercialization continued to remain deeply embedded in children's television.
 ### Impact 
