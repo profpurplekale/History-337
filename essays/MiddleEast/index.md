@@ -4,7 +4,7 @@ layout: scrollstory-tabs
 header-image: images/Middle_East_Map.jpg
 header-title: "The Middle East in American Media: How Western Portayal Created a Cultural Enemy"
 thumbnail: images/Middle_East_Map.jpg
-summary: A history of McCarthyism from the Second Red Scare to the intervention of the Warren Court.
+summary: 
 tabs:
   - id: overview
     label: Overview
