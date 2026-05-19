@@ -37,7 +37,7 @@ Before the 1960s, most societal beauty standards for women centered on white wom
 
 
 {% include images/figure-wrap.html
-  image-path="images/black-is-beautiful.jpg"
+  image-path="../images/black-is-beautiful.jpg"
   image-position="right"
   image-width="48%"
   caption="Untitled (Pat on Car), 1968. Credit... Kwame Brathwaite/Courtesy of Philip Martin Gallery, Los Angeles"
@@ -54,7 +54,7 @@ Before the 1960s, most societal beauty standards for women centered on white wom
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/twiggy-vogue-1967.jpg"
+  image-path="../images/twiggy-vogue-1967.jpg"
   image-position="left"
   image-width="48%"
   caption="Twiggy on the cover of Vogue, 1967"
@@ -62,9 +62,9 @@ Before the 1960s, most societal beauty standards for women centered on white wom
 %}
 
 
-[^source5]: Carter, Ilise S. 2021. The Red Menace: How Lipstick Changed the Face of American History. Lanham, Md: Prometheus Books. file:///C:/Users/breev/Downloads/_OceanofPDF.com_The_Red_Menace_-_Ilise_S_Carter.pdf.
-[^source6]: Judith, C.C., and N. Hazelton. 1960. “Woman’s Day BEAUTY BOOK Part III: Paint a Pretty Portrait with Make-Up.” Women’s Day, March 1960. https://libproxy.unm.edu/login?url=https://www.proquest.com/magazines/womans-day-beauty-book-part-iii/docview/1821761024/se-2.
-[^source7]: Saner, Emine. 2020. “Twiggy: ‘I Don’t Think High Fashion Will Ever Move Completely Away from Slimness.’” The Guardian, May 12, 2020, sec. Fashion. https://www.theguardian.com/fashion/2020/may/12/twiggy-i-dont-think-high-fashion-will-ever-move-completely-away-from-slimness.
+[^source5]: Carter, Ilise S. 2021. The Red Menace: How Lipstick Changed the Face of American History. Lanham, Md: Prometheus Books. 
+[^source6]: Judith, C.C., and N. Hazelton. 1960. “Woman’s Day BEAUTY BOOK Part III: Paint a Pretty Portrait with Make-Up.” Women’s Day, March 1960. 
+[^source7]: Saner, Emine. 2020. “Twiggy: ‘I Don’t Think High Fashion Will Ever Move Completely Away from Slimness.’” The Guardian, May 12, 2020, sec. Fashion. 
 
 ## Conclusion
 
