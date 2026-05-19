@@ -35,7 +35,7 @@ By the time the 1980s rolled around, fashion and beauty had changed once again f
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/madonna.jpg"
+  image-path="../images/madonna.jpg"
   image-position="right"
   image-width="48%"
   caption="Madonna in one of her iconic outfits of the 80s"
@@ -58,7 +58,7 @@ In the 90s, away was the yuppie and in came the grungy Riot Grrls. Grunge was al
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/grunge-and-glory.jpg"
+  image-path="../images/grunge-and-glory.jpg"
   image-position="left"
   image-width="48%"
   caption="Vogue, December 1992"
@@ -77,7 +77,7 @@ Around this time, as well, drag emerged on a bigger platform than ever, and the 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/rupaul-viva-glam.jpg"
+  image-path="../images/rupaul-viva-glam.jpg"
   image-position="left"
   image-width="48%"
   caption="RuPaul, MAC Viva Glam Campaign, 1993"
@@ -95,7 +95,7 @@ The 80s and 90s, while appearing very different on the surface, were more simila
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/courtney-love.jpg"
+  image-path="../images/courtney-love.jpg"
   image-position="left"
   image-width="48%"
   caption="Courtney Love embodying Riot Grrrl Fashion"
