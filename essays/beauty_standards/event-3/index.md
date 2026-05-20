@@ -33,7 +33,7 @@ With the turn of the millennium, beauty standards in terms of bodies stayed rela
 Makeup was where the era saw the most change; however, as colors were more popular than ever, from frosted eyeshadow to glossy lips. This is in stark contrast to earlier years that focused on pinks and reds in terms of lipstick and eyeshadow; this was the era of makeup embracing the fun self-expression seen in the 60s and the bright colors of the 80s. Vogue magazine, as seen in the image to the right, also noted this similarity, encouraging readers to embrace it.
 
 {% include images/figure-wrap.html
-  image-path="../images/vogue-march-2000"
+  image-path="../images/vogue-march-2000.jpg"
   image-position="right"
   image-width="48%"
   caption="The Cover of Vogue, March 2000"
@@ -45,7 +45,7 @@ Makeup was where the era saw the most change; however, as colors were more popul
 In 2010, with social media becoming more prominent in people’s lives, makeup changed again. YouTubers posting makeup tutorials began to go viral, and people began to imitate the looks they saw online. One of the first makeup tutorials to ever be posted on YouTube to gain a significant amount of traction was likely Makeup Lessons - LOOK HOT in 5 Minutes or Less… uploaded by Adrienne K. Hickman. While basic, this video was still the beginning of a major motion in social media. Now, there are over a million makeup tutorials, and some people are launching major careers off of their videos. One such person is Nikki De Jager, better known online as NikkiTutorials. She has collaborated with major makeup brands and is still someone actively posting tutorials and reviews today. 
 
 {% include images/figure-wrap.html
-  image-path="../images/kylie-jenner"
+  image-path="../images/kylie-jenner.jpg"
   image-position="left"
   image-width="48%"
   caption="Kylie Jenner, Instagram 2016"
@@ -70,7 +70,7 @@ Now, in our post-COVID-19 world, makeup is more expensive than ever. As stated p
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="../images/trad-wife-people-magazine"
+  image-path="../images/trad-wife-people-magazine.jpg"
   image-position="right"
   image-width="48%"
   caption="An image from an article of People Magazine"
